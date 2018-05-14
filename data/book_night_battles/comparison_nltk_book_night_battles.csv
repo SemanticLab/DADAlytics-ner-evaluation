@@ -14,9 +14,9 @@ loc,Brazzano,exact,,Brazzano,true,
 per,Pietro Rotaro,exact,,Pietro Rotaro,true,
 loc,Iassico,exact,,Iassico,true,
 per,Paolo Gasparutto,exact,,Paolo Gasparutto,true,
-per,Sgabarizza,exact,partial,Sgabarizza,,
-per,Gasparutto,exact,partial,Gasparutto,true,
-misc,Ember Days,exact,partial,Ember Days,,event
+per,Sgabarizza,exact,,Sgabarizza,,
+per,Gasparutto,exact,,Gasparutto,true,
+misc,Ember Days,exact,,Ember Days,,event
 loc,Cormons,exact,,Cormons,,
 loc,Verona,exact,,Verona,true,
 loc,Cividale,exact,,Cividale,true,
@@ -27,33 +27,33 @@ date,7 April,exact,,7 April,,
 org,Holy Office,exact,,Holy Office,true,
 misc,Mass,,partial,Masses,,event
 lolc,Iudri,,,,,
-per,Rotaro,exact,partial,Rotaro,true,
-per,Paolo,exact,partial,Paolo,true,
+per,Rotaro,exact,,Rotaro,true,
+per,Paolo,exact,,Paolo,true,
 loc,Gradisca,exact,,Gradisca,true,
-misc,Thursday,exact,partial,Thursday,,day
+misc,Thursday,exact,,Thursday,,day
 per,Battista Moduco,exact,,Battista Moduco,true,
 misc,benandante,,,,,germain to subject of text
 misc,Thursdays,exact,,Thursdays,,day
 per,Troiano ,,partial,Troiano de'Attimis,,
 loc,Attimis,,partial,Troiano de'Attimis,,
 per,Maracco,exact,,Maracco,,
-per,Giulio,exact,partial,Giulio,true,
+per,Giulio,exact,,Giulio,true,
 date,27 June 1580,,,,,
 per,Fra Felice,exact,,Fra Felice,true,
 loc,Montefalco,exact,,Montefalco,true,
 per,God,exact,,God,true,
 per,Gamba Securta,,,,,
 loc,Trivignano,exact,,Trivignano,,
-per,Moduco,exact,partial,Moduco,,
+per,Moduco,exact,,Moduco,,
 per,Christ,exact,,Christ,,
 loc,Cologne ,,,,,
-loc,Azzano,exact,partial,Azzano,true,
+loc,Azzano,exact,,Azzano,true,
 loc,Cirghinis,exact,,Cirghinis,,
 misc,Inquisition,exact,,Inquisition,,event
 date,28 June,exact,,28 June,,
 loc,Vicenza,exact,,Vicenza,true,
 per,Baptista Vicentino ,,,,,
-misc,Christmas,exact,partial,Christmas,,event
+misc,Christmas,exact,,Christmas,,event
 misc,Rogation Days,exact,,Rogation Days,,event
 loc,Chiana,exact,,Chiana,true,
 loc,Capodistria,,,,,
@@ -84,7 +84,7 @@ org,Venetian Holy Office,exact,,Venetian Holy Office,true,
 date,1591,exact,,1591,,
 misc,Gospels,,partial,Gospels I,,name of work
 loc,Palmanova,exact,,Palmanova,true,
-per,Menica,exact,partial,Menica,,
+per,Menica,exact,,Menica,,
 per,Maria Panzona,exact,,Maria Panzona,true,
 per,Margherita,,partial,Margherita of San Rocco,,
 loc,San Rocco,,partial,Margherita of San Rocco,,
@@ -120,7 +120,7 @@ per,Niccoli Pellizzaro,,,,,
 loc,Carnia,exact,,Carnia,true,
 date,1595,,,,,
 misc,Epiphany,exact,,Epiphany,,event
-per,Pellizzaro,exact,partial,Pellizzaro,,
+per,Pellizzaro,exact,,Pellizzaro,,
 per,Bartolomeo Sgabarizza,,partial,Don Bartolomeo Sgabarizza,,
 misc,Winter,exact,,Winter,,season
 misc,Summer,exact,,Summer,,season

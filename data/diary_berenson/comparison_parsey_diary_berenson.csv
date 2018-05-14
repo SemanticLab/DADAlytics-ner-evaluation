@@ -3,7 +3,7 @@ per,Mary Whitall Berenson,exact,,Mary Whitall Berenson,,
 loc,I Tatti,,,,,
 loc,Settignano,,partial,Tatti Settignano,,
 loc,Florence,,partial,Florence Trip,,
-loc,America,exact,partial,America,,
+loc,America,exact,,America,,
 date,September 1930,,,,,
 misc,R.M.S. Majestic,,,,,name of ship
 misc,White Star,exact,,White Star,,name of ship
@@ -132,7 +132,7 @@ loc,Art Museum,exact,,Art Museum,,
 misc,curator,,partial,Curator Chalfin,,professional title
 per,Chaflin,,,,,
 date,1250,,,,,
-loc,Museum,exact,partial,Museum,,
+loc,Museum,exact,,Museum,,
 per,Gerricke,,partial,Gerricke9,,
 loc,Jordan Hall,exact,,Jordan Hall,,
 loc,Conservatory Building,,,,,

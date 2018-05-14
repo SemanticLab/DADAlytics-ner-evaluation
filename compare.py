@@ -45,6 +45,9 @@ for directory in glob.glob('data/*'):
 						markup_entity['exactMatch'] = 'exact'
 						markup_entity['matchValue'] = ner_data[ner_entity]['text']
 
+						if partial_match:
+							markup_entity['partialMatch'] = ''
+
 						if 'typeMode' in ner_data[ner_entity]:
 							if markup_entity['type'] in ner_data[ner_entity]['typeMode']:
 								markup_entity['typeMatch'] = 'true'
