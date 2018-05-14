@@ -1,0 +1,1765 @@
+{
+  "3000": {
+    "text": "3000",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Florence": {
+    "text": "Florence",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "America": {
+    "text": "America",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "England": {
+    "text": "England",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Newport": {
+    "text": "Newport",
+    "type": [
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "New York": {
+    "text": "New York",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Liberia": {
+    "text": "Liberia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Spain": {
+    "text": "Spain",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Oyster Cocktail": {
+    "text": "Oyster Cocktail",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "September 1903": {
+    "text": "September 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Wednesday": {
+    "text": "Wednesday",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Sept. 30, 1903": {
+    "text": "Sept. 30, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Thursday": {
+    "text": "Thursday",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 8, 1903": {
+    "text": "Oct. 8, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Friday": {
+    "text": "Friday",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 9, 1903": {
+    "text": "Oct. 9, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Saturday": {
+    "text": "Saturday",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 10, 1903": {
+    "text": "Oct. 10, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Mary Berenson": {
+    "text": "Mary Berenson",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Mary Whitall Berenson": {
+    "text": "Mary Whitall Berenson",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Settignano": {
+    "text": "Settignano",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "M. S. Majestic": {
+    "text": "M. S. Majestic",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Turner": {
+    "text": "Turner",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Bernhard": {
+    "text": "Bernhard",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per",
+      "org"
+    ]
+  },
+  "R. I.": {
+    "text": "R. I.",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Edith": {
+    "text": "Edith",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Davis": {
+    "text": "Davis",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Terence Bourke": {
+    "text": "Terence Bourke",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "this morning": {
+    "text": "this morning",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "afternoon": {
+    "text": "afternoon",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Europe": {
+    "text": "Europe",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Tricca": {
+    "text": "Tricca",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Logan": {
+    "text": "Logan",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Boston": {
+    "text": "Boston",
+    "type": [
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Egypt": {
+    "text": "Egypt",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Dorchester": {
+    "text": "Dorchester",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Cambridge": {
+    "text": "Cambridge",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Beverly": {
+    "text": "Beverly",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Marquette": {
+    "text": "Marquette",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Tomb of Totmes": {
+    "text": "Tomb of Totmes",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Willowbrook Cottage": {
+    "text": "Willowbrook Cottage",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Sunday": {
+    "text": "Sunday",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 11, 1903": {
+    "text": "Oct. 11, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Monday": {
+    "text": "Monday",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 12, 1903": {
+    "text": "Oct. 12, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Tuesday": {
+    "text": "Tuesday",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 13, 1903": {
+    "text": "Oct. 13, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 14, 1903": {
+    "text": "Oct. 14, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 15, 1903": {
+    "text": "Oct. 15, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 16, 1903": {
+    "text": "Oct. 16, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "$10,000": {
+    "text": "$10,000",
+    "type": [
+      "money"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "money"
+    ]
+  },
+  "$250 dollars": {
+    "text": "$250 dollars",
+    "type": [
+      "money"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "money"
+    ]
+  },
+  "Andrews": {
+    "text": "Andrews",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "J. Gordon Kugler": {
+    "text": "J. Gordon Kugler",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Sophy Buffum": {
+    "text": "Sophy Buffum",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Gibson": {
+    "text": "Gibson",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Leonardo": {
+    "text": "Leonardo",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Longyear": {
+    "text": "Longyear",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Coates": {
+    "text": "Coates",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Berevin?s": {
+    "text": "Berevin?s",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Taylor?s": {
+    "text": "Taylor?s",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Winty": {
+    "text": "Winty",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Queen Hatasu": {
+    "text": "Queen Hatasu",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Rachel": {
+    "text": "Rachel",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Santayana": {
+    "text": "Santayana",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Leslie Hopkinson": {
+    "text": "Leslie Hopkinson",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Andrew": {
+    "text": "Andrew",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Gertrude": {
+    "text": "Gertrude",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Tyler": {
+    "text": "Tyler",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Fleischer": {
+    "text": "Fleischer",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Hinda Coen": {
+    "text": "Hinda Coen",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "James": {
+    "text": "James",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "evening": {
+    "text": "evening",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "morning": {
+    "text": "morning",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "early morning": {
+    "text": "early morning",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "1250": {
+    "text": "1250",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Brookline": {
+    "text": "Brookline",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Tschaikowski": {
+    "text": "Tschaikowski",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Lakewood": {
+    "text": "Lakewood",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Eroica": {
+    "text": "Eroica",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Virginia": {
+    "text": "Virginia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Green Hill": {
+    "text": "Green Hill",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "the Country Club": {
+    "text": "the Country Club",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Bates Hall": {
+    "text": "Bates Hall",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Denman": {
+    "text": "Denman",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Oct. 17, 1903": {
+    "text": "Oct. 17, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 18, 1903": {
+    "text": "Oct. 18, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 19, 1903": {
+    "text": "Oct. 19, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 20, 1903": {
+    "text": "Oct. 20, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 21, 1903": {
+    "text": "Oct. 21, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Oct. 22, 1903": {
+    "text": "Oct. 22, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Jack Gardner": {
+    "text": "Jack Gardner",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Bruneau": {
+    "text": "Bruneau",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Brahms": {
+    "text": "Brahms",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Sarah Whitman": {
+    "text": "Sarah Whitman",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Josiah Royce": {
+    "text": "Josiah Royce",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "George Moore": {
+    "text": "George Moore",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Parkman": {
+    "text": "Parkman",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Higginson": {
+    "text": "Higginson",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Gardner": {
+    "text": "Gardner",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Dwight": {
+    "text": "Dwight",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Swift": {
+    "text": "Swift",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Strong": {
+    "text": "Strong",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Proctor": {
+    "text": "Proctor",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Ellen Hale": {
+    "text": "Ellen Hale",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Edward Everett Hale": {
+    "text": "Edward Everett Hale",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Clayton Johns": {
+    "text": "Clayton Johns",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Helen Hopekirk": {
+    "text": "Helen Hopekirk",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Wilson": {
+    "text": "Wilson",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Chalfin": {
+    "text": "Chalfin",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Jordan Hall": {
+    "text": "Jordan Hall",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Bach": {
+    "text": "Bach",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Schumann": {
+    "text": "Schumann",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Chaplin": {
+    "text": "Chaplin",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Lang": {
+    "text": "Lang",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "T. H. Perry": {
+    "text": "T. H. Perry",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Sargeant": {
+    "text": "Sargeant",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Franklin Park": {
+    "text": "Franklin Park",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Owen Wister?s": {
+    "text": "Owen Wister?s",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Dunstan Farnum": {
+    "text": "Dunstan Farnum",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Webster": {
+    "text": "Webster",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Ross": {
+    "text": "Ross",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Theodore Dwight": {
+    "text": "Theodore Dwight",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Owen Wister": {
+    "text": "Owen Wister",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  }
+}

@@ -1,0 +1,1202 @@
+{
+  "1945": {
+    "text": "1945",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1974": {
+    "text": "1974",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1983": {
+    "text": "1983",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1989": {
+    "text": "1989",
+    "type": [
+      "date",
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2009": {
+    "text": "2009",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2014": {
+    "text": "2014",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "China": {
+    "text": "China",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Tiananmen Square": {
+    "text": "Tiananmen Square",
+    "type": [
+      "loc",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Betty Beaumont": {
+    "text": "Betty Beaumont",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Sofia Zezmer": {
+    "text": "Sofia Zezmer",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "SoHo": {
+    "text": "SoHo",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Argentina": {
+    "text": "Argentina",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Sweden": {
+    "text": "Sweden",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Britain": {
+    "text": "Britain",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Italy": {
+    "text": "Italy",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "France": {
+    "text": "France",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Greece": {
+    "text": "Greece",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Japan": {
+    "text": "Japan",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Korea": {
+    "text": "Korea",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Asia": {
+    "text": "Asia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Pearl River Mart": {
+    "text": "Pearl River Mart",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Whitebox Art Center": {
+    "text": "Whitebox Art Center",
+    "type": [
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Asian American Arts Centre": {
+    "text": "Asian American Arts Centre",
+    "type": [
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Lotus": {
+    "text": "Lotus",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Edgar Heap of Birds": {
+    "text": "Edgar Heap of Birds",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Zhang Hongtu": {
+    "text": "Zhang Hongtu",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "LIC": {
+    "text": "LIC",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Tiananmen Mothers": {
+    "text": "Tiananmen Mothers",
+    "type": [
+      "org",
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "HRIC": {
+    "text": "HRIC",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Tiananmen Square Massacre": {
+    "text": "Tiananmen Square Massacre",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "AAAC": {
+    "text": "AAAC",
+    "type": [
+      "org",
+      "org",
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Lower East Side": {
+    "text": "Lower East Side",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "American Arts Centre Inc.": {
+    "text": "American Arts Centre Inc.",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Paul Foundation": {
+    "text": "Paul Foundation",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Manhattan Mini Storage/Edison Properties Inc.": {
+    "text": "Manhattan Mini Storage/Edison Properties Inc.",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "New York Cosmopolitan Lions Club": {
+    "text": "New York Cosmopolitan Lions Club",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Wing Tek Lum": {
+    "text": "Wing Tek Lum",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "May 22, 2014": {
+    "text": "May 22, 2014",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "June 4, 1989": {
+    "text": "June 4, 1989",
+    "type": [
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "June 1st": {
+    "text": "June 1st",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Sunday": {
+    "text": "Sunday",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "June 1": {
+    "text": "June 1",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Tuesday": {
+    "text": "Tuesday",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "June 10": {
+    "text": "June 10",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "June 1st through June 10th": {
+    "text": "June 1st through June 10th",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "May Jew": {
+    "text": "May Jew",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Robert Lee": {
+    "text": "Robert Lee",
+    "type": [
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Vito Acconci": {
+    "text": "Vito Acconci",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Luis Cruz Azaceta": {
+    "text": "Luis Cruz Azaceta",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Luis Camnitzer": {
+    "text": "Luis Camnitzer",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Mel Chin": {
+    "text": "Mel Chin",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Agnes Denes": {
+    "text": "Agnes Denes",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "John Duff": {
+    "text": "John Duff",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Leon Golub": {
+    "text": "Leon Golub",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Billy Harlem": {
+    "text": "Billy Harlem",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Kunio Izuka": {
+    "text": "Kunio Izuka",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Ik Joong Kang": {
+    "text": "Ik Joong Kang",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Barbara Kruger": {
+    "text": "Barbara Kruger",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Donald Lipski": {
+    "text": "Donald Lipski",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Kenneth Noland": {
+    "text": "Kenneth Noland",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Lilliana Porter": {
+    "text": "Lilliana Porter",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Rumiko Tsuda/Daniel Georges": {
+    "text": "Rumiko Tsuda/Daniel Georges",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Dolly Unithan": {
+    "text": "Dolly Unithan",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Martin Wong": {
+    "text": "Martin Wong",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Blum Helman Warehouse": {
+    "text": "Blum Helman Warehouse",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Jody": {
+    "text": "Jody",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "John Arnhold": {
+    "text": "John Arnhold",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Germane Wong": {
+    "text": "Germane Wong",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "John Yu": {
+    "text": "John Yu",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Fay Torres Yap": {
+    "text": "Fay Torres Yap",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Charles Yuen": {
+    "text": "Charles Yuen",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Susan Switzer/Daniel Orlow": {
+    "text": "Susan Switzer/Daniel Orlow",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Norma Tam": {
+    "text": "Norma Tam",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Jeanne Lee Jackson": {
+    "text": "Jeanne Lee Jackson",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Edward Ma": {
+    "text": "Edward Ma",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Dennis Donohue": {
+    "text": "Dennis Donohue",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Pam Lee & Tom Chin": {
+    "text": "Pam Lee & Tom Chin",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Roudy Leath": {
+    "text": "Roudy Leath",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Wing Lee Yee": {
+    "text": "Wing Lee Yee",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Paul O\u2019Neill": {
+    "text": "Paul O\u2019Neill",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Liz Young": {
+    "text": "Liz Young",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Arthur Neis": {
+    "text": "Arthur Neis",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Richard Kenny Esq": {
+    "text": "Richard Kenny Esq",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Aleta Lee": {
+    "text": "Aleta Lee",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  }
+}

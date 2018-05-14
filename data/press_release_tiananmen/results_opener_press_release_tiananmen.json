@@ -1,0 +1,1248 @@
+{
+  "Robert Lee May": {
+    "text": "Robert Lee May",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Asian American Arts Centre Presents China": {
+    "text": "Asian American Arts Centre Presents China",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Tiananmen Square": {
+    "text": "Tiananmen Square",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Art Center": {
+    "text": "Art Center",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Broome Street": {
+    "text": "Broome Street",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "NY": {
+    "text": "NY",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Whitebox Art Center": {
+    "text": "Whitebox Art Center",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Asian American Arts Centre": {
+    "text": "Asian American Arts Centre",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "China": {
+    "text": "China",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Robert Lee": {
+    "text": "Robert Lee",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Vito Acconci": {
+    "text": "Vito Acconci",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Luis Cruz Azaceta": {
+    "text": "Luis Cruz Azaceta",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Betty Beaumont": {
+    "text": "Betty Beaumont",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Luis Camnitzer": {
+    "text": "Luis Camnitzer",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Mel Chin": {
+    "text": "Mel Chin",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Agnes Denes": {
+    "text": "Agnes Denes",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Lotus Do": {
+    "text": "Lotus Do",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "John Duff": {
+    "text": "John Duff",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Leon Golub": {
+    "text": "Leon Golub",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Billy Harlem": {
+    "text": "Billy Harlem",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Edgar Heap": {
+    "text": "Edgar Heap",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Birds": {
+    "text": "Birds",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Kunio Izuka": {
+    "text": "Kunio Izuka",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Ik Joong Kang": {
+    "text": "Ik Joong Kang",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Barbara Kruger": {
+    "text": "Barbara Kruger",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Donald Lipski": {
+    "text": "Donald Lipski",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Kenneth Noland": {
+    "text": "Kenneth Noland",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Lilliana Porter": {
+    "text": "Lilliana Porter",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Rumiko Tsuda": {
+    "text": "Rumiko Tsuda",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Daniel Georges": {
+    "text": "Daniel Georges",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Dolly Unithan": {
+    "text": "Dolly Unithan",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Martin Wong": {
+    "text": "Martin Wong",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Sofia Zezmer": {
+    "text": "Sofia Zezmer",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Zhang Hongtu": {
+    "text": "Zhang Hongtu",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Chinese": {
+    "text": "Chinese",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Blum Helman Warehouse": {
+    "text": "Blum Helman Warehouse",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "SoHo": {
+    "text": "SoHo",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Argentina": {
+    "text": "Argentina",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Sweden": {
+    "text": "Sweden",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Britain": {
+    "text": "Britain",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Italy": {
+    "text": "Italy",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "France": {
+    "text": "France",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Greece": {
+    "text": "Greece",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Japan": {
+    "text": "Japan",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Korea": {
+    "text": "Korea",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "American": {
+    "text": "American",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Justice": {
+    "text": "Justice",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Human Rights In China": {
+    "text": "Human Rights In China",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Tiananmen Mothers": {
+    "text": "Tiananmen Mothers",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "HRIC": {
+    "text": "HRIC",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Tiananmen Square Massacre": {
+    "text": "Tiananmen Square Massacre",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "AAAC": {
+    "text": "AAAC",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Lower East Side": {
+    "text": "Lower East Side",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Asia": {
+    "text": "Asia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Visual Art Exhibition": {
+    "text": "Visual Art Exhibition",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "AAAC Artists Archive": {
+    "text": "AAAC Artists Archive",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Asian American": {
+    "text": "Asian American",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Asian American Arts Centre Inc": {
+    "text": "Asian American Arts Centre Inc",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Bay and Paul Foundation": {
+    "text": "Bay and Paul Foundation",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Asian Americans For Equality and Manhattan Mini Storage": {
+    "text": "Asian Americans For Equality and Manhattan Mini Storage",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Edison Properties Inc.": {
+    "text": "Edison Properties Inc.",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Pearl River Mart": {
+    "text": "Pearl River Mart",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "New York Cosmopolitan Lions Club": {
+    "text": "New York Cosmopolitan Lions Club",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Arts": {
+    "text": "Arts",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Tek Lum": {
+    "text": "Tek Lum",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "John Arnhold": {
+    "text": "John Arnhold",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Germane Wong": {
+    "text": "Germane Wong",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "John Yu": {
+    "text": "John Yu",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Fay Torres Yap": {
+    "text": "Fay Torres Yap",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Charles Yuen": {
+    "text": "Charles Yuen",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Susan Switzer": {
+    "text": "Susan Switzer",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Daniel Orlow": {
+    "text": "Daniel Orlow",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Norma Tam": {
+    "text": "Norma Tam",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Jeanne Lee Jackson": {
+    "text": "Jeanne Lee Jackson",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Edward Ma": {
+    "text": "Edward Ma",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Dennis Donohue": {
+    "text": "Dennis Donohue",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "May Jew": {
+    "text": "May Jew",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Pam Lee": {
+    "text": "Pam Lee",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Tom Chin": {
+    "text": "Tom Chin",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Roudy Leath": {
+    "text": "Roudy Leath",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Lee Yee": {
+    "text": "Lee Yee",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Paul O": {
+    "text": "Paul O",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Liz Young": {
+    "text": "Liz Young",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Arthur Neis": {
+    "text": "Arthur Neis",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Richard Kenny Esq": {
+    "text": "Richard Kenny Esq",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Executive Director": {
+    "text": "Executive Director",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Aleta Lee": {
+    "text": "Aleta Lee",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Marketing Consultant": {
+    "text": "Marketing Consultant",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  }
+}

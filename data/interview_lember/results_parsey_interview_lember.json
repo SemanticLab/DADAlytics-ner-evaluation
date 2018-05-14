@@ -1,0 +1,947 @@
+{
+  "Carnegie Hall": {
+    "text": "Carnegie Hall",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "New York": {
+    "text": "New York",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Liza Minnelli": {
+    "text": "Liza Minnelli",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Germany": {
+    "text": "Germany",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Were": {
+    "text": "Were",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Liza": {
+    "text": "Liza",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Mahler": {
+    "text": "Mahler",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Thomas Quasthoff": {
+    "text": "Thomas Quasthoff",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Jarrett": {
+    "text": "Jarrett",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Austria": {
+    "text": "Austria",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Reinhardt": {
+    "text": "Reinhardt",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Lloyd": {
+    "text": "Lloyd",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Cats": {
+    "text": "Cats",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Berlin": {
+    "text": "Berlin",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Peter Pan": {
+    "text": "Peter Pan",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Guys": {
+    "text": "Guys",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Kurt Weill": {
+    "text": "Kurt Weill",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Blue Angel": {
+    "text": "Blue Angel",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Chekhov": {
+    "text": "Chekhov",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Ibsen": {
+    "text": "Ibsen",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Strindberg": {
+    "text": "Strindberg",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Berthold Brecht": {
+    "text": "Berthold Brecht",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Nazis": {
+    "text": "Nazis",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "French": {
+    "text": "French",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "America": {
+    "text": "America",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Weill": {
+    "text": "Weill",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Sins": {
+    "text": "Sins",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Weill Brecht": {
+    "text": "Weill Brecht",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Astor Piazzolla": {
+    "text": "Astor Piazzolla",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Brecht": {
+    "text": "Brecht",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Paris": {
+    "text": "Paris",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Champs Elysees": {
+    "text": "Champs Elysees",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Anna": {
+    "text": "Anna",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Lotte Lenya": {
+    "text": "Lotte Lenya",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Anna II": {
+    "text": "Anna II",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "United States": {
+    "text": "United States",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Marxist": {
+    "text": "Marxist",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Hollywood": {
+    "text": "Hollywood",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Seven Deadly Sins": {
+    "text": "Seven Deadly Sins",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Indians": {
+    "text": "Indians",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Louisianna": {
+    "text": "Louisianna",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Nevada": {
+    "text": "Nevada",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Ive": {
+    "text": "Ive",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Cold War": {
+    "text": "Cold War",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "East": {
+    "text": "East",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "West": {
+    "text": "West",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Berlin New": {
+    "text": "Berlin New",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Labor Day": {
+    "text": "Labor Day",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Fox Apache": {
+    "text": "Fox Apache",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Nomad": {
+    "text": "Nomad",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Middle East": {
+    "text": "Middle East",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Torah": {
+    "text": "Torah",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Pink Floyd": {
+    "text": "Pink Floyd",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Dire Straits": {
+    "text": "Dire Straits",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Bob Dylan": {
+    "text": "Bob Dylan",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Billy Joel": {
+    "text": "Billy Joel",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Stevie": {
+    "text": "Stevie",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Britain": {
+    "text": "Britain",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Fitzgerald": {
+    "text": "Fitzgerald",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Cole Porter": {
+    "text": "Cole Porter",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Duke Ellington": {
+    "text": "Duke Ellington",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "German": {
+    "text": "German",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Marx": {
+    "text": "Marx",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Martin Luther King": {
+    "text": "Martin Luther King",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Communist": {
+    "text": "Communist",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Hitler": {
+    "text": "Hitler",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Aryans": {
+    "text": "Aryans",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Eisler": {
+    "text": "Eisler",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Mitterling": {
+    "text": "Mitterling",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Hollaender": {
+    "text": "Hollaender",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Spoliansky": {
+    "text": "Spoliansky",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "I": {
+    "text": "I",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "England": {
+    "text": "England",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Expressionist": {
+    "text": "Expressionist",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "New": {
+    "text": "New",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Chicago": {
+    "text": "Chicago",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Carlisle": {
+    "text": "Carlisle",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Broadway": {
+    "text": "Broadway",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "West End": {
+    "text": "West End",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Joes Pub": {
+    "text": "Joes Pub",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Joe Papp": {
+    "text": "Joe Papp",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "[Mark Littstein]": {
+    "text": "[Mark Littstein]",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Public Theater": {
+    "text": "Public Theater",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Ill": {
+    "text": "Ill",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Town Hall": {
+    "text": "Town Hall",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Bottom Line": {
+    "text": "Bottom Line",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "University": {
+    "text": "University",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Alice": {
+    "text": "Alice",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Lincoln Center": {
+    "text": "Lincoln Center",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Merkin": {
+    "text": "Merkin",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "German English": {
+    "text": "German English",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Yiddish": {
+    "text": "Yiddish",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Neue Gallerie": {
+    "text": "Neue Gallerie",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Upper East Side": {
+    "text": "Upper East Side",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Klimt": {
+    "text": "Klimt",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Egon Schiele": {
+    "text": "Egon Schiele",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "George Grosz": {
+    "text": "George Grosz",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "First World": {
+    "text": "First World",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Expressionism Orpheus": {
+    "text": "Expressionism Orpheus",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Toronto Symphony Piaf": {
+    "text": "Toronto Symphony Piaf",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Spain": {
+    "text": "Spain",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Barcelona": {
+    "text": "Barcelona",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Prague": {
+    "text": "Prague",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Prague Symphony": {
+    "text": "Prague Symphony",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Kurt": {
+    "text": "Kurt",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  }
+}

@@ -1,0 +1,1514 @@
+{
+  "NIGHT": {
+    "text": "NIGHT",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "March": {
+    "text": "March",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "San Francesco": {
+    "text": "San Francesco",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Cividale": {
+    "text": "Cividale",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Friuli": {
+    "text": "Friuli",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Fra Giulio": {
+    "text": "Fra Giulio",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Assisi": {
+    "text": "Assisi",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Minor Conventuals": {
+    "text": "Minor Conventuals",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Aquileia": {
+    "text": "Aquileia",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Concordia": {
+    "text": "Concordia",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Don Bartolomeo Sgabarizza": {
+    "text": "Don Bartolomeo Sgabarizza",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Brazzano": {
+    "text": "Brazzano",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Pietro Rotaro": {
+    "text": "Pietro Rotaro",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Iassico": {
+    "text": "Iassico",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Paolo Gasparutto": {
+    "text": "Paolo Gasparutto",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Sgabarizza": {
+    "text": "Sgabarizza",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Thursdays": {
+    "text": "Thursdays",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Ember Days": {
+    "text": "Ember Days",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Cormons": {
+    "text": "Cormons",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Verona": {
+    "text": "Verona",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gasparutto": {
+    "text": "Gasparutto",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "San": {
+    "text": "San",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Easter": {
+    "text": "Easter",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Cormons Gorizia": {
+    "text": "Cormons Gorizia",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gasparuttos": {
+    "text": "Gasparuttos",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Holy Office": {
+    "text": "Holy Office",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Mass": {
+    "text": "Mass",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Monday": {
+    "text": "Monday",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Iudri": {
+    "text": "Iudri",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Sgabarizzas": {
+    "text": "Sgabarizzas",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Paolo": {
+    "text": "Paolo",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Rotaro": {
+    "text": "Rotaro",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Also": {
+    "text": "Also",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gradisca": {
+    "text": "Gradisca",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Battista Moduco": {
+    "text": "Battista Moduco",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Troiano": {
+    "text": "Troiano",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Maracco": {
+    "text": "Maracco",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Giulio": {
+    "text": "Giulio",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Thursday": {
+    "text": "Thursday",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "June": {
+    "text": "June",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Fra": {
+    "text": "Fra",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Montefalco 13": {
+    "text": "Montefalco 13",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Lutheran": {
+    "text": "Lutheran",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Fra Felice": {
+    "text": "Fra Felice",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Father": {
+    "text": "Father",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Pietro": {
+    "text": "Pietro",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gods": {
+    "text": "Gods",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Oh": {
+    "text": "Oh",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gamba Secura": {
+    "text": "Gamba Secura",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Trivignano": {
+    "text": "Trivignano",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Of": {
+    "text": "Of",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Moduco": {
+    "text": "Moduco",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Benandanti": {
+    "text": "Benandanti",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Christ": {
+    "text": "Christ",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "God": {
+    "text": "God",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Cologne": {
+    "text": "Cologne",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "German": {
+    "text": "German",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Azzano": {
+    "text": "Azzano",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Cuniano": {
+    "text": "Cuniano",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Inquisition": {
+    "text": "Inquisition",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "June Paolo Gasparotto": {
+    "text": "June Paolo Gasparotto",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Yes": {
+    "text": "Yes",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Vicenza Baptista Vicentino": {
+    "text": "Vicenza Baptista Vicentino",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Battista": {
+    "text": "Battista",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Ember": {
+    "text": "Ember",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Christmas": {
+    "text": "Christmas",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Battista Vicentino": {
+    "text": "Battista Vicentino",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Moducos": {
+    "text": "Moducos",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Rogation": {
+    "text": "Rogation",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gorizia": {
+    "text": "Gorizia",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Udine": {
+    "text": "Udine",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gasparotto": {
+    "text": "Gasparotto",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gasparottos Gasparutto Gasparottos": {
+    "text": "Gasparottos Gasparutto Gasparottos",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Felice": {
+    "text": "Felice",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Lord Jesus Christ": {
+    "text": "Lord Jesus Christ",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Which": {
+    "text": "Which",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "October Ever": {
+    "text": "October Ever",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Lord God": {
+    "text": "Lord God",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Trivigniano": {
+    "text": "Trivigniano",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "No": {
+    "text": "No",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Madonna": {
+    "text": "Madonna",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "May God": {
+    "text": "May God",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "While": {
+    "text": "While",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "November": {
+    "text": "November",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Church": {
+    "text": "Church",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "You": {
+    "text": "You",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Masses": {
+    "text": "Masses",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "San Bernardino": {
+    "text": "San Bernardino",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Rome Moduco": {
+    "text": "Rome Moduco",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "About": {
+    "text": "About",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Italy": {
+    "text": "Italy",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Istria Moduco": {
+    "text": "Istria Moduco",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Domenica Barbarelli": {
+    "text": "Domenica Barbarelli",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Novi": {
+    "text": "Novi",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Diana": {
+    "text": "Diana",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Spanish": {
+    "text": "Spanish",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Alfonso Tostado": {
+    "text": "Alfonso Tostado",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Genesis": {
+    "text": "Genesis",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Giovanni Battista Della Porta": {
+    "text": "Giovanni Battista Della Porta",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Latisana Menichino": {
+    "text": "Latisana Menichino",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Venetian Holy Office": {
+    "text": "Venetian Holy Office",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gospels": {
+    "text": "Gospels",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Palmanova": {
+    "text": "Palmanova",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Menica": {
+    "text": "Menica",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Cremons": {
+    "text": "Cremons",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Maria Panzona": {
+    "text": "Maria Panzona",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Latisana": {
+    "text": "Latisana",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Venice": {
+    "text": "Venice",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Margherita": {
+    "text": "Margherita",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "San Rocco": {
+    "text": "San Rocco",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Lucca": {
+    "text": "Lucca",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Polissena": {
+    "text": "Polissena",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "San Macario": {
+    "text": "San Macario",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Lucca Margherita": {
+    "text": "Lucca Margherita",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "[Gasparutto]": {
+    "text": "[Gasparutto]",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Pieve San Paolo": {
+    "text": "Pieve San Paolo",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Forty": {
+    "text": "Forty",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gianna": {
+    "text": "Gianna",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Montefalco": {
+    "text": "Montefalco",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "October": {
+    "text": "October",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Bishop Gian Matteo Giberti": {
+    "text": "Bishop Gian Matteo Giberti",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gaiato Orsolina": {
+    "text": "Gaiato Orsolina",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Rossa": {
+    "text": "Rossa",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Modenese Inquisition": {
+    "text": "Modenese Inquisition",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Andrea Alciato": {
+    "text": "Andrea Alciato",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Canon Episcopi": {
+    "text": "Canon Episcopi",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Rogations": {
+    "text": "Rogations",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Ascension": {
+    "text": "Ascension",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "April": {
+    "text": "April",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Clement VIII": {
+    "text": "Clement VIII",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Polcenico": {
+    "text": "Polcenico",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "San Daniele": {
+    "text": "San Daniele",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "But": {
+    "text": "But",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Rogation Days": {
+    "text": "Rogation Days",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Niccoli> Pellizzaro": {
+    "text": "Niccoli> Pellizzaro",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Villa": {
+    "text": "Villa",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Carnia": {
+    "text": "Carnia",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Epiphany": {
+    "text": "Epiphany",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Lutheranism": {
+    "text": "Lutheranism",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Brazzano Bartolomeo": {
+    "text": "Brazzano Bartolomeo",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gasparutto He": {
+    "text": "Gasparutto He",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Winter": {
+    "text": "Winter",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Summer": {
+    "text": "Summer",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Spring": {
+    "text": "Spring",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Death": {
+    "text": "Death",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Witch": {
+    "text": "Witch",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Christianization": {
+    "text": "Christianization",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Christian": {
+    "text": "Christian",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Modena": {
+    "text": "Modena",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Modenese": {
+    "text": "Modenese",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Jiirgensburg": {
+    "text": "Jiirgensburg",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Germany": {
+    "text": "Germany",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Lemburg": {
+    "text": "Lemburg",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Skeistan": {
+    "text": "Skeistan",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "St Lucia": {
+    "text": "St Lucia",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Pentecost": {
+    "text": "Pentecost",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "St John": {
+    "text": "St John",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Thiess xclaimed": {
+    "text": "Thiess xclaimed",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Thiess": {
+    "text": "Thiess",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Livonia": {
+    "text": "Livonia",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Slavic": {
+    "text": "Slavic",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Germanic": {
+    "text": "Germanic",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Mod": {
+    "text": "Mod",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Livonian": {
+    "text": "Livonian",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Caspar Peucer": {
+    "text": "Caspar Peucer",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Riga": {
+    "text": "Riga",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Peucer": {
+    "text": "Peucer",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Baltic": {
+    "text": "Baltic",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  }
+}

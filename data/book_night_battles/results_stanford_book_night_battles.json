@@ -1,0 +1,2089 @@
+{
+  "San Francesco": {
+    "text": "San Francesco",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Friuli": {
+    "text": "Friuli",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Fra Giulio d' Assisi": {
+    "text": "Fra Giulio d' Assisi",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Aquileia": {
+    "text": "Aquileia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Brazzano": {
+    "text": "Brazzano",
+    "type": [
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Iassico": {
+    "text": "Iassico",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Sgabarizza": {
+    "text": "Sgabarizza",
+    "type": [
+      "loc",
+      "org",
+      "org",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org",
+      "per",
+      "loc"
+    ]
+  },
+  "Verona": {
+    "text": "Verona",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Cormons": {
+    "text": "Cormons",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Gorizia": {
+    "text": "Gorizia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Mass": {
+    "text": "Mass",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Paolo": {
+    "text": "Paolo",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Cividale": {
+    "text": "Cividale",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Concordia": {
+    "text": "Concordia",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Gasparutto": {
+    "text": "Gasparutto",
+    "type": [
+      "org",
+      "per",
+      "per",
+      "per",
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Holy Office": {
+    "text": "Holy Office",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Giulio d' Assisi": {
+    "text": "Giulio d' Assisi",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "March 1575": {
+    "text": "March 1575",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Thursdays": {
+    "text": "Thursdays",
+    "type": [
+      "date",
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Easter": {
+    "text": "Easter",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "April": {
+    "text": "April",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Monday": {
+    "text": "Monday",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "five years later": {
+    "text": "five years later",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Don Bartolomeo Sgabarizza": {
+    "text": "Don Bartolomeo Sgabarizza",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Pietro Rotaro": {
+    "text": "Pietro Rotaro",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Paolo Gasparutto": {
+    "text": "Paolo Gasparutto",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Paolo Gasparotto": {
+    "text": "Paolo Gasparotto",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Rotaro": {
+    "text": "Rotaro",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Battista Moduco": {
+    "text": "Battista Moduco",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Troiano de'Attimis": {
+    "text": "Troiano de'Attimis",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Troiano": {
+    "text": "Troiano",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Maracco": {
+    "text": "Maracco",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Christ": {
+    "text": "Christ",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Fra Felice da Montefalco": {
+    "text": "Fra Felice da Montefalco",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Fra Felice": {
+    "text": "Fra Felice",
+    "type": [
+      "org",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Gamba Secura": {
+    "text": "Gamba Secura",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Trivignano": {
+    "text": "Trivignano",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "defenders of Christ": {
+    "text": "defenders of Christ",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "second half of the sixteenth century": {
+    "text": "second half of the sixteenth century",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Thursday": {
+    "text": "Thursday",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "3 Five years later": {
+    "text": "3 Five years later",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "June 1580": {
+    "text": "June 1580",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "miller Pietro Rotaro": {
+    "text": "miller Pietro Rotaro",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per",
+      "org"
+    ]
+  },
+  "Moduco": {
+    "text": "Moduco",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Cologne": {
+    "text": "Cologne",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Azzano": {
+    "text": "Azzano",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Cuniano": {
+    "text": "Cuniano",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Vicenza": {
+    "text": "Vicenza",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Chiana": {
+    "text": "Chiana",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Capodistria": {
+    "text": "Capodistria",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Udine": {
+    "text": "Udine",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "June": {
+    "text": "June",
+    "type": [
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "December": {
+    "text": "December",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "September": {
+    "text": "September",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Baptista Vicentino": {
+    "text": "Baptista Vicentino",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Battista Vicentino": {
+    "text": "Battista Vicentino",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Gradisca": {
+    "text": "Gradisca",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Gasparotto": {
+    "text": "Gasparotto",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per",
+      "loc"
+    ]
+  },
+  "night": {
+    "text": "night",
+    "type": [
+      "tim",
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "9   night": {
+    "text": "9   night",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "earnest": {
+    "text": "earnest",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Madonna": {
+    "text": "Madonna",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "October": {
+    "text": "October",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Felice": {
+    "text": "Felice",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "1532": {
+    "text": "1532",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "San Bernardino": {
+    "text": "San Bernardino",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Rome": {
+    "text": "Rome",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Masses": {
+    "text": "Masses",
+    "type": [
+      "loc",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Italy": {
+    "text": "Italy",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Istria": {
+    "text": "Istria",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Church of San Francesco": {
+    "text": "Church of San Francesco",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Novi": {
+    "text": "Novi",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Modenese Inquisition": {
+    "text": "Modenese Inquisition",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "November 1581": {
+    "text": "November 1581",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Domenica Barbarelli": {
+    "text": "Domenica Barbarelli",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "1539": {
+    "text": "1539",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1571": {
+    "text": "1571",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1589": {
+    "text": "1589",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1591": {
+    "text": "1591",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1626": {
+    "text": "1626",
+    "type": [
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1648": {
+    "text": "1648",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Latisana": {
+    "text": "Latisana",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Menichino": {
+    "text": "Menichino",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Palmanova": {
+    "text": "Palmanova",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Venice": {
+    "text": "Venice",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "San Rocco": {
+    "text": "San Rocco",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Lucca": {
+    "text": "Lucca",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Pescaglia": {
+    "text": "Pescaglia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Gaiato": {
+    "text": "Gaiato",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Orsolina": {
+    "text": "Orsolina",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Europe": {
+    "text": "Europe",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Giovanni Battista Della Porta": {
+    "text": "Giovanni Battista Della Porta",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Venetian Holy Office": {
+    "text": "Venetian Holy Office",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Polissena of San Macario": {
+    "text": "Polissena of San Macario",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Margherita of San Rocco": {
+    "text": "Margherita of San Rocco",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Crezia of Pieve San Paolo": {
+    "text": "Crezia of Pieve San Paolo",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Rossa": {
+    "text": "Rossa",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Canon Episcopi": {
+    "text": "Canon Episcopi",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "October 1580": {
+    "text": "October 1580",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "second half of the seventeenth century": {
+    "text": "second half of the seventeenth century",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "seventeenth century": {
+    "text": "seventeenth century",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Alfonso Tostado": {
+    "text": "Alfonso Tostado",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Maria Panzona": {
+    "text": "Maria Panzona",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Lena": {
+    "text": "Lena",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Gianna": {
+    "text": "Gianna",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Gian Matteo Giberti": {
+    "text": "Gian Matteo Giberti",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Andrea Alciato": {
+    "text": "Andrea Alciato",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Johann Weyer": {
+    "text": "Johann Weyer",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "1595": {
+    "text": "1595",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "San Daniele": {
+    "text": "San Daniele",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Carnia": {
+    "text": "Carnia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Pellizzaro": {
+    "text": "Pellizzaro",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Clement VIII": {
+    "text": "Clement VIII",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "end of the sixteenth century": {
+    "text": "end of the sixteenth century",
+    "type": [
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "April 1596": {
+    "text": "April 1596",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "March 1598": {
+    "text": "March 1598",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "'   23": {
+    "text": "'   23",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Winter": {
+    "text": "Winter",
+    "type": [
+      "date",
+      "date",
+      "date",
+      "date",
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Summer": {
+    "text": "Summer",
+    "type": [
+      "date",
+      "date",
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Spring": {
+    "text": "Spring",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Niccoli> Pellizzaro": {
+    "text": "Niccoli> Pellizzaro",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "1498": {
+    "text": "1498",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1634": {
+    "text": "1634",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1692": {
+    "text": "1692",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Modena": {
+    "text": "Modena",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Diana": {
+    "text": "Diana",
+    "type": [
+      "loc",
+      "loc",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Germany": {
+    "text": "Germany",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Pentecost": {
+    "text": "Pentecost",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Holy Office of Aquileia": {
+    "text": "Holy Office of Aquileia",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Thiess": {
+    "text": "Thiess",
+    "type": [
+      "org",
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "St Lucia": {
+    "text": "St Lucia",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "St John": {
+    "text": "St John",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "end of the fourteenth century": {
+    "text": "end of the fourteenth century",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Christmas": {
+    "text": "Christmas",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Modenese": {
+    "text": "Modenese",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Skeistan": {
+    "text": "Skeistan",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "30": {
+    "text": "30",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Livonia": {
+    "text": "Livonia",
+    "type": [
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Riga": {
+    "text": "Riga",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Mod uco": {
+    "text": "Mod uco",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "October 1692": {
+    "text": "October 1692",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "end of the seventeenth century": {
+    "text": "end of the seventeenth century",
+    "type": [
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "early years of the century": {
+    "text": "early years of the century",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Caspar Peucer": {
+    "text": "Caspar Peucer",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Peucer": {
+    "text": "Peucer",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  }
+}

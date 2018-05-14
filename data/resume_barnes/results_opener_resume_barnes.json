@@ -1,0 +1,1081 @@
+{
+  "University of Michigan School": {
+    "text": "University of Michigan School",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Arts &amp; Design": {
+    "text": "Arts &amp; Design",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "BFA": {
+    "text": "BFA",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Cooper Union": {
+    "text": "Cooper Union",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Advancement of Science": {
+    "text": "Advancement of Science",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Arts": {
+    "text": "Arts",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "A.P.E. Gallery": {
+    "text": "A.P.E. Gallery",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Northampton": {
+    "text": "Northampton",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "MA": {
+    "text": "MA",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "FOE": {
+    "text": "FOE",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Valerie Cooper": {
+    "text": "Valerie Cooper",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Electric Cultural Fine Art Gallery": {
+    "text": "Electric Cultural Fine Art Gallery",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Fairfield": {
+    "text": "Fairfield",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Laura Kelly": {
+    "text": "Laura Kelly",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Gallery": {
+    "text": "Gallery",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Chiang Mai": {
+    "text": "Chiang Mai",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Thailand": {
+    "text": "Thailand",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Sara Reisman": {
+    "text": "Sara Reisman",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Aljira Center": {
+    "text": "Aljira Center",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Contemporary Art": {
+    "text": "Contemporary Art",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Newark": {
+    "text": "Newark",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "NJ": {
+    "text": "NJ",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Renu &amp; Susan George": {
+    "text": "Renu &amp; Susan George",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Space Gallery": {
+    "text": "Space Gallery",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Bangalore": {
+    "text": "Bangalore",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "India": {
+    "text": "India",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Eric Shiner": {
+    "text": "Eric Shiner",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Zone Chelsea Art Center": {
+    "text": "Zone Chelsea Art Center",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "New York": {
+    "text": "New York",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Thierry Geoff": {
+    "text": "Thierry Geoff",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "MOMA": {
+    "text": "MOMA",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Long Island City": {
+    "text": "Long Island City",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Metropolis": {
+    "text": "Metropolis",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Hudson Valley Center": {
+    "text": "Hudson Valley Center",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Tim Evans": {
+    "text": "Tim Evans",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Plum Blossoms Gallery": {
+    "text": "Plum Blossoms Gallery",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Super-Deluxe Gallery": {
+    "text": "Super-Deluxe Gallery",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Nishi Azabu": {
+    "text": "Nishi Azabu",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Tokyo": {
+    "text": "Tokyo",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Japan": {
+    "text": "Japan",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Queens Museum of Art": {
+    "text": "Queens Museum of Art",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "NY": {
+    "text": "NY",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Linc Real Art Gallery": {
+    "text": "Linc Real Art Gallery",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "San Francisco": {
+    "text": "San Francisco",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "CA": {
+    "text": "CA",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Proposition Gallery": {
+    "text": "Proposition Gallery",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Annual Emerging Artists Exhibition": {
+    "text": "Annual Emerging Artists Exhibition",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "New York City": {
+    "text": "New York City",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Talk New York City": {
+    "text": "Talk New York City",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Japanese Fringe": {
+    "text": "Japanese Fringe",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Bengalaru": {
+    "text": "Bengalaru",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Cover Artist": {
+    "text": "Cover Artist",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Art Section": {
+    "text": "Art Section",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Cosmic Relief": {
+    "text": "Cosmic Relief",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Yann Arthus-Bertrand": {
+    "text": "Yann Arthus-Bertrand",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Sunanda": {
+    "text": "Sunanda",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Toby Barnes": {
+    "text": "Toby Barnes",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Hindu": {
+    "text": "Hindu",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Multiple Mindscapes": {
+    "text": "Multiple Mindscapes",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Ayesha Matthan": {
+    "text": "Ayesha Matthan",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "ArtSlant New York": {
+    "text": "ArtSlant New York",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Emerging Asian Artists": {
+    "text": "Emerging Asian Artists",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Charlie Schultz": {
+    "text": "Charlie Schultz",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Nishi Nihon Shimbun": {
+    "text": "Nishi Nihon Shimbun",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Touch Dis": {
+    "text": "Touch Dis",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Magazine": {
+    "text": "Magazine",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Asia Pacific": {
+    "text": "Asia Pacific",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Spring Issue": {
+    "text": "Spring Issue",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Artist Profile": {
+    "text": "Artist Profile",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Website Magazine": {
+    "text": "Website Magazine",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Japan Times": {
+    "text": "Japan Times",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Manga Animates": {
+    "text": "Manga Animates",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "New Millenium": {
+    "text": "New Millenium",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Ken Kawashima": {
+    "text": "Ken Kawashima",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Queens International Magazine": {
+    "text": "Queens International Magazine",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "US Museums": {
+    "text": "US Museums",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "opener"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  }
+}

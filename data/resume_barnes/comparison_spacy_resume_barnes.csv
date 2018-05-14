@@ -1,0 +1,107 @@
+type,value,exactMatch,partialMatch,matchValue,typeMatch,note
+per,Toby Barnes,,partial,Interview with Toby Barnes,,
+date,1997,,partial,1993-1997,,
+date,1999,,partial,1997-1999,,
+loc,University of Michigan School of Arts & Design,,partial,the University of Michigan School of Arts & Design,,
+date,1993,,partial,1993-1997,,
+loc,The Cooper Union for the Advancement of Science and Arts,exact,,The Cooper Union for the Advancement of Science and Arts,,
+date,2013,exact,,2013,true,
+misc,Altared States,exact,,ALTARED STATES,,exhibition title
+loc,A.P.E. Gallery,exact,,A.P.E. Gallery,,
+loc,"Northampton, MA",,,,,
+misc,Rise of the Robots,,,,,exhibition title
+loc,FOE gallery,,,,,
+date,2012,,partial,2012 YEAR,,
+misc,Year of the Dragon,,,,,exhibition title
+misc,Look II,,,,,exhibition title
+misc,Expand & Conflate,,partial,MA 2011 EXPAND & CONFLATE,,exhibition title
+per,Valerie Cooper,exact,,Valerie Cooper,true,
+loc,General Electric Cultural Fine Art Gallery,exact,,General Electric Cultural Fine Art Gallery,,
+loc,"Fairfield, CT",,,,,
+date,2009,exact,,2009,true,
+misc,Superheroes,exact,,SUPERHEROES,,exhibition title
+per,Laura Kelly,exact,,Laura Kelly,true,
+loc,Look at this Gallery,,,,,
+loc,"Chiang Mai, Thailand",exact,,"Chiang Mai, Thailand",true,
+misc,Emerge 10,,,,,exhibition title
+per,Sara Reisman,exact,,Sara Reisman,true,
+loc,Aljira Center for Contemporary Art,exact,,Aljira Center for Contemporary Art,,
+loc,"Newark, NJ",,,,,
+date,2008,exact,,2008,true,
+misc,Pranime,,,,,exhibition title
+per,Renu,,partial,Renu &,,
+per,Susan George,exact,,Susan George,true,
+loc,Time and Space Gallery,exact,,Time and Space Gallery,,
+loc,"Bangalore, India",,,,,
+date,2007,exact,,2007,true,
+misc,U Can't Touch Dis,,,,,exhibition title
+per,Eric Shiner,exact,,Eric Shiner,true,
+loc,Zone Chelsea Art Center,exact,,Zone Chelsea Art Center,,
+loc,"New York, NY",,,,,
+misc,Emergency Room,,,,,exhibition title
+per,Thierry Geoff,exact,,Thierry Geoff,true,
+loc,P.S.1 MOMA,,,,,
+loc,"Long Island City, NY",,,,,
+date,2006,,,,,
+misc,Peekskill Project,exact,,PEEKSKILL PROJECT,,
+misc,Metropolis 2226,,,,,exhibition title
+per,Trong Nguyen,exact,,Trong Nguyen,true,
+loc,Hudson Valley Center for Contemporary Art,,partial,the Hudson Valley Center for Contemporary Art,,
+loc,"Peekskill, NY",,,,,
+date,2005,exact,,2005,true,
+misc,Psionic Distortion,exact,,PSIONIC DISTORTION,,exhibition title
+per,Tim Evans,exact,,Tim Evans,true,
+loc,Plum Blossoms Gallery,,,,,
+date,2004,exact,,2004,true,
+loc,Super-Deluxe Gallery,,partial,the Super-Deluxe Gallery,,
+loc,Nishi Azabu district,,,,,
+loc,"Tokyo, Japan",,,,,
+loc,Queens International,exact,,QUEENS INTERNATIONAL,,exhibition title
+loc,Queens Museum of Art,,partial,the Queens Museum of Art,,
+loc,NY,exact,,NY,true,
+loc,Blind Pilots,exact,,BLIND PILOTS,,exhibition title
+loc,Linc Real Art Gallery,exact,,Linc Real Art Gallery,,
+loc,"San Francisco, CA",,,,,
+loc,The Proposition Gallery,exact,,The Proposition Gallery,,
+date,2003,exact,,2003,true,
+loc,Asian American Arts Centre,exact,,ASIAN AMERICAN ARTS CENTRE,,
+misc,13th Annual Emerging Artists Exhibition,,,,,exhibition title
+loc,Korea Society,exact,,KOREA SOCIETY,,
+org,Artists' Talk New York City,,,,,
+misc,Kageki Metonumics,,,,,exhibition title component
+misc,Subversions and Transformations from the Japanese Fringe,,,,,exhibition title component
+misc,Time Out: Bengalaru,,,,,publication title
+date,"December 26, 2008",,partial,"December 26, 2008 –January 8, 2009",,
+date,"Jamnuary 8, 2009",,,,,
+misc,Cosmic Relief,,,,,article title
+per,Yann Arthus-Bertrand,exact,,Yann Arthus-Bertrand,true,
+date,December 26,,partial,"December 26 – January 8, 2009",,
+misc,Cluster Concepts,,,,,article title
+per,Sunanda,exact,,Sunanda,,
+date,"January 2, 2009",exact,,"January 2, 2009",true,
+misc,Interview with Toby Barnes,exact,,Interview with Toby Barnes,true,article title
+date,"January 7, 2009",,partial,"January 7, 2009.",,
+misc,The Hindu,,,,,publication title
+misc,Multiple Mindscapes,exact,,Multiple Mindscapes,true,article title
+per,Ayesha Matthan,exact,,Ayesha Matthan,true,
+date,"December 23rd, 2008",exact,,"December 23rd, 2008",true,
+misc,ArtSlant New York,exact,,ArtSlant New York,,publication title
+misc,The Emerging Asian Artists,exact,,The Emerging Asian Artists,true,article title
+per,Charlie Schultz,exact,,Charlie Schultz,true,
+date,"September 13th, 2007",,,,,
+per,Nishi Nihon Shimbun,,,,,
+date,September 2007,exact,,September 2007,true,
+misc,New York Arts Magazine,exact,,New York Arts Magazine,,publication title
+misc,Art Asia Pacific,exact,,Art Asia Pacific,true,publication title
+misc,Projects in the Making: Artist Profile,,,,,article title
+misc,Flavorpill,,partial,"Flavorpill, Website Magazine",,publication title
+misc,"Laughing-matter, matter, or matters",,,,,article title
+misc,The Japan Times,exact,,The Japan Times,,publication title
+misc,Manga Animates the New Millenium,exact,,Manga Animates the New Millenium,true,article title
+per,Ken Kawashima,exact,,Ken Kawashima,true,
+date,"Nov, 10th, 2004",,,,,
+misc,Queens International Magazine,exact,,Queens International Magazine,,publication title
+date,"November 7th, 2004",,,,,
+misc,Artnet,exact,,Artnet,,publication title
+misc,New this Month in US Museums,,,,,article title
+date,"Nov. 11th, 2004",exact,,"Nov. 11th, 2004",true,

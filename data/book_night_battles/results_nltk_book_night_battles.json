@@ -1,0 +1,2856 @@
+{
+  "ITHE NIGHT BATTLES": {
+    "text": "ITHE NIGHT BATTLES",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "March 1575": {
+    "text": "March 1575",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "San Francesco": {
+    "text": "San Francesco",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Cividale": {
+    "text": "Cividale",
+    "type": [
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Friuli": {
+    "text": "Friuli",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc",
+      "org",
+      "per"
+    ]
+  },
+  "Monsignor [": {
+    "text": "Monsignor [",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Maracco": {
+    "text": "Maracco",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Fra Giulio": {
+    "text": "Fra Giulio",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Order": {
+    "text": "Order",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Minor Conventuals": {
+    "text": "Minor Conventuals",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Aquileia and Concordia": {
+    "text": "Aquileia and Concordia",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Don Bartolomeo Sgabarizza": {
+    "text": "Don Bartolomeo Sgabarizza",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Brazzano": {
+    "text": "Brazzano",
+    "type": [
+      "loc",
+      "loc",
+      "org",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "before": {
+    "text": "before",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Pietro Rotaro": {
+    "text": "Pietro Rotaro",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Iassico": {
+    "text": "Iassico",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Paolo Gasparutto": {
+    "text": "Paolo Gasparutto",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Sgabarizza": {
+    "text": "Sgabarizza",
+    "type": [
+      "per",
+      "org",
+      "org",
+      "per",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org",
+      "loc"
+    ]
+  },
+  "Gasparutto": {
+    "text": "Gasparutto",
+    "type": [
+      "org",
+      "org",
+      "loc",
+      "org",
+      "per",
+      "org",
+      "org",
+      "loc",
+      "misc",
+      "per",
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org",
+      "per",
+      "loc"
+    ]
+  },
+  "Ember Days of": {
+    "text": "Ember Days of",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Verona": {
+    "text": "Verona",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Easter": {
+    "text": "Easter",
+    "type": [
+      "loc",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Cormons": {
+    "text": "Cormons",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Gorizia": {
+    "text": "Gorizia",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org",
+      "loc"
+    ]
+  },
+  "7 April": {
+    "text": "7 April",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Holy Office": {
+    "text": "Holy Office",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Monday": {
+    "text": "Monday",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Paolo Gasparotto": {
+    "text": "Paolo Gasparotto",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Paolo": {
+    "text": "Paolo",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc",
+      "per"
+    ]
+  },
+  "Gradisca": {
+    "text": "Gradisca",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Thursdays": {
+    "text": "Thursdays",
+    "type": [
+      "tim",
+      "per",
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Rotaro": {
+    "text": "Rotaro",
+    "type": [
+      "org",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org",
+      "per"
+    ]
+  },
+  "Battista Moduco": {
+    "text": "Battista Moduco",
+    "type": [
+      "per",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Troiano de'Attimis": {
+    "text": "Troiano de'Attimis",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Giulio": {
+    "text": "Giulio",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Assisi": {
+    "text": "Assisi",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "five": {
+    "text": "five",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "later": {
+    "text": "later",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Thursday": {
+    "text": "Thursday",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Five": {
+    "text": "Five",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "June 1580": {
+    "text": "June 1580",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Fra Felice": {
+    "text": "Fra Felice",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per",
+      "org"
+    ]
+  },
+  "Iassico 'there": {
+    "text": "Iassico 'there",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Lutheran and": {
+    "text": "Lutheran and",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "God": {
+    "text": "God",
+    "type": [
+      "loc",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc",
+      "per",
+      "org"
+    ]
+  },
+  "Gamba Secura": {
+    "text": "Gamba Secura",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Trivignano": {
+    "text": "Trivignano",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Moduco": {
+    "text": "Moduco",
+    "type": [
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org",
+      "loc"
+    ]
+  },
+  "Moduco and Gasparutto": {
+    "text": "Moduco and Gasparutto",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Ember Days": {
+    "text": "Ember Days",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim",
+      "org",
+      "loc"
+    ]
+  },
+  "Christ": {
+    "text": "Christ",
+    "type": [
+      "loc",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Cologne": {
+    "text": "Cologne",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "German": {
+    "text": "German",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Azzano": {
+    "text": "Azzano",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Cuniano": {
+    "text": "Cuniano",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Cirghinis": {
+    "text": "Cirghinis",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Inquisition": {
+    "text": "Inquisition",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org",
+      "loc"
+    ]
+  },
+  "28 June": {
+    "text": "28 June",
+    "type": [
+      "tim",
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "ten": {
+    "text": "ten",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Vicenza": {
+    "text": "Vicenza",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Baptista Vicentino": {
+    "text": "Baptista Vicentino",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "thirty-five": {
+    "text": "thirty-five",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Battista": {
+    "text": "Battista",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "of December": {
+    "text": "of December",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Ember season of Christmas": {
+    "text": "Ember season of Christmas",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Battista Vicentino": {
+    "text": "Battista Vicentino",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Rogation": {
+    "text": "Rogation",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim",
+      "loc"
+    ]
+  },
+  "Verona and Gradisca and": {
+    "text": "Verona and Gradisca and",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Ember Days preceding": {
+    "text": "Ember Days preceding",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Gasparuttos": {
+    "text": "Gasparuttos",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Chiana": {
+    "text": "Chiana",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Udine": {
+    "text": "Udine",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "September": {
+    "text": "September",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Moduco 's and Gasparutto": {
+    "text": "Moduco 's and Gasparutto",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Gasparotto": {
+    "text": "Gasparotto",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc",
+      "org"
+    ]
+  },
+  "Christian": {
+    "text": "Christian",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "First": {
+    "text": "First",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Lord Jesus Christ": {
+    "text": "Lord Jesus Christ",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "'company ' of the": {
+    "text": "'company ' of the",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "11 day or two later": {
+    "text": "11 day or two later",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "October": {
+    "text": "October",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Lord God": {
+    "text": "Lord God",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "trial-": {
+    "text": "trial-",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Trivigniano": {
+    "text": "Trivigniano",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "God ;": {
+    "text": "God ;",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "'caul": {
+    "text": "'caul",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Madonna": {
+    "text": "Madonna",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "May God": {
+    "text": "May God",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Irritated": {
+    "text": "Irritated",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "26 November 1581": {
+    "text": "26 November 1581",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "'caul '": {
+    "text": "'caul '",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "San Bernardino": {
+    "text": "San Bernardino",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Rome": {
+    "text": "Rome",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Masses": {
+    "text": "Masses",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Italy": {
+    "text": "Italy",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Friuli and Istria": {
+    "text": "Friuli and Istria",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Domenica Barbarelli": {
+    "text": "Domenica Barbarelli",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Novi": {
+    "text": "Novi",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Modenese": {
+    "text": "Modenese",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc",
+      "loc"
+    ]
+  },
+  "Diana": {
+    "text": "Diana",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org",
+      "loc"
+    ]
+  },
+  "Later": {
+    "text": "Later",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Doubtless": {
+    "text": "Doubtless",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Let": {
+    "text": "Let",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "21": {
+    "text": "21",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "1591": {
+    "text": "1591",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Spanish": {
+    "text": "Spanish",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Alfonso Tostado": {
+    "text": "Alfonso Tostado",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Genesis": {
+    "text": "Genesis",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "A half century later Giovanni Battista Della Porta": {
+    "text": "A half century later Giovanni Battista Della Porta",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Latisana": {
+    "text": "Latisana",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Menichino": {
+    "text": "Menichino",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Venetian Holy Office": {
+    "text": "Venetian Holy Office",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Gospels I": {
+    "text": "Gospels I",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Palmanova": {
+    "text": "Palmanova",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Menica": {
+    "text": "Menica",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Cremons": {
+    "text": "Cremons",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "-": {
+    "text": "-",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Ember Days -": {
+    "text": "Ember Days -",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Maria Panzona": {
+    "text": "Maria Panzona",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Venice": {
+    "text": "Venice",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "1618-19 -": {
+    "text": "1618-19 -",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "18 11 The": {
+    "text": "18 11 The",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Margherita of San Rocco": {
+    "text": "Margherita of San Rocco",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Polissena of San Macario": {
+    "text": "Polissena of San Macario",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Lena of Pescaglia": {
+    "text": "Lena of Pescaglia",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Lucca": {
+    "text": "Lucca",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Lucchese": {
+    "text": "Lucchese",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Crezia of Pieve San Paolo": {
+    "text": "Crezia of Pieve San Paolo",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Gianna": {
+    "text": "Gianna",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Montefalco": {
+    "text": "Montefalco",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "1 October 1580": {
+    "text": "1 October 1580",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Menica of Cremons": {
+    "text": "Menica of Cremons",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Bishop Gian Matteo Giberti": {
+    "text": "Bishop Gian Matteo Giberti",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "57 12 Not": {
+    "text": "57 12 Not",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Orsolina": {
+    "text": "Orsolina",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Rossa": {
+    "text": "Rossa",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "second half of": {
+    "text": "second half of",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Alciato": {
+    "text": "Alciato",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Canon Episcopi": {
+    "text": "Canon Episcopi",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Johann Weyer": {
+    "text": "Johann Weyer",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Europe": {
+    "text": "Europe",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "today": {
+    "text": "today",
+    "type": [
+      "tim",
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Ember": {
+    "text": "Ember",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "9 April 1596 Clement VIII": {
+    "text": "9 April 1596 Clement VIII",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Polcenico": {
+    "text": "Polcenico",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "March 1598": {
+    "text": "March 1598",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "San Daniele": {
+    "text": "San Daniele",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Rogation Days": {
+    "text": "Rogation Days",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Niccoli > Pellizzaro": {
+    "text": "Niccoli > Pellizzaro",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Villa": {
+    "text": "Villa",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Carnia": {
+    "text": "Carnia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Epiphany": {
+    "text": "Epiphany",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Pellizzaro": {
+    "text": "Pellizzaro",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Lutheranism": {
+    "text": "Lutheranism",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Bartolomeo 5gabarizza": {
+    "text": "Bartolomeo 5gabarizza",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Winter": {
+    "text": "Winter",
+    "type": [
+      "org",
+      "org",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Summer": {
+    "text": "Summer",
+    "type": [
+      "org",
+      "per",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Consider": {
+    "text": "Consider",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Winter and Summer": {
+    "text": "Winter and Summer",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Witch": {
+    "text": "Witch",
+    "type": [
+      "org",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "First of": {
+    "text": "First of",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Sum-mer": {
+    "text": "Sum-mer",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "God ; and Moduco": {
+    "text": "God ; and Moduco",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Christianization": {
+    "text": "Christianization",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Gasparutto and Moduco": {
+    "text": "Gasparutto and Moduco",
+    "type": [
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "gilded.": {
+    "text": "gilded.",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "later date": {
+    "text": "later date",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Friulian": {
+    "text": "Friulian",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Modena": {
+    "text": "Modena",
+    "type": [
+      "org",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "later context": {
+    "text": "later context",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Livonian": {
+    "text": "Livonian",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Jiirgensburg": {
+    "text": "Jiirgensburg",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "1692 - more": {
+    "text": "1692 - more",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Germany": {
+    "text": "Germany",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Thiess": {
+    "text": "Thiess",
+    "type": [
+      "org",
+      "org",
+      "per",
+      "per",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org",
+      "per"
+    ]
+  },
+  "Lemburg": {
+    "text": "Lemburg",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Skeistan": {
+    "text": "Skeistan",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "each": {
+    "text": "each",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Christmas": {
+    "text": "Christmas",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "St John": {
+    "text": "St John",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "previous": {
+    "text": "previous",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "reason": {
+    "text": "reason",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "God -": {
+    "text": "God -",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Russian": {
+    "text": "Russian",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "God '": {
+    "text": "God '",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "October 1692": {
+    "text": "October 1692",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Livonia": {
+    "text": "Livonia",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Friuli and Livonia": {
+    "text": "Friuli and Livonia",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Germanic": {
+    "text": "Germanic",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Jiirgensburgjudges": {
+    "text": "Jiirgensburgjudges",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Gasparutto and Mod": {
+    "text": "Gasparutto and Mod",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "mid-sixteenth century Caspar Peucer": {
+    "text": "mid-sixteenth century Caspar Peucer",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Riga": {
+    "text": "Riga",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "day": {
+    "text": "day",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Peucer": {
+    "text": "Peucer",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Baltic": {
+    "text": "Baltic",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Slavic": {
+    "text": "Slavic",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Friuli.": {
+    "text": "Friuli.",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  }
+}

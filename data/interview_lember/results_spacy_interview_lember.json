@@ -1,0 +1,2383 @@
+{
+  "45": {
+    "text": "45",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "80": {
+    "text": "80",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "85": {
+    "text": "85",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "120": {
+    "text": "120",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "400": {
+    "text": "400",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "1935": {
+    "text": "1935",
+    "type": [
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1981": {
+    "text": "1981",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1982": {
+    "text": "1982",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1987": {
+    "text": "1987",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "first": {
+    "text": "first",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Carnegie Hall": {
+    "text": "Carnegie Hall",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "America": {
+    "text": "America",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "the summer": {
+    "text": "the summer",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "New York": {
+    "text": "New York",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Liza Minnelli": {
+    "text": "Liza Minnelli",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Germany": {
+    "text": "Germany",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Liza": {
+    "text": "Liza",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Mahler": {
+    "text": "Mahler",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Thomas Quasthoff": {
+    "text": "Thomas Quasthoff",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Keith Jarrett": {
+    "text": "Keith Jarrett",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "last year": {
+    "text": "last year",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Pops": {
+    "text": "Pops",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Europe": {
+    "text": "Europe",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "one": {
+    "text": "one",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "many years": {
+    "text": "many years",
+    "type": [
+      "date",
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "four": {
+    "text": "four",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "every night": {
+    "text": "every night",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Austria": {
+    "text": "Austria",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "the Reinhardt Seminar": {
+    "text": "the Reinhardt Seminar",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "German": {
+    "text": "German",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Lloyd Webber": {
+    "text": "Lloyd Webber",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Cats": {
+    "text": "Cats",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Berlin": {
+    "text": "Berlin",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Peter Pan": {
+    "text": "Peter Pan",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Guys and Dolls": {
+    "text": "Guys and Dolls",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Kurt Weill": {
+    "text": "Kurt Weill",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "the Blue Angel": {
+    "text": "the Blue Angel",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Chekhov": {
+    "text": "Chekhov",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Ibsen": {
+    "text": "Ibsen",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Strindberg": {
+    "text": "Strindberg",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "a couple of years": {
+    "text": "a couple of years",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Berthold Brecht": {
+    "text": "Berthold Brecht",
+    "type": [
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Jewish": {
+    "text": "Jewish",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "the years of the Weimar Republic": {
+    "text": "the years of the Weimar Republic",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Nazis": {
+    "text": "Nazis",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "French": {
+    "text": "French",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Weill": {
+    "text": "Weill",
+    "type": [
+      "loc",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "the Weill-Brecht": {
+    "text": "the Weill-Brecht",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Yiddish": {
+    "text": "Yiddish",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Astor Piazzolla": {
+    "text": "Astor Piazzolla",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Seven": {
+    "text": "Seven",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Sins": {
+    "text": "Sins",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Brecht": {
+    "text": "Brecht",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Paris": {
+    "text": "Paris",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Champs": {
+    "text": "Champs",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Georges Balanchine": {
+    "text": "Georges Balanchine",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Anna I": {
+    "text": "Anna I",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Lotte Lenya": {
+    "text": "Lotte Lenya",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Anna II": {
+    "text": "Anna II",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "the United States": {
+    "text": "the United States",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "seven": {
+    "text": "seven",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Marxist": {
+    "text": "Marxist",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "those years": {
+    "text": "those years",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Hollywood": {
+    "text": "Hollywood",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Indians": {
+    "text": "Indians",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Anna": {
+    "text": "Anna",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Louisianna": {
+    "text": "Louisianna",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  " ": {
+    "text": " ",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Nevada": {
+    "text": "Nevada",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "American": {
+    "text": "American",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "second": {
+    "text": "second",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "the years": {
+    "text": "the years",
+    "type": [
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "the Cold War": {
+    "text": "the Cold War",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Wall": {
+    "text": "Wall",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "East": {
+    "text": "East",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "West": {
+    "text": "West",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "the East Bloc": {
+    "text": "the East Bloc",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "years": {
+    "text": "years",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "September 11th": {
+    "text": "September 11th",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "that day": {
+    "text": "that day",
+    "type": [
+      "date",
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "day": {
+    "text": "day",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Labor Day": {
+    "text": "Labor Day",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "peaceful day": {
+    "text": "peaceful day",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "50s": {
+    "text": "50s",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  " Fox,": {
+    "text": " Fox,",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Apache": {
+    "text": "Apache",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Underdog": {
+    "text": "Underdog",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Cold War": {
+    "text": "Cold War",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Nomad": {
+    "text": "Nomad",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Middle East": {
+    "text": "Middle East",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Islamic": {
+    "text": "Islamic",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "[Ibn al Arabi": {
+    "text": "[Ibn al Arabi",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "the 12th century": {
+    "text": "the 12th century",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Prairie": {
+    "text": "Prairie",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Kaaba": {
+    "text": "Kaaba",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Torah": {
+    "text": "Torah",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Koran": {
+    "text": "Koran",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "a couple of decades": {
+    "text": "a couple of decades",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "60s": {
+    "text": "60s",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "70s": {
+    "text": "70s",
+    "type": [
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Bob Dylan": {
+    "text": "Bob Dylan",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Billy Joel": {
+    "text": "Billy Joel",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Stevie Wonder": {
+    "text": "Stevie Wonder",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "R&B.": {
+    "text": "R&B.",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "two": {
+    "text": "two",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Britain": {
+    "text": "Britain",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Fitzgerald": {
+    "text": "Fitzgerald",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Cole Porter": {
+    "text": "Cole Porter",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Duke Ellington": {
+    "text": "Duke Ellington",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Marx": {
+    "text": "Marx",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Martin Luther King": {
+    "text": "Martin Luther King",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Communist": {
+    "text": "Communist",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Hitler": {
+    "text": "Hitler",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Fascism": {
+    "text": "Fascism",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Semitism": {
+    "text": "Semitism",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Aryans": {
+    "text": "Aryans",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Eisler": {
+    "text": "Eisler",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Mitterling": {
+    "text": "Mitterling",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Hollaender": {
+    "text": "Hollaender",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "England": {
+    "text": "England",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Expressionist": {
+    "text": "Expressionist",
+    "type": [
+      "org",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Chicago": {
+    "text": "Chicago",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "the Carlisle Club": {
+    "text": "the Carlisle Club",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Broadway": {
+    "text": "Broadway",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "one year": {
+    "text": "one year",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Joe\u2019s": {
+    "text": "Joe\u2019s",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Pub": {
+    "text": "Pub",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Joe Papp": {
+    "text": "Joe Papp",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Mark Littstein": {
+    "text": "Mark Littstein",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "The Public Theater": {
+    "text": "The Public Theater",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Town Hall": {
+    "text": "Town Hall",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "the Bottom Line": {
+    "text": "the Bottom Line",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "the University downtown": {
+    "text": "the University downtown",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Alice Tully Hall": {
+    "text": "Alice Tully Hall",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Lincoln Center": {
+    "text": "Lincoln Center",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Merkin Hall": {
+    "text": "Merkin Hall",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "20s": {
+    "text": "20s",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "English": {
+    "text": "English",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "European": {
+    "text": "European",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "the evening or the hour or the minute": {
+    "text": "the evening or the hour or the minute",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "the Neue Gallerie": {
+    "text": "the Neue Gallerie",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Austrian": {
+    "text": "Austrian",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "the Upper East Side": {
+    "text": "the Upper East Side",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Klimt": {
+    "text": "Klimt",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Egon Schiele": {
+    "text": "Egon Schiele",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "George Grosz": {
+    "text": "George Grosz",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Weimar Republic": {
+    "text": "Weimar Republic",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Weimar": {
+    "text": "Weimar",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "the beginning of the century": {
+    "text": "the beginning of the century",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "the First World War": {
+    "text": "the First World War",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "First": {
+    "text": "First",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Brazilian": {
+    "text": "Brazilian",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "the Toronto Symphony": {
+    "text": "the Toronto Symphony",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "A couple of years ago": {
+    "text": "A couple of years ago",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Piaf": {
+    "text": "Piaf",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Larry Foster": {
+    "text": "Larry Foster",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "The Seven Deadly Sins": {
+    "text": "The Seven Deadly Sins",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Spain": {
+    "text": "Spain",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Barcelona": {
+    "text": "Barcelona",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Prague": {
+    "text": "Prague",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "the Prague Symphony Orchestra": {
+    "text": "the Prague Symphony Orchestra",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "20th-century": {
+    "text": "20th-century",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Mahogany": {
+    "text": "Mahogany",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "his years": {
+    "text": "his years",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  }
+}

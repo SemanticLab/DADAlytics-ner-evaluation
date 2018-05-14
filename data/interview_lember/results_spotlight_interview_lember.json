@@ -1,0 +1,1262 @@
+{
+  "Ute Lemper": {
+    "text": "Ute Lemper",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Ute_Lemper",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Carnegie Hall": {
+    "text": "Carnegie Hall",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Carnegie_Hall",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "New York": {
+    "text": "New York",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/New_York_City",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Liza Minnelli": {
+    "text": "Liza Minnelli",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Liza_Minnelli",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Germany": {
+    "text": "Germany",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Weimar_Republic",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Liza": {
+    "text": "Liza",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Liza_Minnelli",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "classical": {
+    "text": "classical",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Classical_music",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Mahler": {
+    "text": "Mahler",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Gustav_Mahler",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Thomas Quasthoff": {
+    "text": "Thomas Quasthoff",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Thomas_Quasthoff",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Keith Jarrett": {
+    "text": "Keith Jarrett",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Keith_Jarrett",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "piano": {
+    "text": "piano",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Piano",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "jazz": {
+    "text": "jazz",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Jazz",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "adrenaline": {
+    "text": "adrenaline",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Epinephrine",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "interplay": {
+    "text": "interplay",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Interplay_Entertainment",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "trust": {
+    "text": "trust",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Trust_law",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Austria": {
+    "text": "Austria",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Austria",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Berlin": {
+    "text": "Berlin",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Berlin",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Peter Pan": {
+    "text": "Peter Pan",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Peter_Pan",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Kurt Weill": {
+    "text": "Kurt Weill",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Kurt_Weill",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "cat": {
+    "text": "cat",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Cat",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Berthold Brecht": {
+    "text": "Berthold Brecht",
+    "type": [
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Bertolt_Brecht",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "revolutionary": {
+    "text": "revolutionary",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Revolution",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Weimar Republic": {
+    "text": "Weimar Republic",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Weimar_Republic",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "The Seven Deadly Sins": {
+    "text": "The Seven Deadly Sins",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Seven_deadly_sins",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "cabaret": {
+    "text": "cabaret",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Cabaret",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Yiddish": {
+    "text": "Yiddish",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Yiddish",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Astor Piazzolla": {
+    "text": "Astor Piazzolla",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Astor_Piazzolla",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Paris": {
+    "text": "Paris",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Paris",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Champs-Elysees": {
+    "text": "Champs-Elysees",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Champs-\u00c9lys\u00e9es",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Georges Balanchine": {
+    "text": "Georges Balanchine",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/George_Balanchine",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Lotte Lenya": {
+    "text": "Lotte Lenya",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Lotte_Lenya",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "capitalism": {
+    "text": "capitalism",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Capitalism",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Marxist": {
+    "text": "Marxist",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Karl_Marx",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "making money": {
+    "text": "making money",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Making_Money",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "soul": {
+    "text": "soul",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Soul_music",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Hollywood": {
+    "text": "Hollywood",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Hollywood",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Nevada": {
+    "text": "Nevada",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Nevada",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Cold War": {
+    "text": "Cold War",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Cold_War",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Wim Wenders": {
+    "text": "Wim Wenders",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Wim_Wenders",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Labor Day": {
+    "text": "Labor Day",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Labor_Day",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Fox": {
+    "text": "Fox",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/20th_Century_Fox",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Apache": {
+    "text": "Apache",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Apache",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Kaaba": {
+    "text": "Kaaba",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Kaaba",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Torah": {
+    "text": "Torah",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Torah",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Koran": {
+    "text": "Koran",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Quran",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Pink": {
+    "text": "Pink",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Pink",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Dire Straits": {
+    "text": "Dire Straits",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Dire_Straits",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Bob Dylan": {
+    "text": "Bob Dylan",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Bob_Dylan",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Billy Joel": {
+    "text": "Billy Joel",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Billy_Joel",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Stevie Wonder": {
+    "text": "Stevie Wonder",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Stevie_Wonder",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "R&B": {
+    "text": "R&B",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Rhythm_and_blues",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "rock": {
+    "text": "rock",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Rock_music",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Cole Porter": {
+    "text": "Cole Porter",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Cole_Porter",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Duke Ellington": {
+    "text": "Duke Ellington",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Duke_Ellington",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "humanist": {
+    "text": "humanist",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Humanism",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Martin": {
+    "text": "Martin",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/List_of_recurring_The_Simpsons_characters",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "kibbutz": {
+    "text": "kibbutz",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Kibbutz",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Fascism": {
+    "text": "Fascism",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Fascism",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "anti-Semitism": {
+    "text": "anti-Semitism",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Antisemitism",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Eisler": {
+    "text": "Eisler",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Hanns_Eisler",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "England": {
+    "text": "England",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/England",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Chicago": {
+    "text": "Chicago",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Chicago",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Carlisle": {
+    "text": "Carlisle",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Carlisle_Indian_Industrial_School",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Broadway": {
+    "text": "Broadway",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Musical_theatre",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "West End": {
+    "text": "West End",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/West_End_theatre",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Joe Papp": {
+    "text": "Joe Papp",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Joseph_Papp",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "The Public Theater": {
+    "text": "The Public Theater",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/The_Public_Theater",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Alice Tully": {
+    "text": "Alice Tully",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Alice_Tully_Hall",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Lincoln Center": {
+    "text": "Lincoln Center",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Lincoln_Center_for_the_Performing_Arts",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Merkin Hall": {
+    "text": "Merkin Hall",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Merkin_Concert_Hall",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "amazing stories": {
+    "text": "amazing stories",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Amazing_Stories",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "chanson": {
+    "text": "chanson",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Chanson",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "gallery": {
+    "text": "gallery",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Art_museum",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Upper East Side": {
+    "text": "Upper East Side",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Upper_East_Side",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Egon Schiele": {
+    "text": "Egon Schiele",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Egon_Schiele",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "George Grosz": {
+    "text": "George Grosz",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/George_Grosz",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "First World War": {
+    "text": "First World War",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/World_War_I",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "orchestra": {
+    "text": "orchestra",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Orchestra",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Orpheus": {
+    "text": "Orpheus",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Orpheus",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "click track": {
+    "text": "click track",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Click_track",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Toronto": {
+    "text": "Toronto",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Toronto",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Spain": {
+    "text": "Spain",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Spain",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Barcelona": {
+    "text": "Barcelona",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Barcelona",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Prague": {
+    "text": "Prague",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Prague",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Prague Symphony": {
+    "text": "Prague Symphony",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Symphony_No._38_(Mozart)",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "20th-century music": {
+    "text": "20th-century music",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/20th-century_classical_music",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  }
+}

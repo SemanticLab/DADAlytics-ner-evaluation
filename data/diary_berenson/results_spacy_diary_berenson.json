@@ -1,0 +1,2882 @@
+{
+  "Mary Berenson": {
+    "text": "Mary Berenson",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "1903-1904": {
+    "text": "1903-1904",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Mary Whitall Berenson": {
+    "text": "Mary Whitall Berenson",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Tatti, Settignano": {
+    "text": "Tatti, Settignano",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Florence Trip": {
+    "text": "Florence Trip",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "America": {
+    "text": "America",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "September 1903": {
+    "text": "September 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "R. M. S. Majestic": {
+    "text": "R. M. S. Majestic",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "White Star": {
+    "text": "White Star",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Wednesday, Sept. 30,": {
+    "text": "Wednesday, Sept. 30,",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Liverpool": {
+    "text": "Liverpool",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Turner - Whistler-esque": {
+    "text": "Turner - Whistler-esque",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "more than 18 years": {
+    "text": "more than 18 years",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "England": {
+    "text": "England",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Americans": {
+    "text": "Americans",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "nearly 10 years": {
+    "text": "nearly 10 years",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Bernhard": {
+    "text": "Bernhard",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Reef": {
+    "text": "Reef",
+    "type": [
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Newport": {
+    "text": "Newport",
+    "type": [
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "R. I.": {
+    "text": "R. I.",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Thursday, Oct. 8, 1903 We landed this morning": {
+    "text": "Thursday, Oct. 8, 1903 We landed this morning",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Bore": {
+    "text": "Bore",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "The Arabian Nights": {
+    "text": "The Arabian Nights",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Mardrus),1": {
+    "text": "Mardrus),1",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "this morning": {
+    "text": "this morning",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "one": {
+    "text": "one",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "didn?t": {
+    "text": "didn?t",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "gentleman?s": {
+    "text": "gentleman?s",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "five dollar": {
+    "text": "five dollar",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Grace": {
+    "text": "Grace",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "way!2": {
+    "text": "way!2",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Bond": {
+    "text": "Bond",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Greek": {
+    "text": "Greek",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Oyster Cocktail": {
+    "text": "Oyster Cocktail",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "New York": {
+    "text": "New York",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "morning": {
+    "text": "morning",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Davis": {
+    "text": "Davis",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "B.B.": {
+    "text": "B.B.",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Jimmy Whiskers": {
+    "text": "Jimmy Whiskers",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Egyptian": {
+    "text": "Egyptian",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "about 3000": {
+    "text": "about 3000",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "B.C.": {
+    "text": "B.C.",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Liberia Whose": {
+    "text": "Liberia Whose",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "the Mother Superior": {
+    "text": "the Mother Superior",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Friday, Oct. 9, 1903": {
+    "text": "Friday, Oct. 9, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Spain": {
+    "text": "Spain",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "B. B.": {
+    "text": "B. B.",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "eight days": {
+    "text": "eight days",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "7.30": {
+    "text": "7.30",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Fearing": {
+    "text": "Fearing",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Terence Bourke": {
+    "text": "Terence Bourke",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "wasn?t": {
+    "text": "wasn?t",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "the afternoon": {
+    "text": "the afternoon",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Saturday, Oct. 10, 1903": {
+    "text": "Saturday, Oct. 10, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "3": {
+    "text": "3",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "45": {
+    "text": "45",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "189": {
+    "text": "189",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Andrews": {
+    "text": "Andrews",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Southern": {
+    "text": "Southern",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Western": {
+    "text": "Western",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "J. Gordon Kugler": {
+    "text": "J. Gordon Kugler",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "South": {
+    "text": "South",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Sophy Buffum,3": {
+    "text": "Sophy Buffum,3",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Europe": {
+    "text": "Europe",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Busk": {
+    "text": "Busk",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Gibson": {
+    "text": "Gibson",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "the evening": {
+    "text": "the evening",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Sunday, Oct. 11, 1903": {
+    "text": "Sunday, Oct. 11, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "the morning": {
+    "text": "the morning",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Italian": {
+    "text": "Italian",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Forgery (Filippino": {
+    "text": "Forgery (Filippino",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "the Drawing Room": {
+    "text": "the Drawing Room",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Tricca": {
+    "text": "Tricca",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Logan": {
+    "text": "Logan",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Boston": {
+    "text": "Boston",
+    "type": [
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "the New York Theatre": {
+    "text": "the New York Theatre",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Theatre": {
+    "text": "Theatre",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "the night": {
+    "text": "the night",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "10,000": {
+    "text": "10,000",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "$250 dollars": {
+    "text": "$250 dollars",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Longyear": {
+    "text": "Longyear",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Millions": {
+    "text": "Millions",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "hundreds": {
+    "text": "hundreds",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "today": {
+    "text": "today",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "French": {
+    "text": "French",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Coates": {
+    "text": "Coates",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Berevin?s": {
+    "text": "Berevin?s",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Taylor?s": {
+    "text": "Taylor?s",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Winty Chandler?s": {
+    "text": "Winty Chandler?s",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "the year": {
+    "text": "the year",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Egypt": {
+    "text": "Egypt",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Last year": {
+    "text": "Last year",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Tomb": {
+    "text": "Tomb",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Queen Hatasu": {
+    "text": "Queen Hatasu",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Grampian": {
+    "text": "Grampian",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Dorchester": {
+    "text": "Dorchester",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Monday, Oct. 12, 1903": {
+    "text": "Monday, Oct. 12, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "about in the morning": {
+    "text": "about in the morning",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "the Old Point": {
+    "text": "the Old Point",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Grandpa": {
+    "text": "Grandpa",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Rachel": {
+    "text": "Rachel",
+    "type": [
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Miss Sellers": {
+    "text": "Miss Sellers",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Tuesday, Oct. 13, 1903": {
+    "text": "Tuesday, Oct. 13, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Wednesday, Oct. 14, 1903 Walked": {
+    "text": "Wednesday, Oct. 14, 1903 Walked",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Blue Hill": {
+    "text": "Blue Hill",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Thursday, Oct. 15, 1903": {
+    "text": "Thursday, Oct. 15, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Cambridge": {
+    "text": "Cambridge",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Toy": {
+    "text": "Toy",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Santayana": {
+    "text": "Santayana",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org",
+      "loc"
+    ]
+  },
+  "Leslie Hopkinson": {
+    "text": "Leslie Hopkinson",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Andrew": {
+    "text": "Andrew",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Orchestrelle": {
+    "text": "Orchestrelle",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "the early morning": {
+    "text": "the early morning",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Friday, Oct. 16, 1903": {
+    "text": "Friday, Oct. 16, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "the day": {
+    "text": "the day",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Willowbrook Cottage": {
+    "text": "Willowbrook Cottage",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Gertrude": {
+    "text": "Gertrude",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Tyler": {
+    "text": "Tyler",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Cottage": {
+    "text": "Cottage",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Charles": {
+    "text": "Charles",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "next week": {
+    "text": "next week",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Rabbi Fleischer": {
+    "text": "Rabbi Fleischer",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "the night before": {
+    "text": "the night before",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Michliszanski5 for": {
+    "text": "Michliszanski5 for",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Goldman": {
+    "text": "Goldman",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Tolstoi?s": {
+    "text": "Tolstoi?s",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Hinda Coen": {
+    "text": "Hinda Coen",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "James": {
+    "text": "James",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "11": {
+    "text": "11",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Green Hill": {
+    "text": "Green Hill",
+    "type": [
+      "loc",
+      "loc",
+      "per",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Brookline": {
+    "text": "Brookline",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "6 Saturday": {
+    "text": "6 Saturday",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Oct. 17, 1903": {
+    "text": "Oct. 17, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Jack Gardner": {
+    "text": "Jack Gardner",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "first": {
+    "text": "first",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Symphony Concert": {
+    "text": "Symphony Concert",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Tschaikowski": {
+    "text": "Tschaikowski",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Bruneau": {
+    "text": "Bruneau",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Brahms": {
+    "text": "Brahms",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Sarah Whitman": {
+    "text": "Sarah Whitman",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Ethics": {
+    "text": "Ethics",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Josiah Royce": {
+    "text": "Josiah Royce",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Bob": {
+    "text": "Bob",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "George Moore": {
+    "text": "George Moore",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Parkman": {
+    "text": "Parkman",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "15 020": {
+    "text": "15 020",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Higginson": {
+    "text": "Higginson",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Concerts": {
+    "text": "Concerts",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Gardner": {
+    "text": "Gardner",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "only one": {
+    "text": "only one",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Sunday, Oct. 18, 1903": {
+    "text": "Sunday, Oct. 18, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "the Country Club": {
+    "text": "the Country Club",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Dwight": {
+    "text": "Dwight",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Swift": {
+    "text": "Swift",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Rockefeller?s": {
+    "text": "Rockefeller?s",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Strong": {
+    "text": "Strong",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Lakewood": {
+    "text": "Lakewood",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "all night": {
+    "text": "all night",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Monday, Oct. 19, 1903 Walked": {
+    "text": "Monday, Oct. 19, 1903 Walked",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Library": {
+    "text": "Library",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Puvis": {
+    "text": "Puvis",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Bates Hall": {
+    "text": "Bates Hall",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Abbeys": {
+    "text": "Abbeys",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Sargeants7": {
+    "text": "Sargeants7",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Proctor": {
+    "text": "Proctor",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Evelyn?s8": {
+    "text": "Evelyn?s8",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Ellen Hale": {
+    "text": "Ellen Hale",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Edward Everett Hale": {
+    "text": "Edward Everett Hale",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "more than fourscore years": {
+    "text": "more than fourscore years",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Clayton Johns": {
+    "text": "Clayton Johns",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "20 years ago": {
+    "text": "20 years ago",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Tuesday, Oct. 20, 1903": {
+    "text": "Tuesday, Oct. 20, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Helen Hopekirk": {
+    "text": "Helen Hopekirk",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Wilson": {
+    "text": "Wilson",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "the Art Museum": {
+    "text": "the Art Museum",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Curator": {
+    "text": "Curator",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Chalfin": {
+    "text": "Chalfin",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "about 1250": {
+    "text": "about 1250",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Chinese": {
+    "text": "Chinese",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Museum": {
+    "text": "Museum",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Gerricke9": {
+    "text": "Gerricke9",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "the Jordan Hall": {
+    "text": "the Jordan Hall",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Bach": {
+    "text": "Bach",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Schumann": {
+    "text": "Schumann",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Chaplin": {
+    "text": "Chaplin",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Eroica": {
+    "text": "Eroica",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Lang": {
+    "text": "Lang",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Wednesday, Oct. 21, 1903": {
+    "text": "Wednesday, Oct. 21, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "T. H. Perry": {
+    "text": "T. H. Perry",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Franklin Park": {
+    "text": "Franklin Park",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Owen Wister?s": {
+    "text": "Owen Wister?s",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Virginian,10": {
+    "text": "Virginian,10",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Dunstan Farnum": {
+    "text": "Dunstan Farnum",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Webster": {
+    "text": "Webster",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "two weeks": {
+    "text": "two weeks",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Virginia": {
+    "text": "Virginia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Thursday, Oct. 22, 1903": {
+    "text": "Thursday, Oct. 22, 1903",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Japanese": {
+    "text": "Japanese",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Ross": {
+    "text": "Ross",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Denman": {
+    "text": "Denman",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Theodore Dwight": {
+    "text": "Theodore Dwight",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Owen Wister": {
+    "text": "Owen Wister",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  }
+}

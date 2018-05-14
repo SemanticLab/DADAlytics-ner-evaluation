@@ -1,0 +1,606 @@
+{
+  "Michigan": {
+    "text": "Michigan",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/University_of_Michigan",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Cooper Union": {
+    "text": "Cooper Union",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Cooper_Union",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "MA": {
+    "text": "MA",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Master_of_Arts",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "RISE OF THE ROBOTS": {
+    "text": "RISE OF THE ROBOTS",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Rise_of_the_Robots",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "gallery": {
+    "text": "gallery",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Art_museum",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Valerie Cooper": {
+    "text": "Valerie Cooper",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Valerie_Cooper",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "General Electric": {
+    "text": "General Electric",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/General_Electric",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Fairfield, CT": {
+    "text": "Fairfield, CT",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Fairfield,_Connecticut",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Chiang Mai": {
+    "text": "Chiang Mai",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Chiang_Mai_University",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Thailand": {
+    "text": "Thailand",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Thailand",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Newark": {
+    "text": "Newark",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Newark_Liberty_International_Airport",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Susan George": {
+    "text": "Susan George",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Susan_George_(actress)",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Time": {
+    "text": "Time",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Time",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Bangalore": {
+    "text": "Bangalore",
+    "type": [
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Bangalore",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "India": {
+    "text": "India",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/India",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Chelsea": {
+    "text": "Chelsea",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Chelsea_F.C.",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "New York": {
+    "text": "New York",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/New_York_City",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Thierry": {
+    "text": "Thierry",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Augustin_Thierry",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "MOMA": {
+    "text": "MOMA",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Museum_of_Modern_Art",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Long Island City": {
+    "text": "Long Island City",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Long_Island_City",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "PEEKSKILL": {
+    "text": "PEEKSKILL",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Peekskill,_New_York",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Metropolis": {
+    "text": "Metropolis",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Metropolis",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Hudson Valley": {
+    "text": "Hudson Valley",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Hudson_Valley",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Peekskill": {
+    "text": "Peekskill",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Peekskill,_New_York",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Tim": {
+    "text": "Tim",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Tim_Finn",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Evans": {
+    "text": "Evans",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/D'Addario",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Azabu": {
+    "text": "Azabu",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Azabu",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Tokyo": {
+    "text": "Tokyo",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Tokyo",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Japan": {
+    "text": "Japan",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Japan",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "San Francisco": {
+    "text": "San Francisco",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/San_Francisco",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "The Proposition": {
+    "text": "The Proposition",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/The_Proposition_(2005_film)",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "ASIAN AMERICAN ARTS CENTRE": {
+    "text": "ASIAN AMERICAN ARTS CENTRE",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Asian_American_Arts_Centre",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "New York City": {
+    "text": "New York City",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/New_York_City",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "KOREA SOCIETY": {
+    "text": "KOREA SOCIETY",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Korea_Society",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Fringe": {
+    "text": "Fringe",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Edinburgh_Festival_Fringe",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Time Out": {
+    "text": "Time Out",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Time_Out_Group",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Yann Arthus-Bertrand": {
+    "text": "Yann Arthus-Bertrand",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Yann_Arthus-Bertrand",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "The Hindu": {
+    "text": "The Hindu",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/The_Hindu",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Arts Magazine": {
+    "text": "Arts Magazine",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Arts_Magazine",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Art Asia Pacific": {
+    "text": "Art Asia Pacific",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/ArtAsiaPacific",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "The Japan Times": {
+    "text": "The Japan Times",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/The_Japan_Times",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Artnet": {
+    "text": "Artnet",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Artnet",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  }
+}

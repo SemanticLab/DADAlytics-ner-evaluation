@@ -1,0 +1,737 @@
+{
+  "Contact": {
+    "text": "Contact",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/The_Culture",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Lee May": {
+    "text": "Lee May",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Lee_May",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Asian American Arts Centre": {
+    "text": "Asian American Arts Centre",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Asian_American_Arts_Centre",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "China": {
+    "text": "China",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/China",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Tiananmen Square": {
+    "text": "Tiananmen Square",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Tiananmen_Square_protests_of_1989",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Broome Street": {
+    "text": "Broome Street",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Broome_Street",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "gallery": {
+    "text": "gallery",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Art_museum",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Lee": {
+    "text": "Lee",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Robert_E._Lee",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Vito Acconci": {
+    "text": "Vito Acconci",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Vito_Acconci",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Luis Cruz": {
+    "text": "Luis Cruz",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Luis_Cruz",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Luis Camnitzer": {
+    "text": "Luis Camnitzer",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Luis_Camnitzer",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Mel Chin": {
+    "text": "Mel Chin",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Mel_Chin",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Agnes Denes": {
+    "text": "Agnes Denes",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Agnes_Denes",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Lotus": {
+    "text": "Lotus",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Nelumbo_nucifera",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "John Duff": {
+    "text": "John Duff",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/John_Duff",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Leon Golub": {
+    "text": "Leon Golub",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Leon_Golub",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Harlem": {
+    "text": "Harlem",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Harlem",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Kunio": {
+    "text": "Kunio",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Kunio-kun",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Barbara Kruger": {
+    "text": "Barbara Kruger",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Barbara_Kruger",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Kenneth Noland": {
+    "text": "Kenneth Noland",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Kenneth_Noland",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Martin": {
+    "text": "Martin",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/List_of_recurring_The_Simpsons_characters",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Sofia": {
+    "text": "Sofia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Sofia",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "SoHo": {
+    "text": "SoHo",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Soho",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Argentina": {
+    "text": "Argentina",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Argentina",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Sweden": {
+    "text": "Sweden",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Sweden",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Italy": {
+    "text": "Italy",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Italy",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "France": {
+    "text": "France",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/France",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Greece": {
+    "text": "Greece",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Ancient_Greece",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Japan": {
+    "text": "Japan",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Japan",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Korea": {
+    "text": "Korea",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/South_Korea",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "vivid": {
+    "text": "vivid",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Vivid_(band)",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Human Rights In China": {
+    "text": "Human Rights In China",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Human_rights_in_China",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Tiananmen Mothers": {
+    "text": "Tiananmen Mothers",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Tiananmen_Mothers",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "amnesia": {
+    "text": "amnesia",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Amnesia",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "premeditation": {
+    "text": "premeditation",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Murder",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "resurrection": {
+    "text": "resurrection",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Resurrection",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Lower East Side": {
+    "text": "Lower East Side",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Lower_East_Side",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "archive": {
+    "text": "archive",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Archive",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Asian American": {
+    "text": "Asian American",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Asian_Americans",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Manhattan": {
+    "text": "Manhattan",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/New_York_City",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Mini": {
+    "text": "Mini",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Mini",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Pearl River": {
+    "text": "Pearl River",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Pearl_River_Delta",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "New York": {
+    "text": "New York",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/New_York_City",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Cosmopolitan": {
+    "text": "Cosmopolitan",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Cosmopolitanism",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Lions Club": {
+    "text": "Lions Club",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Lions_Clubs_International",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Yap": {
+    "text": "Yap",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Yap",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Charles": {
+    "text": "Charles",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Charles_II_of_England",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Norma": {
+    "text": "Norma",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Norma_Talmadge",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Jeanne Lee": {
+    "text": "Jeanne Lee",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Jeanne_Lee",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Lee Jackson": {
+    "text": "Lee Jackson",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Lee_Jackson_(bassist)",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Jew": {
+    "text": "Jew",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Jews",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  }
+}

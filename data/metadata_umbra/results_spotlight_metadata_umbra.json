@@ -1,0 +1,867 @@
+{
+  "tintype": {
+    "text": "tintype",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Tintype",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "windmill": {
+    "text": "windmill",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Windmill",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "chicken": {
+    "text": "chicken",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Chicken",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Fergus Falls": {
+    "text": "Fergus Falls",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Fergus_Falls,_Minnesota",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Imperial Council": {
+    "text": "Imperial Council",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Imperial_Court_System",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Minneapolis": {
+    "text": "Minneapolis",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Minneapolis",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Duluth": {
+    "text": "Duluth",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/University_of_Minnesota_Duluth",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Shriners": {
+    "text": "Shriners",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Shriners",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Fosston, Minnesota": {
+    "text": "Fosston, Minnesota",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Fosston,_Minnesota",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Minnesota": {
+    "text": "Minnesota",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Minnesota",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Mankato": {
+    "text": "Mankato",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Mankato,_Minnesota",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Lyndale Avenue": {
+    "text": "Lyndale Avenue",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Lyndale_Avenue",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "streetcar": {
+    "text": "streetcar",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Tram",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Linden Hills": {
+    "text": "Linden Hills",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Linden_Hills,_Minneapolis",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "42nd Street": {
+    "text": "42nd Street",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/42nd_Street_Shuttle",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Stinson": {
+    "text": "Stinson",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Stinson_Aircraft_Company",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Alexius": {
+    "text": "Alexius",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Alexios_I_Komnenos",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Saint Benedict": {
+    "text": "Saint Benedict",
+    "type": [
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Order_of_Saint_Benedict",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "OSB": {
+    "text": "OSB",
+    "type": [
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Order_of_Saint_Benedict",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Peter Engel": {
+    "text": "Peter Engel",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Peter_Engel",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Poland": {
+    "text": "Poland",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Poland",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "conscription": {
+    "text": "conscription",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Conscription",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Ford": {
+    "text": "Ford",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Ford_Motor_Company",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "veal": {
+    "text": "veal",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Veal",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "sugar": {
+    "text": "sugar",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Sugar",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "twine": {
+    "text": "twine",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Twine",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Arctic": {
+    "text": "Arctic",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Arctic",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Spice": {
+    "text": "Spice",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Spice",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Nicollet Island": {
+    "text": "Nicollet Island",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Nicollet_Island",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Chicago": {
+    "text": "Chicago",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Chicago",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Milwaukee": {
+    "text": "Milwaukee",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Milwaukee",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Saint Paul": {
+    "text": "Saint Paul",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per",
+      "per",
+      "per",
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Paul_the_Apostle",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "nun": {
+    "text": "nun",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Nun",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Civilian Conservation Corps": {
+    "text": "Civilian Conservation Corps",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Civilian_Conservation_Corps",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Lake Superior": {
+    "text": "Lake Superior",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Lake_Superior",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "African American": {
+    "text": "African American",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/African_Americans",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "blackface": {
+    "text": "blackface",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Blackface",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Paducah": {
+    "text": "Paducah",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Paducah_Gaseous_Diffusion_Plant",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Dubuque": {
+    "text": "Dubuque",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Dubuque",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "gunboat": {
+    "text": "gunboat",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Gunboat",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Bethel": {
+    "text": "Bethel",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Bethel",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "The view": {
+    "text": "The view",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/The_View_(talk_show)",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "fir": {
+    "text": "fir",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Fir",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "strings": {
+    "text": "strings",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/String_instrument",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "World War I": {
+    "text": "World War I",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/World_War_I",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Union Depot": {
+    "text": "Union Depot",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Saint_Paul_Union_Depot",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Benedict": {
+    "text": "Benedict",
+    "type": [
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Order_of_Saint_Benedict",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "White Earth": {
+    "text": "White Earth",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/White_Earth_Indian_Reservation",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "White Earth Band": {
+    "text": "White Earth Band",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/White_Earth_Band_of_Ojibwe",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Ojibwe": {
+    "text": "Ojibwe",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Ojibwe",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Katherine Drexel": {
+    "text": "Katherine Drexel",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Katharine_Drexel",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Philadelphia": {
+    "text": "Philadelphia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Philadelphia",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Blessed Sacrament": {
+    "text": "Blessed Sacrament",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Blessed_Sacrament",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Northwest Territory": {
+    "text": "Northwest Territory",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Northwest_Territory",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "trust": {
+    "text": "trust",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Charitable_trust",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "day school": {
+    "text": "day school",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Day_school",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "circus": {
+    "text": "circus",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Circus",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Morgan Park": {
+    "text": "Morgan Park",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Morgan_Park_High_School",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Emanuel": {
+    "text": "Emanuel",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Jesus",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  }
+}

@@ -1,0 +1,1055 @@
+{
+  "2003": {
+    "text": "2003",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2004": {
+    "text": "2004",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2005": {
+    "text": "2005",
+    "type": [
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2006": {
+    "text": "2006",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2007": {
+    "text": "2007",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2009": {
+    "text": "2009",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2012": {
+    "text": "2012",
+    "type": [
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2013": {
+    "text": "2013",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2226": {
+    "text": "2226",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Northampton": {
+    "text": "Northampton",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Fairfield": {
+    "text": "Fairfield",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "CT.": {
+    "text": "CT.",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Thailand": {
+    "text": "Thailand",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Newark": {
+    "text": "Newark",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Bangalore": {
+    "text": "Bangalore",
+    "type": [
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "India": {
+    "text": "India",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "New York": {
+    "text": "New York",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "P.S.1 MOMA": {
+    "text": "P.S.1 MOMA",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Long Island City": {
+    "text": "Long Island City",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Peekskill": {
+    "text": "Peekskill",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Tokyo": {
+    "text": "Tokyo",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Japan": {
+    "text": "Japan",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Queens": {
+    "text": "Queens",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "San Francisco": {
+    "text": "San Francisco",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "New York City": {
+    "text": "New York City",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Sunanda": {
+    "text": "Sunanda",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Asia Pacific": {
+    "text": "Asia Pacific",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "US": {
+    "text": "US",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "MFA": {
+    "text": "MFA",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "University of Michigan School of Arts & Design": {
+    "text": "University of Michigan School of Arts & Design",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "BFA": {
+    "text": "BFA",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "The Cooper Union": {
+    "text": "The Cooper Union",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Advancement of Science": {
+    "text": "Advancement of Science",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "A.P.E. Gallery": {
+    "text": "A.P.E. Gallery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "MA 2011 EXPAND & CONFLATE": {
+    "text": "MA 2011 EXPAND & CONFLATE",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "General Electric Cultural Fine Art Gallery": {
+    "text": "General Electric Cultural Fine Art Gallery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Gallery": {
+    "text": "Gallery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Chiang Mai": {
+    "text": "Chiang Mai",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Aljira Center": {
+    "text": "Aljira Center",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Time and Space Gallery": {
+    "text": "Time and Space Gallery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Hudson Valley Center for Contemporary": {
+    "text": "Hudson Valley Center for Contemporary",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Plum Blossoms Gallery": {
+    "text": "Plum Blossoms Gallery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Nishi Azabu": {
+    "text": "Nishi Azabu",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Linc Real Art Gallery": {
+    "text": "Linc Real Art Gallery",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "The Proposition Gallery": {
+    "text": "The Proposition Gallery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Nishi Nihon Shimbun": {
+    "text": "Nishi Nihon Shimbun",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Website Magazine": {
+    "text": "Website Magazine",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "The Japan Times": {
+    "text": "The Japan Times",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Queens International Magazine": {
+    "text": "Queens International Magazine",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "December 26, 2008": {
+    "text": "December 26, 2008",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "January 8, 2009": {
+    "text": "January 8, 2009",
+    "type": [
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "December 26": {
+    "text": "December 26",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "January 2, 2009": {
+    "text": "January 2, 2009",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "January 7, 2009": {
+    "text": "January 7, 2009",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "December 23rd, 2008": {
+    "text": "December 23rd, 2008",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "September 13th, 2007 2007": {
+    "text": "September 13th, 2007 2007",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "September 2007": {
+    "text": "September 2007",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Nov. 10th, 2004 2004": {
+    "text": "Nov. 10th, 2004 2004",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Nov. 7th, 2004": {
+    "text": "Nov. 7th, 2004",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Nov. 11th, 2004": {
+    "text": "Nov. 11th, 2004",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "BARNES": {
+    "text": "BARNES",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Valerie Cooper": {
+    "text": "Valerie Cooper",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Laura Kelly": {
+    "text": "Laura Kelly",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Sara Reisman": {
+    "text": "Sara Reisman",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Susan George": {
+    "text": "Susan George",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Eric Shiner": {
+    "text": "Eric Shiner",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Thierry Geoff": {
+    "text": "Thierry Geoff",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Trong Nguyen": {
+    "text": "Trong Nguyen",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Tim Evans": {
+    "text": "Tim Evans",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Yann Arthus-Bertrand": {
+    "text": "Yann Arthus-Bertrand",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Toby Barnes": {
+    "text": "Toby Barnes",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Ayesha Matthan": {
+    "text": "Ayesha Matthan",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Charlie Schultz": {
+    "text": "Charlie Schultz",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Ken Kawashima": {
+    "text": "Ken Kawashima",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  }
+}

@@ -1,0 +1,875 @@
+{
+  "William Opie": {
+    "text": "William Opie",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Fergus Falls": {
+    "text": "Fergus Falls",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Imperial Council Session": {
+    "text": "Imperial Council Session",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Minneapolis": {
+    "text": "Minneapolis",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Duluth": {
+    "text": "Duluth",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Shriners": {
+    "text": "Shriners",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Aad": {
+    "text": "Aad",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Aage Peterson Store": {
+    "text": "Aage Peterson Store",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "August": {
+    "text": "August",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Medicine": {
+    "text": "Medicine",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Fosston Minnesota": {
+    "text": "Fosston Minnesota",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Aamoth": {
+    "text": "Aamoth",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Mahnomen Minnesota": {
+    "text": "Mahnomen Minnesota",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Hardware Store": {
+    "text": "Hardware Store",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Sporting Goods": {
+    "text": "Sporting Goods",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Yellow Medicine": {
+    "text": "Yellow Medicine",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Yellow Medicine Agency": {
+    "text": "Yellow Medicine Agency",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Upper Sioux Agency State Park": {
+    "text": "Upper Sioux Agency State Park",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Minnesota": {
+    "text": "Minnesota",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Arthur Adams": {
+    "text": "Arthur Adams",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Lyndale Avenue South": {
+    "text": "Lyndale Avenue South",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Linden Hills": {
+    "text": "Linden Hills",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Interlachen": {
+    "text": "Interlachen",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "East Hennepin": {
+    "text": "East Hennepin",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Stinson": {
+    "text": "Stinson",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Drug Store": {
+    "text": "Drug Store",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Salvation": {
+    "text": "Salvation",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Abbot Alexius Edelborck": {
+    "text": "Abbot Alexius Edelborck",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Order": {
+    "text": "Order",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Saint Benedict": {
+    "text": "Saint Benedict",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Abbot Peter Engel": {
+    "text": "Abbot Peter Engel",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Jewelry Store": {
+    "text": "Jewelry Store",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Jennie Bryan": {
+    "text": "Jennie Bryan",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Malmon": {
+    "text": "Malmon",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Orbuch": {
+    "text": "Orbuch",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Poland": {
+    "text": "Poland",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Russian": {
+    "text": "Russian",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Model T Ford": {
+    "text": "Model T Ford",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Foley": {
+    "text": "Foley",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Arctic Cracker": {
+    "text": "Arctic Cracker",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Spice Company": {
+    "text": "Spice Company",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Nicollet Island": {
+    "text": "Nicollet Island",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Minneapolis Minnesota": {
+    "text": "Minneapolis Minnesota",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Worthington State College": {
+    "text": "Worthington State College",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Worthington Minnesota": {
+    "text": "Worthington Minnesota",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Saint Paul": {
+    "text": "Saint Paul",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Three": {
+    "text": "Three",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Dan Edding": {
+    "text": "Dan Edding",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Catholic": {
+    "text": "Catholic",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Corps": {
+    "text": "Corps",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "North Shore": {
+    "text": "North Shore",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Lake Superior": {
+    "text": "Lake Superior",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Grand": {
+    "text": "Grand",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "African": {
+    "text": "African",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Navel": {
+    "text": "Navel",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Dubuque Class": {
+    "text": "Dubuque Class",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Bethel": {
+    "text": "Bethel",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Merry": {
+    "text": "Merry",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "March": {
+    "text": "March",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Front Street  Center": {
+    "text": "Front Street  Center",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Avenue": {
+    "text": "Avenue",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Street": {
+    "text": "Street",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Front Street": {
+    "text": "Front Street",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Ole": {
+    "text": "Ole",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "War": {
+    "text": "War",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Union Depot": {
+    "text": "Union Depot",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Bridge": {
+    "text": "Bridge",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Saint Paul Almanac": {
+    "text": "Saint Paul Almanac",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Minnesotas": {
+    "text": "Minnesotas",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Mission": {
+    "text": "Mission",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "White": {
+    "text": "White",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "White Earth Band": {
+    "text": "White Earth Band",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "White Earth": {
+    "text": "White Earth",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Katherine Drexel": {
+    "text": "Katherine Drexel",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Philadelphia": {
+    "text": "Philadelphia",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Sisters": {
+    "text": "Sisters",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Katherine": {
+    "text": "Katherine",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Benedictines": {
+    "text": "Benedictines",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "February": {
+    "text": "February",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Abbey": {
+    "text": "Abbey",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Convent": {
+    "text": "Convent",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Large": {
+    "text": "Large",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "African Americans": {
+    "text": "African Americans",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Stewart": {
+    "text": "Stewart",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Bonga": {
+    "text": "Bonga",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "African American": {
+    "text": "African American",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Ojibwe": {
+    "text": "Ojibwe",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Park": {
+    "text": "Park",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Open House": {
+    "text": "Open House",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Sawyer": {
+    "text": "Sawyer",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Davis": {
+    "text": "Davis",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Bearmans": {
+    "text": "Bearmans",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "North Side": {
+    "text": "North Side",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Emanuel Cohen Center": {
+    "text": "Emanuel Cohen Center",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "North Minneapolis Jewish": {
+    "text": "North Minneapolis Jewish",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Center": {
+    "text": "Center",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Emanuel Cohen": {
+    "text": "Emanuel Cohen",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  }
+}

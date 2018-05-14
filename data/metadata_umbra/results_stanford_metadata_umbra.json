@@ -1,0 +1,1286 @@
+{
+  "1852": {
+    "text": "1852",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Minneapolis": {
+    "text": "Minneapolis",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Duluth": {
+    "text": "Duluth",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Starbuck": {
+    "text": "Starbuck",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Fosston": {
+    "text": "Fosston",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Minnesota": {
+    "text": "Minnesota",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Mankato": {
+    "text": "Mankato",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Dakota": {
+    "text": "Dakota",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "East Hennepin": {
+    "text": "East Hennepin",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Poland": {
+    "text": "Poland",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "St. Paul": {
+    "text": "St. Paul",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Foley": {
+    "text": "Foley",
+    "type": [
+      "loc",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Nicollet Island": {
+    "text": "Nicollet Island",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Worthington": {
+    "text": "Worthington",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Fergus Falls Brewery": {
+    "text": "Fergus Falls Brewery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Temple Imperial Council Session": {
+    "text": "Temple Imperial Council Session",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Shriners": {
+    "text": "Shriners",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Aad Temple": {
+    "text": "Aad Temple",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Aage Peterson Store": {
+    "text": "Aage Peterson Store",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Aamoth Brothers of Mahnomen": {
+    "text": "Aamoth Brothers of Mahnomen",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "A. A. Zimmerman Hardware Store": {
+    "text": "A. A. Zimmerman Hardware Store",
+    "type": [
+      "org",
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Sporting Goods Department": {
+    "text": "Sporting Goods Department",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Paint Department": {
+    "text": "Paint Department",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Yellow Medicine Agency": {
+    "text": "Yellow Medicine Agency",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Upper Sioux Agency State Park": {
+    "text": "Upper Sioux Agency State Park",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "3648 Lyndale Avenue South": {
+    "text": "3648 Lyndale Avenue South",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Linden Hills Bridge": {
+    "text": "Linden Hills Bridge",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Interlachen Bridge": {
+    "text": "Interlachen Bridge",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Stinson Blvd": {
+    "text": "Stinson Blvd",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Abbot Alexius Edelborck": {
+    "text": "Abbot Alexius Edelborck",
+    "type": [
+      "org",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "A.B. Cone Jewelry Store": {
+    "text": "A.B. Cone Jewelry Store",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Model-T Ford": {
+    "text": "Model-T Ford",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Spice Company": {
+    "text": "Spice Company",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Worthington State College": {
+    "text": "Worthington State College",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "August 19, 1933": {
+    "text": "August 19, 1933",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "William Opie": {
+    "text": "William Opie",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Aberle": {
+    "text": "Aberle",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "H. F. Mark": {
+    "text": "H. F. Mark",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "P. M. Mark": {
+    "text": "P. M. Mark",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Arthur Adams": {
+    "text": "Arthur Adams",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Peter Engel": {
+    "text": "Peter Engel",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "A.B. Cone": {
+    "text": "A.B. Cone",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Jennie Bryan": {
+    "text": "Jennie Bryan",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Paul": {
+    "text": "Paul",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Peter": {
+    "text": "Peter",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "1895": {
+    "text": "1895",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1904": {
+    "text": "1904",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1933": {
+    "text": "1933",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1945": {
+    "text": "1945",
+    "type": [
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1971": {
+    "text": "1971",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2015": {
+    "text": "2015",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2016": {
+    "text": "2016",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2017": {
+    "text": "2017",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Chicago Milwaukee": {
+    "text": "Chicago Milwaukee",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "North Shore of Lake Superior": {
+    "text": "North Shore of Lake Superior",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Grand Marais": {
+    "text": "Grand Marais",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Paducah": {
+    "text": "Paducah",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Bethel": {
+    "text": "Bethel",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Union Depot": {
+    "text": "Union Depot",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "White Earth": {
+    "text": "White Earth",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Philadelphia": {
+    "text": "Philadelphia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "St. Benedict": {
+    "text": "St. Benedict",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "North Minneapolis": {
+    "text": "North Minneapolis",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Civilian Conservation Corps": {
+    "text": "Civilian Conservation Corps",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Dubuque Class": {
+    "text": "Dubuque Class",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "4th Street North": {
+    "text": "4th Street North",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "American Indians": {
+    "text": "American Indians",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Northwest Territory": {
+    "text": "Northwest Territory",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "St. John's Abbey": {
+    "text": "St. John's Abbey",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "St. Benedict's Mission": {
+    "text": "St. Benedict's Mission",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "SBMA": {
+    "text": "SBMA",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "McDonald": {
+    "text": "McDonald",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Open House": {
+    "text": "Open House",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Emanuel Cohen Center": {
+    "text": "Emanuel Cohen Center",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Center": {
+    "text": "Center",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "winter": {
+    "text": "winter",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "March 1902": {
+    "text": "March 1902",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "summer of 1890": {
+    "text": "summer of 1890",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "February 10, 1892": {
+    "text": "February 10, 1892",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Dan Edding": {
+    "text": "Dan Edding",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Henry Merry": {
+    "text": "Henry Merry",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Ole E. Flaten": {
+    "text": "Ole E. Flaten",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Paul Almanac": {
+    "text": "Paul Almanac",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Benedict": {
+    "text": "Benedict",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Katherine Drexel": {
+    "text": "Katherine Drexel",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Stewart Hall": {
+    "text": "Stewart Hall",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "George Bonga": {
+    "text": "George Bonga",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Sawyer": {
+    "text": "Sawyer",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Davis": {
+    "text": "Davis",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Emanuel Cohen": {
+    "text": "Emanuel Cohen",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "stanford"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  }
+}

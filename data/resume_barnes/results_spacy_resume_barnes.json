@@ -1,0 +1,1785 @@
+{
+  "1": {
+    "text": "1",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "2": {
+    "text": "2",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "10": {
+    "text": "10",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "12": {
+    "text": "12",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "44": {
+    "text": "44",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "109": {
+    "text": "109",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "2003": {
+    "text": "2003",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2004": {
+    "text": "2004",
+    "type": [
+      "date",
+      "date",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2005": {
+    "text": "2005",
+    "type": [
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2007": {
+    "text": "2007",
+    "type": [
+      "date",
+      "date",
+      "date",
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2008": {
+    "text": "2008",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2009": {
+    "text": "2009",
+    "type": [
+      "date",
+      "date",
+      "date",
+      "date",
+      "date",
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2013": {
+    "text": "2013",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2226": {
+    "text": "2226",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "1997-1999": {
+    "text": "1997-1999",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "MFA": {
+    "text": "MFA",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "the University of Michigan School of Arts & Design": {
+    "text": "the University of Michigan School of Arts & Design",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "1993-1997": {
+    "text": "1993-1997",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "The Cooper Union for the Advancement of Science and Arts": {
+    "text": "The Cooper Union for the Advancement of Science and Arts",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "ALTARED STATES": {
+    "text": "ALTARED STATES",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "A.P.E. Gallery": {
+    "text": "A.P.E. Gallery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Northampton": {
+    "text": "Northampton",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "ROBOTS": {
+    "text": "ROBOTS",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "2012 YEAR": {
+    "text": "2012 YEAR",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "DRAGON": {
+    "text": "DRAGON",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "FOE": {
+    "text": "FOE",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "MA 2011 EXPAND & CONFLATE": {
+    "text": "MA 2011 EXPAND & CONFLATE",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Valerie Cooper": {
+    "text": "Valerie Cooper",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "General Electric Cultural Fine Art Gallery": {
+    "text": "General Electric Cultural Fine Art Gallery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Fairfield": {
+    "text": "Fairfield",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "CT": {
+    "text": "CT",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "SUPERHEROES": {
+    "text": "SUPERHEROES",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Laura Kelly": {
+    "text": "Laura Kelly",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Chiang Mai, Thailand": {
+    "text": "Chiang Mai, Thailand",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Sara Reisman": {
+    "text": "Sara Reisman",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Aljira Center for Contemporary Art": {
+    "text": "Aljira Center for Contemporary Art",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Newark": {
+    "text": "Newark",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "NJ 2008": {
+    "text": "NJ 2008",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Renu &": {
+    "text": "Renu &",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Susan George": {
+    "text": "Susan George",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Time and Space Gallery": {
+    "text": "Time and Space Gallery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Bangalore": {
+    "text": "Bangalore",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "India": {
+    "text": "India",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "U CAN\u2019T": {
+    "text": "U CAN\u2019T",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "TOUCH": {
+    "text": "TOUCH",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "DIS": {
+    "text": "DIS",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Eric Shiner": {
+    "text": "Eric Shiner",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Zone Chelsea Art Center": {
+    "text": "Zone Chelsea Art Center",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "New York": {
+    "text": "New York",
+    "type": [
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "NY": {
+    "text": "NY",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Thierry Geoff": {
+    "text": "Thierry Geoff",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "P.S.1": {
+    "text": "P.S.1",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Long Island City": {
+    "text": "Long Island City",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "PEEKSKILL PROJECT": {
+    "text": "PEEKSKILL PROJECT",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Metropolis": {
+    "text": "Metropolis",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Trong Nguyen": {
+    "text": "Trong Nguyen",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "the Hudson Valley Center for Contemporary Art": {
+    "text": "the Hudson Valley Center for Contemporary Art",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Peekskill": {
+    "text": "Peekskill",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Tim Evans": {
+    "text": "Tim Evans",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Blossoms Gallery": {
+    "text": "Blossoms Gallery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "PSIONIC DISTORTION": {
+    "text": "PSIONIC DISTORTION",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "the Super-Deluxe Gallery": {
+    "text": "the Super-Deluxe Gallery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Nishi Azabu": {
+    "text": "Nishi Azabu",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Tokyo": {
+    "text": "Tokyo",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Japan": {
+    "text": "Japan",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "QUEENS INTERNATIONAL": {
+    "text": "QUEENS INTERNATIONAL",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "the Queens Museum of Art": {
+    "text": "the Queens Museum of Art",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "BLIND PILOTS": {
+    "text": "BLIND PILOTS",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Linc Real Art Gallery": {
+    "text": "Linc Real Art Gallery",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "San Francisco": {
+    "text": "San Francisco",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "CA 2004": {
+    "text": "CA 2004",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "The Proposition Gallery": {
+    "text": "The Proposition Gallery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "ASIAN AMERICAN ARTS CENTRE": {
+    "text": "ASIAN AMERICAN ARTS CENTRE",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "13th": {
+    "text": "13th",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Emerging Artists Exhibition": {
+    "text": "Emerging Artists Exhibition",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "New York City": {
+    "text": "New York City",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "KOREA SOCIETY": {
+    "text": "KOREA SOCIETY",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Artists\u2019 Talk New York City": {
+    "text": "Artists\u2019 Talk New York City",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Subversions and Transformations": {
+    "text": "Subversions and Transformations",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Japanese": {
+    "text": "Japanese",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Fringe": {
+    "text": "Fringe",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "CA BIBLIOGRAPHY/": {
+    "text": "CA BIBLIOGRAPHY/",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Bengalaru": {
+    "text": "Bengalaru",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Cover Artist, Art Section": {
+    "text": "Cover Artist, Art Section",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "December 26, 2008 \u2013January 8, 2009": {
+    "text": "December 26, 2008 \u2013January 8, 2009",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Cosmic": {
+    "text": "Cosmic",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Yann Arthus-Bertrand": {
+    "text": "Yann Arthus-Bertrand",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "December 26 \u2013 January 8, 2009": {
+    "text": "December 26 \u2013 January 8, 2009",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "My Bangalore": {
+    "text": "My Bangalore",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Clustering Concepts": {
+    "text": "Clustering Concepts",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Sunanda": {
+    "text": "Sunanda",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "January 2, 2009": {
+    "text": "January 2, 2009",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Interview with Toby Barnes": {
+    "text": "Interview with Toby Barnes",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "January 7, 2009.": {
+    "text": "January 7, 2009.",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Hindu": {
+    "text": "Hindu",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Multiple Mindscapes": {
+    "text": "Multiple Mindscapes",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Ayesha Matthan": {
+    "text": "Ayesha Matthan",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "December 23rd, 2008": {
+    "text": "December 23rd, 2008",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "ArtSlant New York": {
+    "text": "ArtSlant New York",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "The Emerging Asian Artists": {
+    "text": "The Emerging Asian Artists",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Charlie Schultz": {
+    "text": "Charlie Schultz",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "September 13th": {
+    "text": "September 13th",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Nishi Nihon": {
+    "text": "Nishi Nihon",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Shimbun,": {
+    "text": "Shimbun,",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Review of Show": {
+    "text": "Review of Show",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Touch Dis": {
+    "text": "Touch Dis",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "September 2007": {
+    "text": "September 2007",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "New York Arts Magazine": {
+    "text": "New York Arts Magazine",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Cover Artist": {
+    "text": "Cover Artist",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Art Asia Pacific": {
+    "text": "Art Asia Pacific",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Spring Issue": {
+    "text": "Spring Issue",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Projects in the Making:": {
+    "text": "Projects in the Making:",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Flavorpill, Website Magazine": {
+    "text": "Flavorpill, Website Magazine",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "The Japan Times": {
+    "text": "The Japan Times",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Manga Animates the New Millenium": {
+    "text": "Manga Animates the New Millenium",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Ken Kawashima": {
+    "text": "Ken Kawashima",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Nov. 10th, 2004 2004": {
+    "text": "Nov. 10th, 2004 2004",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Queens International Magazine": {
+    "text": "Queens International Magazine",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Nov. 7th": {
+    "text": "Nov. 7th",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "2004 2004": {
+    "text": "2004 2004",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "Artnet": {
+    "text": "Artnet",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "New this Month": {
+    "text": "New this Month",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "US": {
+    "text": "US",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Museums\u201d": {
+    "text": "Museums\u201d",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Nov. 11th, 2004": {
+    "text": "Nov. 11th, 2004",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  }
+}

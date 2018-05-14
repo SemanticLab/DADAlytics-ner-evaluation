@@ -1,0 +1,534 @@
+{
+  "description": "interview with jazz artist Ute Lemper_8/28/08",
+  "entities": [
+    {
+      "type": "per",
+      "value": "Ute Lemper"
+    },
+    {
+      "type": "date",
+      "value": "8/28/08"
+    },
+    {
+      "type": "loc",
+      "value": "Carnegie Hall"
+    },
+    {
+      "type": "date",
+      "value": "1987"
+    },
+    {
+      "type": "loc",
+      "value": "America"
+    },
+    {
+      "type": "loc",
+      "value": "New York"
+    },
+    {
+      "type": "per",
+      "value": "Liza Minnelli"
+    },
+    {
+      "type": "loc",
+      "value": "Germany"
+    },
+    {
+      "type": "per",
+      "value": "Liza"
+    },
+    {
+      "type": "per",
+      "value": "Mahler"
+    },
+    {
+      "type": "per",
+      "value": "Thomas Quasthoff"
+    },
+    {
+      "type": "per",
+      "value": "Keith Jarrett"
+    },
+    {
+      "type": "date",
+      "value": "'87"
+    },
+    {
+      "type": "misc",
+      "value": "the Pops"
+    },
+    {
+      "type": "loc",
+      "value": "Europe"
+    },
+    {
+      "type": "loc",
+      "value": "Austria"
+    },
+    {
+      "type": "org",
+      "value": "Reinhardt Seminar"
+    },
+    {
+      "type": "date",
+      "value": "1981"
+    },
+    {
+      "type": "date",
+      "value": "1982"
+    },
+    {
+      "type": "misc",
+      "value": "the 'clone' productions"
+    },
+    {
+      "type": "per",
+      "value": "Lloyd Webber"
+    },
+    {
+      "type": "misc",
+      "value": "Cats"
+    },
+    {
+      "type": "loc",
+      "value": "Berlin"
+    },
+    {
+      "type": "misc",
+      "value": "Peter Pan"
+    },
+    {
+      "type": "misc",
+      "value": "Guys and Dolls"
+    },
+    {
+      "type": "per",
+      "value": "Kurt Weill"
+    },
+    {
+      "type": "misc",
+      "value": "Blue Angel"
+    },
+    {
+      "type": "per",
+      "value": "Chekhov"
+    },
+    {
+      "type": "per",
+      "value": "Ibsen"
+    },
+    {
+      "type": "per",
+      "value": "Strindberg"
+    },
+    {
+      "type": "per",
+      "value": "Berthold Brecht"
+    },
+    {
+      "type": "misc",
+      "value": "Weimar Republic"
+    },
+    {
+      "type": "per",
+      "value": "Weill"
+    },
+    {
+      "type": "misc",
+      "value": "The Seven Deadly Sins"
+    },
+    {
+      "type": "per",
+      "value": "Weill-Brecht"
+    },
+    {
+      "type": "per",
+      "value": "Astor Piazzolla"
+    },
+    {
+      "type": "per",
+      "value": "Brecht"
+    },
+    {
+      "type": "date",
+      "value": "1935"
+    },
+    {
+      "type": "loc",
+      "value": "Paris"
+    },
+    {
+      "type": "per",
+      "value": "Georges Balanchine"
+    },
+    {
+      "type": "org",
+      "value": "Nazis"
+    },
+    {
+      "type": "loc",
+      "value": "Champs-Elysees"
+    },
+    {
+      "type": "per",
+      "value": "Anna I"
+    },
+    {
+      "type": "per",
+      "value": "Anna II"
+    },
+    {
+      "type": "per",
+      "value": "Lotte Lenya"
+    },
+    {
+      "type": "loc",
+      "value": "United States"
+    },
+    {
+      "type": "loc",
+      "value": "Hollywood"
+    },
+    {
+      "type": "per",
+      "value": "Anna"
+    },
+    {
+      "type": "loc",
+      "value": "Louisianna"
+    },
+    {
+      "type": "misc",
+      "value": "Nevada"
+    },
+    {
+      "type": "misc",
+      "value": "Cold War"
+    },
+    {
+      "type": "misc",
+      "value": "the Wall"
+    },
+    {
+      "type": "loc",
+      "value": "East"
+    },
+    {
+      "type": "loc",
+      "value": "West"
+    },
+    {
+      "type": "misc",
+      "value": "East Bloc"
+    },
+    {
+      "type": "per",
+      "value": "Wim Wenders"
+    },
+    {
+      "type": "misc",
+      "value": "Berlin"
+    },
+    {
+      "type": "misc",
+      "value": "New York"
+    },
+    {
+      "type": "date",
+      "value": "September 11th"
+    },
+    {
+      "type": "misc",
+      "value": "Labor Day"
+    },
+    {
+      "type": "loc",
+      "value": "Nevada"
+    },
+    {
+      "type": "date",
+      "value": "'50s"
+    },
+    {
+      "type": "misc",
+      "value": "Fox"
+    },
+    {
+      "type": "misc",
+      "value": "Apache"
+    },
+    {
+      "type": "misc",
+      "value": "Underdog"
+    },
+    {
+      "type": "misc",
+      "value": "Nomad"
+    },
+    {
+      "type": "loc",
+      "value": "Middle East"
+    },
+    {
+      "type": "per",
+      "value": "Ibn al Arabi"
+    },
+    {
+      "type": "date",
+      "value": "12th century"
+    },
+    {
+      "type": "misc",
+      "value": "Kaaba"
+    },
+    {
+      "type": "misc",
+      "value": "Torah"
+    },
+    {
+      "type": "loc",
+      "value": "Koran"
+    },
+    {
+      "type": "loc",
+      "value": "Carnegie Hall"
+    },
+    {
+      "type": "date",
+      "value": "'60s"
+    },
+    {
+      "type": "date",
+      "value": "'70s"
+    },
+    {
+      "type": "misc",
+      "value": "Pink Floyd"
+    },
+    {
+      "type": "misc",
+      "value": "Dire Straits"
+    },
+    {
+      "type": "misc",
+      "value": "Bob Dylan"
+    },
+    {
+      "type": "misc",
+      "value": "Billy Joel"
+    },
+    {
+      "type": "misc",
+      "value": "Stevie Wonder"
+    },
+    {
+      "type": "misc",
+      "value": "R&B"
+    },
+    {
+      "type": "loc",
+      "value": "Britain"
+    },
+    {
+      "type": "per",
+      "value": "Fitzgerald"
+    },
+    {
+      "type": "per",
+      "value": "Cole Porter"
+    },
+    {
+      "type": "per",
+      "value": "Duke Ellington"
+    },
+    {
+      "type": "per",
+      "value": "Marx"
+    },
+    {
+      "type": "per",
+      "value": "Martin Luther King"
+    },
+    {
+      "type": "per",
+      "value": "Hitler"
+    },
+    {
+      "type": "misc",
+      "value": "Fascism"
+    },
+    {
+      "type": "misc",
+      "value": "Aryans"
+    },
+    {
+      "type": "per",
+      "value": "Eisler"
+    },
+    {
+      "type": "per",
+      "value": "Mitterling"
+    },
+    {
+      "type": "per",
+      "value": "Hollaender"
+    },
+    {
+      "type": "per",
+      "value": "Spoliansky"
+    },
+    {
+      "type": "loc",
+      "value": "England"
+    },
+    {
+      "type": "misc",
+      "value": "Chicago"
+    },
+    {
+      "type": "loc",
+      "value": "Carlisle Club"
+    },
+    {
+      "type": "loc",
+      "value": "Broadway"
+    },
+    {
+      "type": "loc",
+      "value": "West End"
+    },
+    {
+      "type": "loc",
+      "value": "Joe's Pub"
+    },
+    {
+      "type": "per",
+      "value": "Joe Papp"
+    },
+    {
+      "type": "per",
+      "value": "Mark Littstein"
+    },
+    {
+      "type": "loc",
+      "value": "The Public Theater"
+    },
+    {
+      "type": "loc",
+      "value": "Town Hall"
+    },
+    {
+      "type": "loc",
+      "value": "Bottom Line"
+    },
+    {
+      "type": "loc",
+      "value": "the University"
+    },
+    {
+      "type": "loc",
+      "value": "Alice Tully Hall"
+    },
+    {
+      "type": "loc",
+      "value": "Lincoln Center"
+    },
+    {
+      "type": "loc",
+      "value": "Merkin Hall"
+    },
+    {
+      "type": "loc",
+      "value": "Carlisle"
+    },
+    {
+      "type": "loc",
+      "value": "Neue Gallerie"
+    },
+    {
+      "type": "loc",
+      "value": "Upper East Side"
+    },
+    {
+      "type": "per",
+      "value": "Klimt"
+    },
+    {
+      "type": "per",
+      "value": "Egon Schiele"
+    },
+    {
+      "type": "per",
+      "value": "George Grosz"
+    },
+    {
+      "type": "date",
+      "value": "Weimar Republic era"
+    },
+    {
+      "type": "date",
+      "value": "pre-Weimar"
+    },
+    {
+      "type": "misc",
+      "value": "Expressionists"
+    },
+    {
+      "type": "misc",
+      "value": "First World War"
+    },
+    {
+      "type": "misc",
+      "value": "Expressionism"
+    },
+    {
+      "type": "misc",
+      "value": "Orpheus"
+    },
+    {
+      "type": "org",
+      "value": "Toronto Symphony"
+    },
+    {
+      "type": "per",
+      "value": "Piaf"
+    },
+    {
+      "type": "per",
+      "value": "Larry Foster"
+    },
+    {
+      "type": "loc",
+      "value": "Spain"
+    },
+    {
+      "type": "loc",
+      "value": "Barcelona"
+    },
+    {
+      "type": "loc",
+      "value": "Prague"
+    },
+    {
+      "type": "loc",
+      "value": "Prague Symphony Orchestra"
+    },
+    {
+      "type": "date",
+      "value": "20th century"
+    },
+    {
+      "type": "misc",
+      "value": "Three-Penny Opera"
+    },
+    {
+      "type": "misc",
+      "value": "Mahogany"
+    },
+    {
+      "type": "misc",
+      "value": "Happy"
+    }
+  ],
+  "orginalFilename": "Ute Lemper Interview_CH1328078_Danaversion"
+}

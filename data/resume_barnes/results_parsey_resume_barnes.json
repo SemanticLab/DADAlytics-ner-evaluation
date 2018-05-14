@@ -1,0 +1,794 @@
+{
+  "University": {
+    "text": "University",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Michigan School": {
+    "text": "Michigan School",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Arts": {
+    "text": "Arts",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "BFA": {
+    "text": "BFA",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Cooper Union": {
+    "text": "Cooper Union",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Science": {
+    "text": "Science",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gallery Northampton": {
+    "text": "Gallery Northampton",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Northampton": {
+    "text": "Northampton",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Valerie Cooper": {
+    "text": "Valerie Cooper",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "General Electric Cultural Fine Art Gallery": {
+    "text": "General Electric Cultural Fine Art Gallery",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Fairfield": {
+    "text": "Fairfield",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Laura Kelly": {
+    "text": "Laura Kelly",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Look": {
+    "text": "Look",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Gallery Chiang Mai": {
+    "text": "Gallery Chiang Mai",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "EMERGE": {
+    "text": "EMERGE",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Sara Reisman": {
+    "text": "Sara Reisman",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Aljira Center": {
+    "text": "Aljira Center",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Contemporary Art": {
+    "text": "Contemporary Art",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Newark NJ": {
+    "text": "Newark NJ",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "PRANIME": {
+    "text": "PRANIME",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Renu": {
+    "text": "Renu",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Susan George": {
+    "text": "Susan George",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Time": {
+    "text": "Time",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Space Gallery": {
+    "text": "Space Gallery",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Bangalore": {
+    "text": "Bangalore",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Eric Shiner": {
+    "text": "Eric Shiner",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Zone Chelsea Art Center": {
+    "text": "Zone Chelsea Art Center",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "New York": {
+    "text": "New York",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "EMERGENCY ROOM": {
+    "text": "EMERGENCY ROOM",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "MOMA": {
+    "text": "MOMA",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Long Island City": {
+    "text": "Long Island City",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "PEEKSKILL PROJECT": {
+    "text": "PEEKSKILL PROJECT",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Metropolis": {
+    "text": "Metropolis",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Trong Nguyen": {
+    "text": "Trong Nguyen",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Hudson Valley Center": {
+    "text": "Hudson Valley Center",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Tim Evans": {
+    "text": "Tim Evans",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Plum Blossoms Gallery": {
+    "text": "Plum Blossoms Gallery",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "NY": {
+    "text": "NY",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Tokyo Japan": {
+    "text": "Tokyo Japan",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Queens Museum": {
+    "text": "Queens Museum",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Art NY": {
+    "text": "Art NY",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "BLIND PILOTS": {
+    "text": "BLIND PILOTS",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Linc Real Art Gallery": {
+    "text": "Linc Real Art Gallery",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "San Francisco": {
+    "text": "San Francisco",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Proposition Gallery": {
+    "text": "Proposition Gallery",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Emerging": {
+    "text": "Emerging",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "New York City": {
+    "text": "New York City",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Guest Speaker": {
+    "text": "Guest Speaker",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Talk New York City": {
+    "text": "Talk New York City",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "METONYMICS": {
+    "text": "METONYMICS",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Japanese Fringe": {
+    "text": "Japanese Fringe",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "San Francisco CA BIBLIOGRAPHY": {
+    "text": "San Francisco CA BIBLIOGRAPHY",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "PRESS": {
+    "text": "PRESS",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Bengalaru Cover Artist": {
+    "text": "Bengalaru Cover Artist",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Art Section": {
+    "text": "Art Section",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "December": {
+    "text": "December",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "\u2013January": {
+    "text": "\u2013January",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Bengalaru Cosmic Relief": {
+    "text": "Bengalaru Cosmic Relief",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Yann Arthus Bertrand": {
+    "text": "Yann Arthus Bertrand",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "January": {
+    "text": "January",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Bangalore Clustering Concepts": {
+    "text": "Bangalore Clustering Concepts",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Sunanda January": {
+    "text": "Sunanda January",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "My Bangalore": {
+    "text": "My Bangalore",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Toby Barnes": {
+    "text": "Toby Barnes",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Hindu": {
+    "text": "Hindu",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Ayesha Matthan": {
+    "text": "Ayesha Matthan",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "ArtSlant New York": {
+    "text": "ArtSlant New York",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Emerging Asian Artists": {
+    "text": "Emerging Asian Artists",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Charlie Schultz": {
+    "text": "Charlie Schultz",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "September": {
+    "text": "September",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Nishi Nihon Shimbun": {
+    "text": "Nishi Nihon Shimbun",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Review": {
+    "text": "Review",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Touch Dis": {
+    "text": "Touch Dis",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "New York Arts Magazine": {
+    "text": "New York Arts Magazine",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Cover Artist": {
+    "text": "Cover Artist",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Asia Pacific": {
+    "text": "Asia Pacific",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Spring Issue": {
+    "text": "Spring Issue",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Making Artist Profile": {
+    "text": "Making Artist Profile",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Flavorpill Website Magazine": {
+    "text": "Flavorpill Website Magazine",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Japan Times": {
+    "text": "Japan Times",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Manga Animates": {
+    "text": "Manga Animates",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "New Millenium": {
+    "text": "New Millenium",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Ken Kawashima": {
+    "text": "Ken Kawashima",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Nov": {
+    "text": "Nov",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Queens": {
+    "text": "Queens",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Artnet New": {
+    "text": "Artnet New",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Month": {
+    "text": "Month",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "US Museums": {
+    "text": "US Museums",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  }
+}

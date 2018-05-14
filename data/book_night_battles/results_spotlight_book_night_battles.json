@@ -1,0 +1,1753 @@
+{
+  "Cividale": {
+    "text": "Cividale",
+    "type": [
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Cividale_del_Friuli",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Friuli": {
+    "text": "Friuli",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Friuli",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "vicar general": {
+    "text": "vicar general",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Vicar_general",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Giulio": {
+    "text": "Giulio",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Giulio_Ricordi",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Assisi": {
+    "text": "Assisi",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Assisi",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Conventuals": {
+    "text": "Conventuals",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Order_of_Friars_Minor_Conventual",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "inquisitor": {
+    "text": "inquisitor",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Inquisitor",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Aquileia": {
+    "text": "Aquileia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Aquileia",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Concordia": {
+    "text": "Concordia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Concordia_Sagittaria",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Pietro": {
+    "text": "Pietro",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Pietro_Lorenzetti",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "witchery": {
+    "text": "witchery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Witchery",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Ember Days": {
+    "text": "Ember Days",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Ember_days",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Verona": {
+    "text": "Verona",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Verona",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "sorghum": {
+    "text": "sorghum",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Sorghum",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "strange tales": {
+    "text": "strange tales",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Strange_Tales",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "nocturnal": {
+    "text": "nocturnal",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Nocturnality",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "wine": {
+    "text": "wine",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Wine",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Easter": {
+    "text": "Easter",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Easter",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Gorizia": {
+    "text": "Gorizia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Gorizia",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "benandanti": {
+    "text": "benandanti",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Benandanti",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Holy Office": {
+    "text": "Holy Office",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Inquisition",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "avail": {
+    "text": "avail",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Avail",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "jousting": {
+    "text": "jousting",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Jousting",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "crier": {
+    "text": "crier",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Town_crier",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "abjuration": {
+    "text": "abjuration",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Abjuration",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Montefalco": {
+    "text": "Montefalco",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Montefalco",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "left unfinished": {
+    "text": "left unfinished",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Through_the_Ashes_of_Empires",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Lutheran": {
+    "text": "Lutheran",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Martin_Luther",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "witch": {
+    "text": "witch",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Witchcraft",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Benandanti": {
+    "text": "Benandanti",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Benandanti",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "fertility rite": {
+    "text": "fertility rite",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Fertility_rite",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "caul": {
+    "text": "caul",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Caul",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Cologne": {
+    "text": "Cologne",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Cologne",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "silk": {
+    "text": "silk",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Silk",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "battle": {
+    "text": "battle",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Battle",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Inquisition": {
+    "text": "Inquisition",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Inquisition",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Vicenza": {
+    "text": "Vicenza",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Vicenza",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "viburnum": {
+    "text": "viburnum",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Viburnum",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Rogation days": {
+    "text": "Rogation days",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Rogation_days",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "red beard": {
+    "text": "red beard",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Red_Beard",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Chiana": {
+    "text": "Chiana",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/List_of_Farscape_characters",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Capodistria": {
+    "text": "Capodistria",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Koper",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Udine": {
+    "text": "Udine",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Friuli",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Christian": {
+    "text": "Christian",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Christianity",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Jesus": {
+    "text": "Jesus",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Jesus",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Madonna": {
+    "text": "Madonna",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Honorific_nicknames_in_popular_music",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "scudo": {
+    "text": "scudo",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Italian_scudo",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "excommunication": {
+    "text": "excommunication",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Excommunication",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "bond": {
+    "text": "bond",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Bail",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "placenta": {
+    "text": "placenta",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Placenta",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "San Bernardino": {
+    "text": "San Bernardino",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Bernardino_of_Siena",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Rome": {
+    "text": "Rome",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Pope",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "monk": {
+    "text": "monk",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Monk",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Italy": {
+    "text": "Italy",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Italy",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Istria": {
+    "text": "Istria",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Istria",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Diana": {
+    "text": "Diana",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Wonder_Woman",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "catalepsy": {
+    "text": "catalepsy",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Catalepsy",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "witchcraft": {
+    "text": "witchcraft",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Witchcraft",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "epilepsy": {
+    "text": "epilepsy",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Epilepsy",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Alfonso": {
+    "text": "Alfonso",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Alfonso_XI_of_Castile",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Genesis": {
+    "text": "Genesis",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Book_of_Genesis",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Giovanni Battista Della Porta": {
+    "text": "Giovanni Battista Della Porta",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Giambattista_della_Porta",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "unguent": {
+    "text": "unguent",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Flying_ointment",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "modem": {
+    "text": "modem",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Modem",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "hallucination": {
+    "text": "hallucination",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Hallucination",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "delirium": {
+    "text": "delirium",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Delirium",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Latisana": {
+    "text": "Latisana",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Latisana",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Palmanova": {
+    "text": "Palmanova",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Palmanova",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Venice": {
+    "text": "Venice",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Venice",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "mystery": {
+    "text": "mystery",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Greco-Roman_mysteries",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "pharmacology": {
+    "text": "pharmacology",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Pharmacology",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "psychiatry": {
+    "text": "psychiatry",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Psychiatry",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Lucca": {
+    "text": "Lucca",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Lucca",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Lena": {
+    "text": "Lena",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Lena_River",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "cat": {
+    "text": "cat",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Cat",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "soul": {
+    "text": "soul",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Soul",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Lucchese": {
+    "text": "Lucchese",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Lucca",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Pieve": {
+    "text": "Pieve",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Pieve",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "mouse": {
+    "text": "mouse",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Mouse",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "consensus gentium": {
+    "text": "consensus gentium",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Argumentum_ad_populum",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Andrea Alciato": {
+    "text": "Andrea Alciato",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Andrea_Alciato",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "hellebore": {
+    "text": "hellebore",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Hellebore",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Canon Episcopi": {
+    "text": "Canon Episcopi",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Canon_Episcopi",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Johann Weyer": {
+    "text": "Johann Weyer",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Johann_Weyer",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "fantasy": {
+    "text": "fantasy",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Fantasy",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "heresy": {
+    "text": "heresy",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Heresy",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "untouched": {
+    "text": "untouched",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Untouched_(song)",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Ascension": {
+    "text": "Ascension",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Ascension_of_Jesus",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "San Daniele": {
+    "text": "San Daniele",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/San_Daniele_del_Friuli",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Rogation Days": {
+    "text": "Rogation Days",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Rogation_days",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "wayfaring tree": {
+    "text": "wayfaring tree",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Viburnum_lantana",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Friulian": {
+    "text": "Friulian",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Friuli",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Carnia": {
+    "text": "Carnia",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Carnia",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Epiphany": {
+    "text": "Epiphany",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Church_cantata",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Lutheranism": {
+    "text": "Lutheranism",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Lutheranism",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "scorn": {
+    "text": "scorn",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Scorn_(band)",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "millet": {
+    "text": "millet",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Millet",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "garlic": {
+    "text": "garlic",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Garlic",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "maleficent": {
+    "text": "maleficent",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Maleficent",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "syncretism": {
+    "text": "syncretism",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Syncretism",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "debouch": {
+    "text": "debouch",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Debouch",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "apostasy": {
+    "text": "apostasy",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Apostasy",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Modena": {
+    "text": "Modena",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Modena",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Livonian": {
+    "text": "Livonian",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Livonia",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "werewolf": {
+    "text": "werewolf",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Werewolf",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "lycanthropy": {
+    "text": "lycanthropy",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Werewolf",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Germany": {
+    "text": "Germany",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Nazi_Germany",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Baltic": {
+    "text": "Baltic",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Balts",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "werewolves": {
+    "text": "werewolves",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Werewolf",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "St Lucia": {
+    "text": "St Lucia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Saint_Lucia",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Pentecost": {
+    "text": "Pentecost",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Pentecost",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "wolves": {
+    "text": "wolves",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Gray_wolf",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "barley": {
+    "text": "barley",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Barley",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "rye": {
+    "text": "rye",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Rye",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Livonia": {
+    "text": "Livonia",
+    "type": [
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Livonia",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Slavic": {
+    "text": "Slavic",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Historical_Slavic_religion",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Caspar Peucer": {
+    "text": "Caspar Peucer",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Caspar_Peucer",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Riga": {
+    "text": "Riga",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Riga",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "butterfly": {
+    "text": "butterfly",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Butterfly",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "man-wolf": {
+    "text": "man-wolf",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/John_Jameson_(comics)",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "ravager": {
+    "text": "ravager",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Rose_Wilson",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  }
+}

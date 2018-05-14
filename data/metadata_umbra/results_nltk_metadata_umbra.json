@@ -1,0 +1,1655 @@
+{
+  "Images": {
+    "text": "Images",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Mr. Aberle": {
+    "text": "Mr. Aberle",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Fergus Falls Brewery": {
+    "text": "Fergus Falls Brewery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "AAD Temple Imperial Council Session": {
+    "text": "AAD Temple Imperial Council Session",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Minneapolis": {
+    "text": "Minneapolis",
+    "type": [
+      "misc",
+      "per",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc",
+      "per"
+    ]
+  },
+  "Duluth": {
+    "text": "Duluth",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org",
+      "loc"
+    ]
+  },
+  "Shriners": {
+    "text": "Shriners",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Aad Temple": {
+    "text": "Aad Temple",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Exterior": {
+    "text": "Exterior",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Aage Peterson Store": {
+    "text": "Aage Peterson Store",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Starbuck": {
+    "text": "Starbuck",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Receipt": {
+    "text": "Receipt",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "August 19 , 1933": {
+    "text": "August 19 , 1933",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "H.": {
+    "text": "H.",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "F. Mark": {
+    "text": "F. Mark",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "P. M. Mark Medicine Company": {
+    "text": "P. M. Mark Medicine Company",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Fosston": {
+    "text": "Fosston",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Minnesota": {
+    "text": "Minnesota",
+    "type": [
+      "org",
+      "org",
+      "loc",
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc",
+      "tim"
+    ]
+  },
+  "Aamoth Brothers": {
+    "text": "Aamoth Brothers",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Mahnomen": {
+    "text": "Mahnomen",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "A": {
+    "text": "A",
+    "type": [
+      "org",
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "A. Zimmerman Hardware Store": {
+    "text": "A. Zimmerman Hardware Store",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Sporting Goods Department": {
+    "text": "Sporting Goods Department",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Mankato": {
+    "text": "Mankato",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Interior": {
+    "text": "Interior",
+    "type": [
+      "loc",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Paint Department": {
+    "text": "Paint Department",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Yellow Medicine Agency": {
+    "text": "Yellow Medicine Agency",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Dakota Conflict": {
+    "text": "Dakota Conflict",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Upper Sioux Agency State Park": {
+    "text": "Upper Sioux Agency State Park",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Arthur Adams": {
+    "text": "Arthur Adams",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Adams": {
+    "text": "Adams",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Lyndale Avenue South": {
+    "text": "Lyndale Avenue South",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Linden Hills Bridge": {
+    "text": "Linden Hills Bridge",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Interlachen Bridge": {
+    "text": "Interlachen Bridge",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Street": {
+    "text": "Street",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "East Hennepin": {
+    "text": "East Hennepin",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Stinson Blvd": {
+    "text": "Stinson Blvd",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Abbett": {
+    "text": "Abbett",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Drug Store": {
+    "text": "Drug Store",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Superior": {
+    "text": "Superior",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc",
+      "loc"
+    ]
+  },
+  "Salvation": {
+    "text": "Salvation",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "People 's Theater Portrait of Abbot Alexius Edelborck": {
+    "text": "People 's Theater Portrait of Abbot Alexius Edelborck",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Order of Saint Benedict": {
+    "text": "Order of Saint Benedict",
+    "type": [
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "OSB": {
+    "text": "OSB",
+    "type": [
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Cone Jewelry Store": {
+    "text": "Cone Jewelry Store",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Cone and Jennie Bryan": {
+    "text": "Cone and Jennie Bryan",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Abe Malmon": {
+    "text": "Abe Malmon",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "St. Paul": {
+    "text": "St. Paul",
+    "type": [
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "St. Peter": {
+    "text": "St. Peter",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Poland": {
+    "text": "Poland",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Russian": {
+    "text": "Russian",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Model-T Ford": {
+    "text": "Model-T Ford",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Polish": {
+    "text": "Polish",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Foley": {
+    "text": "Foley",
+    "type": [
+      "loc",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Arctic Cracker and Spice Company": {
+    "text": "Arctic Cracker and Spice Company",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Nicollet Island": {
+    "text": "Nicollet Island",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Worthington State College": {
+    "text": "Worthington State College",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Worthington": {
+    "text": "Worthington",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Minnesota.": {
+    "text": "Minnesota.",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Chicago Milwaukee \\\\u0026 Saint Paul \\\\ Three": {
+    "text": "Chicago Milwaukee \\\\u0026 Saint Paul \\\\ Three",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Dan Edding": {
+    "text": "Dan Edding",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Catholic": {
+    "text": "Catholic",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Conservation Corps": {
+    "text": "Conservation Corps",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "North Shore": {
+    "text": "North Shore",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Lake Superior": {
+    "text": "Lake Superior",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Grand Marais": {
+    "text": "Grand Marais",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Theater": {
+    "text": "Theater",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "FATSE": {
+    "text": "FATSE",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "African American": {
+    "text": "African American",
+    "type": [
+      "misc",
+      "misc",
+      "misc",
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "U.S.S.. Paducah": {
+    "text": "U.S.S.. Paducah",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Dubuque Class": {
+    "text": "Dubuque Class",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Bethel": {
+    "text": "Bethel",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "March 1902": {
+    "text": "March 1902",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Street North": {
+    "text": "Street North",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Front Street": {
+    "text": "Front Street",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Ole E. Flaten": {
+    "text": "Ole E. Flaten",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Photo Gallery": {
+    "text": "Photo Gallery",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Union Depot": {
+    "text": "Union Depot",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Paul Almanac": {
+    "text": "Paul Almanac",
+    "type": [
+      "per",
+      "per",
+      "per",
+      "per",
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "of 2015": {
+    "text": "of 2015",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "of 2017": {
+    "text": "of 2017",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "of 2016": {
+    "text": "of 2016",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "St. Benedict": {
+    "text": "St. Benedict",
+    "type": [
+      "per",
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Mission": {
+    "text": "Mission",
+    "type": [
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "White Earth": {
+    "text": "White Earth",
+    "type": [
+      "org",
+      "org",
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Indian": {
+    "text": "Indian",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Reservation": {
+    "text": "Reservation",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "White Earth Band": {
+    "text": "White Earth Band",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Ojibwe": {
+    "text": "Ojibwe",
+    "type": [
+      "org",
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Katherine Drexel": {
+    "text": "Katherine Drexel",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Philadelphia": {
+    "text": "Philadelphia",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "American Indians": {
+    "text": "American Indians",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "African Americans": {
+    "text": "African Americans",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Katherine": {
+    "text": "Katherine",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Benedictines": {
+    "text": "Benedictines",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Two": {
+    "text": "Two",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "later": {
+    "text": "later",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "February 10 , 1892": {
+    "text": "February 10 , 1892",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Northwest Territory": {
+    "text": "Northwest Territory",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "St.": {
+    "text": "St.",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "John": {
+    "text": "John",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Abbey and of St. Benedict": {
+    "text": "Abbey and of St. Benedict",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Convent": {
+    "text": "Convent",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "SBMA": {
+    "text": "SBMA",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "McDonald": {
+    "text": "McDonald",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "] Large": {
+    "text": "] Large",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "George Bonga": {
+    "text": "George Bonga",
+    "type": [
+      "per"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
+  },
+  "Morgan Park": {
+    "text": "Morgan Park",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Open House": {
+    "text": "Open House",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Sawyer and Davis": {
+    "text": "Sawyer and Davis",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Emanuel Cohen Center": {
+    "text": "Emanuel Cohen Center",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "North Minneapolis Jewish": {
+    "text": "North Minneapolis Jewish",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
+  "Center": {
+    "text": "Center",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  },
+  "Emanuel Cohen": {
+    "text": "Emanuel Cohen",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "Center 's principle benefactor. `` }": {
+    "text": "Center 's principle benefactor. `` }",
+    "type": [
+      "org"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "org"
+    ]
+  }
+}
