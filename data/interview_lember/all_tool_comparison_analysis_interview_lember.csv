@@ -1,0 +1,7 @@
+, URL to Results CSV,"Precision A: ""Correct"" = All Matches","Precision B: ""Correct"" = Exact Matches","Precision C: ""Correct"" = Exact Matches with Type Matches","Recall A: Correct"" = All Matches","Recall B: ""Correct"" = Exact Matches","Recall C: ""Correct"" = Exact Matches with Type Matches"
+nltk results,https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/interview_lember/comparison_nltk_interview_lember.csv ,100.00%,91.58%,30.53%,71.97%,65.91%,21.97%
+opener results,https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/interview_lember/comparison_opener_interview_lember.csv,100.00%,93.62%,58.51%,71.21%,66.67%,41.67%
+parsey results,https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/interview_lember/comparison_parsey_interview_lember.csv ,100.00%,90.24%,0.00%,62.12%,56.06%,0.00%
+spacy results,https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/interview_lember/comparison_spacy_interview_lember.csv ,100.00%,83.33%,46.30%,81.82%,68.18%,37.88%
+spotlight results,https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/interview_lember/comparison_spotlight_interview_lember.csv ,100.00%,92.42%,60.61%,50.00%,46.21%,30.30%
+stanford results,https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/interview_lember/comparison_stanford_interview_lember.csv ,100.00%,95.00%,58.33%,45.45%,43.18%,26.52%
