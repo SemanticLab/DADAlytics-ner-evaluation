@@ -1,157 +1,3274 @@
-type,value,exactMatch,partialMatch,matchValue,typeMatch,note
-per,Mary Whitall Berenson,exact,,Mary Whitall Berenson,true,
-loc,I Tatti,,,,,
-loc,Settignano,exact,,Settignano,,
-loc,Florence,,partial,Florence Trip,,
-loc,America,exact,,America,true,
-date,September 1930,,,,,
-misc,R.M.S. Majestic,,,,,name of ship
-misc,White Star,exact,,White Star,,name of ship
-date,"Wenesday, Sept. 30, 1903",,,,,
-loc,Liverpool,exact,,Liverpool,true,
-per,Turner,,partial,Turner - Whistler-esque,,
-per,Whistler,,partial,Turner - Whistler-esque,,
-loc,England,exact,,England,true,
-per,Bernhard,exact,,Bernhard,,
-loc,The Reef,,,,,
-loc,"Newport, R.I.",,,,,
-date,"Thursday, Oct. 8, 1903",,,,,
-misc,The Arabian Nights,,,,,title of a work
-per,Mardus,,,,,
-per,Grace,exact,,Grace,,
-per,Bond's new wife,,,,,identified by relationship
-per,Edith,exact,,Edith,,
-loc,Greek restaurant,,,,,
-loc,New York,exact,,New York,true,
-per,Mr. Davis,exact,,Mr. Davis,true,
-loc,the quay,,,,,
-per,B.B.,,,,,
-per,Jimmy Whiskers,,,,,
-per,Davis,exact,,Davis,,
-date,3000 B.C.,exact,,3000 B.C.,,
-loc,Liberia,,partial,Liberia Whose,,
-per,Mother Superior,,partial,Mother Superior.,,
-date,"Friday, Oct. 9, 1903",,,,,
-loc,Spain,,,,,
-per,Mr. and Mrs. Fearing,,,,,
-per,Terence Bourke,exact,,Terence Bourke,true,
-date,"Saturday, Oct. 10, 1903",,,,,
-per,Mrs. Andrews,exact,,Mrs. Andrews,true,
-per,J. Gordon Kugler,exact,,J. Gordon Kugler,true,
-misc,The South,,,,,title of a work
-per,Sophy Buffum,,partial,"Sophy Buffum,3",,
-loc,Europe,exact,,Europe,true,
-per,Miss Busk,,,,,
-misc,Bridge,exact,,Bridge,,title of a game
-date,"Sunday, Oct. 11, 1903",,,,,
-misc,Forgery,,,,,title of a work
-misc,Tricca-Leonardo,,,,,title of a work
-misc,Logan,,,,,title of a work
-org,Philharmonic orchestra,,,,,
-loc,Boston,exact,,Boston,true,
-org,New York Theatre,exact,,New York Theatre,true,
-per,Mr. Longyear of Marquette,,,,,
-per,Mr. Coates,,,,,
-per,Mr. Berevin,exact,,Mr. Berevin,true,
-per,Mr. Taylor,exact,,Mr. Taylor,true,
-per,Mrs. Winty Chandler,exact,,Mrs. Winty Chandler,true,
-loc,Egypt,,partial,Egyptian,,
-loc,Tomb of Totmes IV,,partial,Tomb of Totmes IV4,,
-per,Queen Hatasu,exact,,Queen Hatasu,true,
-loc,189 Grampian Way,,,,,
-loc,Dorchester,exact,,Dorchester,,
-date,"Monday, Oct. 12, 1903",,,,,
-loc,Old Point,exact,,Old Point,,
-per,Grandpa Cope,exact,,Grandpa Cope,true,
-per,Rachel,exact,,Rachel,,
-per,Miss Sellers,exact,,Miss Sellers,true,
-date,"Tuesday, Oct. 13, 1903",,,,,
-date,"Wednesday, Oct. 14, 1903",,,,,
-loc,Blue Hill,exact,,Blue Hill,,
-date,"Thursday, Oct. 15, 1903",,,,,
-loc,Cambridge,exact,,Cambridge,true,
-per,Mrs. Toy,exact,,Mrs. Toy,true,
-per,Santayana,exact,,Santayana,true,
-per,Leslie Hopkinson,,partial,Santayana and Leslie Hopkinson,,
-per,Mr. Andrew,,,,,
-misc,Orchestrelle,exact,,Orchestrelle,,instrument
-date,"Friday, Oct. 16, 1903",,,,,
-loc,Willowbrook Cottage,exact,,Willowbrook Cottage,true,
-per,Beverly,exact,,Beverly,,
-per,Gertrude,exact,,Gertrude,,
-per,Mrs. Tyler,,partial,Gertrude and Mrs. Tyler,,
-per,Brother Charles,,,,,
-per,Rabbi Fleischer,exact,,Rabbi Fleischer,true,
-misc,Democracy,,,,,concept
-per,Michliszanski,,,,,
-per,Goldman,,,,,
-per,Tolstoi,,,,,
-per,Hinda Coen,exact,,Hinda Coen,,
-per,Schwarz,exact,,Schwarz,,
-per,James,,partial,James.,,
-loc,Green Hill,exact,,Green Hill,,
-loc,Brookline,exact,,Brookline,,
-date,"Saturday, Oct. 17, 1903",,,,,
-per,Mrs. Jack Gardner,,,,,
-per,Mrs. Gardner,exact,,Mrs. Gardner,true,
-per,Proctor the musician,,,,,
-misc,Symphony Concert,exact,,Symphony Concert,,type of event
-per,Tschaikowski,exact,,Tschaikowski,,
-per,Bruneau,exact,,Bruneau,,
-per,Brahms,,,,,
-per,Mrs. Sarah Whitman,exact,,Mrs. Sarah Whitman,true,
-misc,Prof. of Ethics,,,,,professional title
-per,Josiah Royce,exact,,Josiah Royce,true,
-per,Bob,exact,,Bob,,
-per,George Moore,exact,,George Moore,true,
-per,the philosopher,,,,,identified by professional title rather than name
-per,Mrs. Parkman,exact,,Mrs. Parkman,true,
-per,Mr. and Mrs. Higginson,,,,,
-date,"Sunday, Oct. 18, 1903",,,,,
-loc,Arboretum,exact,,Arboretum,,
-loc,Country Club,,,,,
-per,Mr. Dwight,,,,,
-per,Mr. Swift,,,,,
-per,Rockefeller,exact,,Rockefeller,,
-per,Mr. Strong,,,,,
-loc,Lakewood,exact,,Lakewood,true,
-date,"Monday, Oct. 19, 1903",,,,,
-loc,Library,exact,,Library,true,
-misc,The Puvis',,,,,indicators of works of art
-loc,Bates Hall,,,,,
-misc,The Abbeys,,,,,indicators of works of art
-misc,Sargeants,,partial,Sargeants7,,indicators of works of art
-per,Evelyn,exact,,Evelyn,true,
-per,Ellen Hale,exact,,Ellen Hale,true,
-per,Edward Everett Hale,exact,,Edward Everett Hale,true,
-per,Mr. John Grey,,,,,
-per,Clayton Johns,exact,,Clayton Johns,true,
-date,"Tuesday, Oct. 20, 1903",,,,,
-per,Helen Hopekirk (Wilson),,,,,
-loc,Art Museum,exact,,Art Museum,,
-misc,curator,exact,,Curator,,professional title
-per,Chaflin,,,,,
-date,1250,,,,,
-loc,Museum,exact,,Museum,true,
-per,Gerricke,,,,,
-loc,Jordan Hall,exact,,Jordan Hall,,
-loc,Conservatory Building,,,,,
-misc,C major toccata,,,,,title of a work
-per,Bach,exact,,Bach,,
-per,Mr. Higginson,,,,,
-per,Schumann,,,,,
-per,Chaplin,exact,,Chaplin,,
-misc,Eroica,,,,,title of a work
-per,Mr. and Mrs. Lang,,,,,
-date,"Wednesday, Oct. 21, 1903",,,,,
-per,T.H. Perry,,,,,
-loc,Franklin Park,exact,,Franklin Park,,
-per,Owen Wister,exact,,Owen Wister,true,
-misc,The Virginian,,,,,title of a work
-per,Dunstan Farnum,exact,,Dunstan Farnum,true,
-per,Webster,,,,,
-loc,Virginia,exact,,Virginia,true,
-date,"Thursday, Oct. 22, 1903",,,,,
-per,Mr. Ross (Denman),,,,,
-per,Mr. Theodore Dwight,exact,,Mr. Theodore Dwight,true,
-per,Mr. Owen Wister,exact,,Mr. Owen Wister,true,
+note,type,value,exactMatch,partialMatch,matchValue,typeMatch
+,per,Mary Whitall Berenson,exact,,Mary Whitall Berenson,True
+accomodation,loc,I Tatti,,,,False
+region,loc,Settignano,exact,,Settignano,False
+city,loc,Florence,,partial,Florence Trip,False
+biographic,misc,Trip to America,,partial,America,False
+,date,September 1930,,,,False
+transportation vessel name,misc,R.M.S. Majestic,,,,False
+business,org,White Star,exact,,White Star,False
+,date,"Wednesday, Sept. 30, 1903",,partial,Sept. 30,False
+city,loc,Liverpool,exact,,Liverpool,True
+artist-painter,per,Turner,,partial,Turner - Whistler-esque,False
+artist-painter,per,Whistler,,partial,Turner - Whistler-esque,False
+country,loc,England,exact,,England,True
+,per,Bernhard,exact,,Bernhard,False
+accomodation,loc,The Reef,,partial,Reef,False
+city,loc,Newport,exact,,Newport,True
+state,loc,R.I.,,,,False
+,date,"Thursday, Oct. 8, 1903",,partial,Thursday,False
+book,misc,The Arabian Nights,,partial,Arabian Nights,False
+artist-writer,per,Mardrus,exact,,Mardrus,False
+,per,Grace,exact,,Grace,False
+,per,Bond's new wife,,,,False
+,per,Edith,exact,,Edith,False
+,per,Bond,,partial,Grace and Bond,False
+restaurant,loc,Greek restaurant,,partial,Greek,True
+city,loc,New York,exact,,New York,True
+art collector,per,Mr. Davis,exact,,Mr. Davis,True
+,per,B.B.,,,,False
+art collector,per,Davis,exact,,Davis,False
+sculpture,misc,[Egyptian squatting figure],,partial,Egyptian,True
+,date,3000 B.C.,exact,,3000 B.C.,False
+art collector,per,Davis,exact,,Davis,False
+,misc,[limerick],,,,False
+country,loc,Liberia,,partial,Liberia Whose,False
+religious figure,per,Mother Superior,,partial,Mother Superior.,False
+,per,Grace,exact,,Grace,False
+art collector,per,Mr. Davis,exact,,Mr. Davis,True
+accomodation,loc,The Reef,,partial,Reef,False
+city,loc,Newport,exact,,Newport,True
+,date,"Friday, Oct. 9, 1903",,partial,Oct. 9,False
+country,loc,Spain,,,,False
+,per,B.B.,,,,False
+,per,[Mr. Fearing],,,,False
+,per,Mrs. Fearing,,partial,Mrs.,True
+,per,Terence Bourke,exact,,Terence Bourke,True
+art collector,per,Davis,exact,,Davis,False
+accomodation,loc,The Reef,,partial,Reef,False
+city,loc,Newport,exact,,Newport,True
+,date,"Saturday, Oct. 10, 1903",,partial,Saturday,False
+,per,Mrs. Andrews,exact,,Mrs. Andrews,True
+artist-poet,per,J. Gordon Kugler,exact,,J. Gordon Kugler,True
+,misc,The South,,partial,South,False
+city,loc,Newport,exact,,Newport,True
+,per,Mrs. Davis,exact,,Mrs. Davis,False
+,per,Mrs. Andrews,exact,,Mrs. Andrews,True
+,per,Sophy Buffum,,partial,"Sophy Buffum,3",False
+country,loc,Europe,exact,,Europe,True
+,per,Miss Busk,,,,False
+accomodation,loc,The Reef,,partial,Reef,False
+city,loc,Newport,exact,,Newport,True
+,date,"Sunday, Oct. 11, 1903",,partial,Oct. 11,False
+art collector,per,Mr. Davis,exact,,Mr. Davis,True
+?,misc,Egyptian illustrated books,,partial,Egyptian,True
+art described by region,misc,Italian pictures,,partial,Italian,True
+painting,misc,the famous Forgery (Filippino),,,,False
+artist-painter,per,Filippino,,,,False
+painting,misc,Tricca-Leonardo,,,,False
+artist-painter,per,Leonardo,,partial,Tricca -Leonardo,True
+artist-painter,per,Tricca,,partial,Tricca -Leonardo,True
+painting,misc,The little forgery,,,,False
+artist-writer,per,Logan,,,,False
+art collector,per,Mr. Davis,exact,,Mr. Davis,True
+cultural,org,Philharmonic orchestra,,partial,Philharmonic,False
+city,loc,Boston,exact,,Boston,True
+cultural ,org,a theatrical troupe,,,,False
+city,loc,New York,exact,,New York,True
+cultural,org,New York Theatre,exact,,New York Theatre,True
+public figure,per,Mr. Longyear,exact,,Mr. Longyear,True
+city,loc,Marquette,exact,,Marquette,True
+cultural heritage institution,loc,opera house,,,,False
+religious figure,per,his wife,,,,False
+,per,Mr. Coates,,partial,Coates,False
+,per,Mr. Berevin,exact,,Mr. Berevin,True
+,per,Mr. Taylor,exact,,Mr. Taylor,True
+,per,Mrs. Winty Chandler,exact,,Mrs. Winty Chandler,True
+art collector,per,Mr. Davis,exact,,Mr. Davis,True
+country,loc,Egypt,,partial,Egyptian,False
+historic,loc,Tomb of Totmes IV,,partial,Tomb of Totmes IV4,False
+historic,per,Totmes IV,,partial,Tomb of Totmes IV4,False
+historic,loc,Tomb of the Queen Hatasu,,partial,Queen Hatasu,False
+historic,per,Queen Hatasu,exact,,Queen Hatasu,True
+address / accomodation,loc,189 Grampian Way,,partial,Grampian Way,False
+neighborhood,loc,Dorchester,exact,,Dorchester,False
+,date,"Monday, Oct. 12, 1903",,partial,Oct. 12,False
+landmark,loc,Old Point,exact,,Old Point,False
+,per,Grandpa Cope,exact,,Grandpa Cope,True
+,per,Rachel,exact,,Rachel,False
+city,loc,Boston,exact,,Boston,True
+,per,Miss Sellers,exact,,Miss Sellers,True
+,per,The Father,,,,False
+,per,The Mother,,,,False
+address / accomodation,loc,189 Grampian Way,,partial,Grampian Way,False
+neighborhood,loc,Dorchester,exact,,Dorchester,False
+,date,"Tuesday, Oct. 13, 1903",,partial,Oct. 13,False
+city,loc,Boston,exact,,Boston,True
+,per,Rachel,exact,,Rachel,False
+address / accomodation,loc,189 Grampian Way,,partial,Grampian Way,False
+neighborhood,loc,Dorchester,exact,,Dorchester,False
+,date,"Wednesday, Oct. 14, 1903",,partial,Wednesday,False
+landmark,loc,Blue Hill,exact,,Blue Hill,False
+address / accomodation,loc,189 Grampian Way,,partial,Grampian Way,False
+neighborhood,loc,Dorchester,exact,,Dorchester,False
+,date,"Thursday, Oct. 15, 1903",,partial,Oct. 15,False
+city,loc,Cambridge,exact,,Cambridge,True
+,per,Mrs. Toy,exact,,Mrs. Toy,True
+scholar,per,Santayana,exact,,Santayana,True
+,per,Leslie Hopkinson,,partial,Santayana and Leslie Hopkinson,False
+,per,Mr. Andrew,,partial,Andrew,False
+instrument,misc,Orchestrelle,exact,,Orchestrelle,False
+,per,Rachel,exact,,Rachel,False
+address / accomodation,loc,189 Grampian Way,,partial,Grampian Way,False
+neighborhood,loc,Dorchester,exact,,Dorchester,False
+,date,"Friday, Oct. 16, 1903",,partial,Oct. 16,False
+accomodation,loc,Willowbrook Cottage,exact,,Willowbrook Cottage,True
+city,loc,Beverly,exact,,Beverly,True
+,per,Gertrude,exact,,Gertrude,False
+,per,Mrs. Tyler,,partial,Mrs.,True
+,per,"""Brother Charles""",,,,False
+,per,Gertrude,exact,,Gertrude,False
+,per,[Gertrude's Mother],,partial,Gertrude,False
+religious figure,per,Rabbi Fleischer,exact,,Rabbi Fleischer,True
+,per,Michliszanski,,,,False
+,per,Goldman,,,,False
+artist-writer,per,Tolstoi,,,,False
+,per,Hinda Coen (née Schwarz),,partial,Schwarz,False
+,per,James,,partial,James.,True
+accomodation,loc,Green Hill,exact,,Green Hill,False
+city,loc,Brookline,exact,,Brookline,False
+,date,"Saturday, Oct. 17, 1903",,partial,Oct. 17,False
+art collector,per,Mrs. Jack Gardner,,partial,Mrs.,True
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+artist-musician,per,Proctor the musician,,partial,Proctor,False
+cultural heritage institution,loc,Symphony Concert,exact,,Symphony Concert,False
+cultural,misc,Symphony Concert,exact,,Symphony Concert,False
+cultural,org,[Boston Symphony Orchestra],,partial,Boston,False
+artist-composer,per,Tschaikowski,exact,,Tschaikowski,False
+,misc,[Tschaikowski's music],,partial,Tschaikowski,False
+artist-composer,per,Bruneau,exact,,Bruneau,False
+,misc,[Bruneau's music],,partial,Bruneau,False
+artist-composer,per,Brahms,,,,False
+,misc,[Brahms' music],,,,False
+artist-painter,per,Mrs. Sarah Whitman,exact,,Mrs. Sarah Whitman,True
+professor,per,Josiah Royce,exact,,Josiah Royce,True
+,per,Bob,exact,,Bob,False
+scholar,per,George Moore,exact,,George Moore,True
+,per,Mrs. Parkman,exact,,Mrs. Parkman,True
+public figure,per,[Mr. Higginson],,partial,Higginson,False
+,per,Mrs. Higginson,exact,,Mrs. Higginson,True
+cultural,misc,the Concerts,,,,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+accomodation,loc,Green Hill,exact,,Green Hill,False
+city,loc,Brookline,exact,,Brookline,False
+,date,"Sunday, Oct. 18, 1903",,partial,Oct. 18,False
+art collector,per,her,,partial,Rabbi Fleischer,True
+cultural heritage institution,loc,Arboretum,exact,,Arboretum,False
+club,loc,Country Club,,,,False
+,per,famous divorcée,,,,False
+,per,famous corespondent,,,,False
+,per,Mr. Dwight,,partial,Dwight,False
+,per,Mr. Swift,,partial,Swift,False
+scholar,per,Santayana,exact,,Santayana,True
+scholar,per,Santayana,exact,,Santayana,True
+public figure ,per,Mr. Strong,,partial,Strong,False
+city,loc,Lakewood,exact,,Lakewood,True
+accomodation,loc,Green Hill,exact,,Green Hill,False
+city,loc,Brookline,exact,,Brookline,False
+,date,"Monday, Oct. 19, 1903",,partial,Oct. 19,False
+city,loc,Boston,exact,,Boston,True
+cultural heritage institution,loc,the Library,,partial,Library,True
+artist-painter,per,Puvis,,,,False
+painting,misc,[paintings by Puvis],,,,False
+mural,misc,the large one around the door of Bates hall,,,,False
+"cultural heritage institution, part of",loc,Bates Hall,,,,False
+artist-painter,per,Abbey,,,,False
+mural,misc,The Abbeys,,,,False
+artist-painter,per,Sargeant,exact,,Sargeant,False
+mural,misc,The Sargeants,,partial,Sargeant,False
+public figure,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+artist-musician,per,Mr. Proctor,,partial,Proctor,False
+,per,Evelyn,exact,,Evelyn,True
+artist-painter,per,Ellen Hale,exact,,Ellen Hale,True
+scholar,per,Edward Everett Hale,exact,,Edward Everett Hale,True
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+lawyer,per,Mr. John Grey,,,,False
+,per,his wife,,,,False
+art historian,per,Bernhard,exact,,Bernhard,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+,per,Clayton Johns,exact,,Clayton Johns,True
+accomodation,loc,Green Hill,exact,,Green Hill,False
+city,loc,Brookline,exact,,Brookline,False
+,date,"Tuesday, Oct. 20, 1903",,partial,Tuesday,False
+artist-musician,per,Helen Hopekirk (Wilson),,,,False
+,per,her husband,,,,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+cultural heritage institution,loc,Art Museum,exact,,Art Museum,False
+artist-painter / curator,per,Chalfin,exact,,Chalfin,False
+?,misc,scroll,,,,False
+,date,1250,,,,False
+cultural heritage institution,loc,the Museum,,partial,Museum,True
+music administrator,per,Gerricke,,,,False
+"school, part of",loc,Jordan Hall,exact,,Jordan Hall,False
+school ,loc,Conservatory,,,,False
+,misc,C major toccata and fugue of Bach,,partial,Bach,False
+artist-composer,per,Bach,exact,,Bach,False
+public figure,per,Mr. Higginson,,partial,Higginson,False
+,misc,concerto by Schumann (A minor),,,,False
+artist-composer,per,Schumann,,,,False
+,misc,"""Ouverture"" by Chaplin",,partial,Chaplin,False
+artist-musician,per,Chaplin,exact,,Chaplin,False
+,misc,Eroica,,,,False
+artist-composer,per,[Beethoven],,,,False
+,per,[Mr. Lang],,,,False
+,per,Mrs. Lang,exact,,Mrs. Lang,True
+accomodation,loc,Green Hill,exact,,Green Hill,False
+city,loc,Brookline,exact,,Brookline,False
+,date,"Wednesday, Oct. 21, 1903",,partial,Oct. 21,False
+cultural heritage location,loc,the Library,,partial,Library,True
+,per,T.H. Perry,,,,False
+artist-painter,per,Ellen Hale,exact,,Ellen Hale,True
+landmark,loc,the gardens,,,,False
+landmark,loc,Franklin Park,exact,,Franklin Park,False
+artist-playwright,per,Owen Wister,exact,,Owen Wister,True
+artist-actor,per,Dunstan Farnum,exact,,Dunstan Farnum,True
+,per,Webster,,,,False
+state,loc,Virginia,exact,,Virginia,True
+accomodation,loc,Green Hill,exact,,Green Hill,False
+city,loc,Brookline,exact,,Brookline,False
+,date,"Thursday, Oct. 22, 1903",,partial,Oct. 22,False
+cultural,misc,exhibition of Japanese things,,partial,Japanese,True
+public figure / artist-painter,per,Mr. Ross (Denman),,partial,Denman,False
+,per,Mr. Theodore Dwight,exact,,Mr. Theodore Dwight,True
+artist-playwright,per,Mr. Owen Wister,exact,,Mr. Owen Wister,True
+scholar,per,William James,,,,False
+artist-painter,per,Mrs. Whitman,,partial,Mrs.,True
+,per,Mrs. Bell,,partial,Mrs.,True
+,per,"""Piggy"" Everett",,,,False
+scholar,per,E.E. Hale,,,,False
+accomodation,loc,Green Hill,exact,,Green Hill,False
+city,loc,Brookline,exact,,Brookline,False
+,date,"Friday, Oct. 23, 1903",,partial,Friday,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+neighborhood,loc,Beverly Farms,,partial,Beverly,True
+artist-painter,per,Mrs. Whitman,,partial,Mrs.,True
+,per,Mrs. Parkman,exact,,Mrs. Parkman,True
+architect,per,Mr. Barton,,,,False
+,per,Miss Pendleton,,,,False
+city,loc,Philadelphia,,,,False
+artist-painter,per,Botticelli,,,,False
+photography,misc,photographs of false Botticellis,,,,False
+artist-painter,per,Mrs. Whitman,,partial,Mrs.,True
+,per,B.B.,,,,False
+,per,Mr. Dwight,,partial,Dwight,False
+artist-painter,per,Mrs. Whitman,,partial,Mrs.,True
+accomodation,loc,Green Hill,exact,,Green Hill,False
+city,loc,Brookline,exact,,Brookline,False
+,date,"Saturday, Oct. 24, 1903",,partial,Saturday,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+city,loc,Cambridge,exact,,Cambridge,True
+,loc,The Union,,,,False
+professor,per,Archie Coolidge,,,,False
+cultural,misc,Football Match,,,,False
+athletic team,org,Harvard,,,,False
+athletic team,org,Brown,,,,False
+ misc,org,DKE neophytes,,,,False
+cultural heritage institution,loc,Symphony Concert,exact,,Symphony Concert,False
+cultural,misc,Symphony Concert,exact,,Symphony Concert,False
+,misc,Beethoven 115,,,,False
+artist-composer,per,[Beethoven],,,,False
+,misc,Waldweben,,,,False
+artist-composer,per,Wagner,,,,False
+,misc,Violin Concerto,,,,False
+artist-composer,per,Mendelssohn ,,,,False
+,misc,a piece (tango) of the soloist,,,,False
+artist-musician,per,the soloist,,,,False
+artist-musician,per,Mr. Arbos,,,,False
+artist-composer,per,[Alexander Glazunov],,,,False
+,misc,Glazonnoff symphony,,,,False
+artist-composer,per,Bach,exact,,Bach,False
+accomodation,loc,Green Hill,exact,,Green Hill,False
+city,loc,Brookline,exact,,Brookline,False
+,date,"Sunday, Oct. 25, 1903",,partial,Sunday,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+artist-musician,per,Mr. Proctor,,partial,Proctor,False
+city,loc,Dedham,,,,False
+artist-musician,per,Mr. Foote,,,,False
+religious,loc,Berkeley St. Church,,,,False
+,per,his charming daughter,,,,False
+,per,nice wife,,,,False
+artist-musician,per,Mr. Harold Bauer,,,,False
+,per,Miss Foote,,,,False
+artist-composer,per,Scarlatti,,,,False
+,misc,[Scarlatti composition],,,,False
+,misc,"""Irish Melody""",,,,False
+artist-musician,per,her father ,,,,False
+,per,Mrs. Thorndyke,,partial,Mrs.,True
+,per,Sherman,,,,False
+,per,Miss Dana,,,,False
+,per,Charley Gibson,,partial,Gibson,True
+,per,"[a Bavarian Count, unnamed]",,,,False
+,per,Mr. Swift,,partial,Swift,False
+artist-painter / curator,per,Mr. Chalfin,,partial,Chalfin,False
+,per,Miss Pendleton,,,,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+artist-writer,per,Miss Seward,,,,False
+art collector,per,Mrs. Gardner's,,partial,Mrs.,True
+accomodation,loc,Plymouth Inn,,,,False
+city,loc,Northampton,,,,False
+,date,"Monday, Oct. 26, 1903",,partial,Monday,False
+art collector,per,our hostess,,,,False
+cultural heritage institution,loc,Boston Museum,,partial,Museum,True
+art historian,per,Bernhard,exact,,Bernhard,False
+public figure,per,Mr. Higginson,,partial,Higginson,False
+?,misc,voluptuous nude lady,,,,False
+artist-painter,per,Bonifazio,,,,False
+architect,per,Mr. Francis Hooper,,,,False
+art historian,per,Berenson,,partial,Mary Whitall Berenson,True
+art historian,per,B.B.,,,,False
+public figure,per,Mr. Higginson,,partial,Higginson,False
+,per,Abe,,,,False
+city,loc,Springfield,,,,False
+teacher,per,Senda,,,,False
+teacher,per,Bessie,,,,False
+accomodation,loc,Plymouth Inn,,,,False
+city,loc,Northampton,,,,False
+,date,"Tuesday, Oct. 27, 1903",,partial,Tuesday,False
+artist-playwright,per,Owen Wister,exact,,Owen Wister,True
+artist-actor,per,the Virginian in person,,partial,Virginia,False
+artist-writer,per,Norman Hapgood,,,,False
+academic,org,Harvard,,,,False
+artist-playwright,per,Owen Wister,exact,,Owen Wister,True
+city,loc,London,,,,False
+country,loc,Japan,,partial,Japanese,False
+artist-actor,per,Sadi Yacco,,,,False
+teacher,per,Senda,,,,False
+professor,per,Gardiner,,,,False
+professor,per,Pierce,,,,False
+professor,per,Souza,,,,False
+professor,per,Jordan,,partial,Jordan Hall,False
+professor,per,Hubbard,,,,False
+public figure,per,Pres. Seely,,,,False
+accomodation,loc,Plymouth Inn,,,,False
+city,loc,Northampton,,,,False
+,date,"Wednesday, Oct. 28, 1903",,partial,Wednesday,False
+city,loc,Hatfield,,,,False
+,per,Florence,,partial,Florence Trip,False
+teacher,per,Senda,,,,False
+,per,MIss Moffat,,,,False
+artist-writer,per,Mr. George Cabe,,,,False
+horse,misc,Antecellere,,,,False
+,per,Florence,,partial,Florence Trip,False
+professor,per,Prof. Phelps,,partial,Prof.,True
+accomodation,loc,Plymouth Inn,,,,False
+city,loc,Northampton,,,,False
+,date,"Thursday, Oct. 29, 1903",,partial,Thursday,False
+lecture,misc,my lecture,,,,False
+,per,The Hinckleys,,,,False
+,per,The Hinckleys,,,,False
+region,loc,Surrey,,,,False
+region,loc,Umbria,,,,False
+lecture,misc,"""How to Enjoy the Old Masters""",,,,False
+school,loc,Smith College,,,,False
+art historic,org,Old Masters,,,,False
+public figure,per,President Seelye,,,,False
+academic,org,[Smith College],,,,False
+,per,Mother,,partial,Mother Superior.,False
+,per,Mrs. Rosseter,,partial,Ross,False
+"school, part of",loc,Dewey House,,,,False
+professor,per,Mr. Gardiner,,,,False
+school ,loc,Smith College,,,,False
+,date,"Friday, Oct. 30, 1903",,partial,Friday,False
+,per,Mrs. Berenson,,partial,Mrs.,True
+teacher,per,Senda,,,,False
+teacher,per,Bessie,,,,False
+artist-actor,per,Duse,,,,False
+school,loc,Amherst,,,,False
+professor,per,Mr. Wilkins,,,,False
+professor,per,Prof. Este,,partial,Prof.,True
+"school, part of",loc,President's house,,,,False
+landmark,loc,Mt. Tom,,,,False
+profesor,per,[Prof. Pearce],,partial,Prof.,True
+profesor,per,[Prof. Sioussat],,partial,Prof.,True
+landmark,loc,the river,,,,False
+school ,loc,Smith College,,,,False
+,date,"Saturday, Oct. 31, 1903",,partial,Saturday,False
+,per,Miss Jordan,,,,False
+,per,Miss Bourland,,,,False
+city,loc,Deerfield,,,,False
+landmark,loc,quaint burial ground,,,,False
+teacher,per,Senda,,,,False
+cultural,misc,Basket Ball game ,,,,False
+teacher,per,Senda,,,,False
+teacher,per,Bessie,,,,False
+,per,Abe,,,,False
+,per,the Mother,,,,False
+,per,the Father,,,,False
+art historian,per,Bernhard,exact,,Bernhard,False
+,per,Miss Hubbard,,,,False
+,per,Mr. Field,,,,False
+,per,Mr. Cooper,,,,False
+,per,Miss Hubbard,,,,False
+teacher,per,Senda,,,,False
+school ,loc,Smith College,,,,False
+,date,"Sunday, Nov. 1, 1903",,partial,Sunday,False
+,per,Miss Mitchell,,,,False
+"school, part of",loc,Morris House,,,,False
+,per,The Hinckleys,,,,False
+,per,The Hinckleys,,,,False
+public figure,per,President Seelye,,,,False
+,per,Miss Hesse,,,,False
+,per,Miss Hoffat,,,,False
+,per,Zanetti,,,,False
+artist-writer,per,Mr. Cable,,,,False
+art historian,per,B.B.,,,,False
+professor,per,Mr. Pearce,,,,False
+professor,per,Mr. Sioussat,,,,False
+,per,Miss Scott,,,,False
+social reformer,per,Gertrude Burton,,partial,Gertrude,False
+scholar,per,Einstein,,,,False
+accomodation,loc,New Haven House,,,,False
+city,loc,New Haven,,,,False
+,date,"Monday, Nov. 2, 1903",,partial,Monday,False
+family unit,org,The Berensons,,,,False
+art collection,misc,Jarves Collection,,,,False
+city,loc,Pisa,,,,False
+city,loc,Arezzo,,,,False
+professor,per,Wier,,,,False
+professor,per,Niemeyer,,,,False
+artist-painter,per,Ellen Hale,exact,,Ellen Hale,True
+,per,Miss Jackson,,,,False
+family unit,org,the Whitneys,,,,False
+,per,Beatrice Chamberlain,,,,False
+professor,per,Prof. Whitney,,partial,Prof.,True
+,per,[Mrs. _Whitney],,partial,Mrs.,True
+artist-painter,per,Ellen Hale,exact,,Ellen Hale,True
+,per,Evelyn,exact,,Evelyn,True
+,per,Helen Fry,,,,False
+,per,Roger,,,,False
+accomodation,loc,New Haven House,,,,False
+city,loc,New Haven,,,,False
+,date,"Tuesday, Nov. 3, 1903",,partial,Tuesday,False
+cultural heritage institution,loc,the gallery,,,,False
+artist-painter,per,Gentile de Fabriano,,,,False
+painting,misc,Madonna,,,,False
+artist-painter,per,Neroccio,,,,False
+painting,misc,Annunciation,,,,False
+artist-painter,per,Pollajuolo,,,,False
+painting,misc,Hercules and Deianin,,,,False
+artist-painter,per,P. Lorenzetti,,,,False
+painting,misc,Assunta,,,,False
+artist-painter,per,Sassetta,,,,False
+painting,misc,Temptations of Antony,,,,False
+artist-painter,per,Simone Martini,,,,False
+painting,misc,St. Martin,,,,False
+artist-painter,per,Benvenuto <di Giovanni>,,,,False
+painting,misc,Madonna,,,,False
+artist-painter,per,Benvenuto <di Giovanni>,,,,False
+painting,misc,Love Bound <by Maidens>,,,,False
+artist-painter,per,Girolamo da Cremona,,,,False
+painting,misc,Nativity,,,,False
+artist-painter,per,Ghirlandajo,,,,False
+painting,misc,Woman's Head,,,,False
+artist-painter,per,Sano,,,,False
+painting,misc,Adoration of the Magi,,,,False
+artist-painter,per,Sano,,,,False
+painting,misc,Coronation <of the Virgin>,,,,False
+artist-painter,per,Giovanni di Paolo,,,,False
+artist-painter,per,Miss Hale,,,,False
+,per,Mr. Jackson,,,,False
+club,loc,Country Club,,,,False
+accomodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Wednesday, Nov. 4, 1903",,partial,Wednesday,False
+art historian,per,Bernhard,exact,,Bernhard,False
+city,loc,New York,exact,,New York,True
+artist-writer,per,Hutchins Hapgood,,,,False
+artist-writer,per,Neith,,,,False
+,per,Neith's father,,,,False
+artist-writer,per,Hutch,,,,False
+artist-writer,per,Peter Dunne ,,,,False
+book,misc,Autobiography of a Thief ,,,,False
+book,misc,The Forerunner,,,,False
+city,loc,New York,exact,,New York,True
+art historian,per,Bernhard,exact,,Bernhard,False
+art collector,per,Davis,exact,,Davis,False
+,per,Mr. Cannon,,,,False
+business,loc,Chase Bank,,,,False
+,per,Mr. Cannon,,,,False
+art historian,per,Bernhard,exact,,Bernhard,False
+"school, part of",loc,Jarves Collection,,,,False
+professor,per,Prof. Niemeyer,,partial,Prof.,True
+painting,misc,"the ""Botticelli""",,,,False
+artist-painter,per,Botticelli,,,,False
+painting,misc,The Birth of Venus,,,,False
+artist-painter,per,[Botticelli],,,,False
+artist-photographer,per,Mr. Randall,,,,False
+city,loc,New Haven,,,,False
+city,loc,Hartford,,,,False
+professor,per,Prof. Wier,,partial,Prof.,True
+scholar,per,Mr. Randall's wife,,,,False
+school,loc,Yale,,,,False
+thesis,misc,"""The Origins of Spenser's Mythology""",,,,False
+public figure,per,Judge Bronson,,,,False
+painting,misc,[painting by Luini],,,,False
+artists-painter,per,Luini,,,,False
+painting,misc,a copy of a Titian,,,,False
+artists-painter,per,Titian,,,,False
+,per,Mrs. Judge,,partial,Mrs.,True
+artist-painter,per,Ellen Hale,exact,,Ellen Hale,True
+,per,Mr. Jackson,,,,False
+transportation vessel,misc,"""the Knickerbocker Express""",,,,False
+public figure,per,Lady Lou,,,,False
+artist-writer,per,Bertie,,,,False
+book,misc,Bertie's book,,,,False
+magazine,misc,The Spectator,,,,False
+misc,org,Select Circle of Thinkers,,,,False
+artist-writer,per,Mr. Russell,,,,False
+artist-writer,per,Logan,,,,False
+artist-writer,per,Bertie,,,,False
+misc,org,Select Circle of Thinkers,,,,False
+book,misc,Bertie's book,,,,False
+artist-writer,per,Bertie,,,,False
+accomodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Thursday, Nov. 5, 1903",,partial,Thursday,False
+street,loc,Commonwealth Avenue,,,,False
+art historian,per,B.B.,,,,False
+,per,Mrs. Taylor,,partial,Mrs.,True
+street,loc,Bay State Road,,,,False
+,per,Wren,,,,False
+city,loc,Chichester,,,,False
+,per,Mrs. Taylor,,partial,Mrs.,True
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+,loc,Green Hill,exact,,Green Hill,False
+political,org,the Government,,,,False
+cultural heritage institution,loc,her Museum,,partial,Museum,True
+art historian,per,B.B.,,,,False
+art historian,per,Matthew Pritchard,,,,False
+art collector,per,Ned Warren,,,,False
+public figure,per,Director of the Museum,,partial,Museum,False
+art collector,per,Davis,exact,,Davis,False
+cultural heritage institution,loc,the Museum,,partial,Museum,True
+painting,misc,The famous forgery,,,,False
+painting,misc,The Donna Laura Minghetti Leonardo,,,,False
+artist-painter,per,Leonardo,,partial,Tricca -Leonardo,True
+art collector,per,Davis,exact,,Davis,False
+art historian,per,Pritchard,,,,False
+accomodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Friday, Nov. 6, 1903",,partial,Friday,False
+,per,the parents [Mr. Berenson],,,,False
+,per,the parents [Mrs. Berenson],,partial,Mrs.,True
+neighborhood,loc,Dorchester,exact,,Dorchester,False
+art historian,per,B.B.,,,,False
+cultural heritage institution,loc,the Museum,,partial,Museum,True
+artist-painter / curator,per,Chalfin,exact,,Chalfin,False
+art described by region,misc,[Japanese art],,partial,Japanese,True
+art described by region,misc,Chinese art,,partial,Chinese,True
+artist-painter / art critic,per,Roger Fry,,,,False
+,per,Mrs. Barrett Wendell,,partial,Mrs.,True
+,per,Mrs. Perry,,partial,Mrs.,True
+artist-painter,per,Puvis de Chavannes,,,,False
+painting,misc,portrait by Potter,,,,False
+artist-painter,per,Potter,,,,False
+scholar,per,Miss Grace Norton,,partial,Grace,False
+city,loc,Cambridge,exact,,Cambridge,True
+public figure / artist-painter ,per,Mr. Denman Ross,,partial,Denman,False
+scholar,per,Miss Norton,,,,False
+religious figure,per,Apostle,,,,False
+artist-painter / scholar,per,Mr. Ross,,partial,Ross,False
+artist-painter,per,Sargent,,,,False
+art described by region,misc,[Sienese art],,,,False
+proper noun adjective,misc,European,,partial,Europe,False
+art described by region,misc,art of the East,,,,False
+artist-painter,per,Whistler,,partial,Turner - Whistler-esque,False
+scholar,per,Miss Norton,,,,False
+city,loc,the City,,,,False
+public figure,per,Prince Henry of Prussia,,,,False
+public figure,per,President Elliott,,,,False
+public figure,per,Emperor,,,,False
+public figure,per,Prince Henry  ,,,,False
+cultural heritage institution,loc,Germanic Museum,,partial,Museum,True
+,per,Senda,,,,False
+family unit,org,the B.B.'s ,,,,False
+professor,per,Mr. Pierce,,,,False
+artist-painter,per,Helen Fry,,,,False
+medical,loc,Asylum,,,,False
+,per,Roger ,,,,False
+,per,B.B.,,,,False
+art historian,per,Claude Phillips,,,,False
+curator,per,Colvin,,,,False
+business,org,Burlington,,,,False
+art historian,per,Cook,,,,False
+,per,B.B.,,,,False
+artist-painter,per,Helen  ,,,,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Saturday, Nov. 7, 1903",,partial,Saturday,False
+cultural heritage institution,loc,Museum,exact,,Museum,True
+painting,misc,the so-called Rogier van der Weyden,,,,False
+artist-painter,per,Rogier van der Weyden,,,,False
+painting,misc,the other indubitable Rogiers,,,,False
+artist-painter,per,Rogiers,,,,False
+painting,misc,the one in Munich,,,,False
+,per,Bernhard,exact,,Bernhard,False
+artist-painter,per,Maître de Flémalle,,,,False
+artist-painter / curator,per,Mr. Chalfin,,partial,Chalfin,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+,per,Cushing-Cochrane,,,,False
+artist-painter,per,Cushing-Cochrane,,,,False
+artist-writer,per,Norman Hapgood,,,,False
+art collector,per,Mrs. G ,,partial,Mrs.,True
+cultural heritage institution,loc,Fenway Court,,,,False
+artist-writer,per,Norman  ,,,,False
+artist-writer,per,Peter Dunn,,,,False
+literary,per,Misther Dooley,,,,False
+athlete / artist-writer,per,Mrs. Abbott,,partial,Mrs.,True
+athlete ,per,"his wife, her daughter",,,,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+athlete ,per,the daughter,,,,False
+athlete / artist-writer,per,Mrs. Abbott,,partial,Mrs.,True
+,per,Jo Smith,,,,False
+artist-writer,per,Leslie Hopkinson,,partial,Santayana and Leslie Hopkinson,False
+city,loc,Cambridge,exact,,Cambridge,True
+religious figure,per,Miss Hughes,,,,False
+religious,misc,Unitarian,,,,False
+,per,Miss Yerxes,,,,False
+,per,Miss Allyn,,,,False
+artist-writer,per,Miss Hopkinson,,,,False
+school,loc,Radcliffe,,,,False
+"school, part of",loc,Bertram Hall,,,,False
+architect,per,Wadsworth Longfellow,,,,False
+street,loc,Berkeley Street,,,,False
+street,loc,Appian Way,,,,False
+school,loc,“Annex”,,,,False
+street,loc,Brattle Street,,,,False
+street,loc,Berkeley Street,,,,False
+,per,B.F.C.C.,,,,False
+scholar,per,Santayana,exact,,Santayana,True
+street,loc,Brattle Street,,,,False
+curator,per,the Robinsons [Mr Robinson],,,,False
+,per,the Robinsons [Mrs. Robinson],,partial,Mrs.,True
+scholar,per,Barrett Wendell,,,,False
+,per,[Mrs. Wendell],,partial,Mrs.,True
+medical professional,per,Paul Thorndyke,,,,False
+,per,[Mrs. Thorndyke],,partial,Mrs.,True
+medical professional,per,Dr. Thorndyke,,,,False
+,per,"his wife, a daughter of General Sherman",,,,False
+historic,per,General Sherman,,,,False
+,per,Mrs. Wendell,,partial,Mrs.,True
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Sunday, Nov. 8, 1903",,partial,Sunday,False
+cultural,misc,the Japanese wood-carving show,,partial,Japanese,True
+,per,Joseph Smith,,,,False
+,per,Miss Puffer,,,,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+,per,Rachel ,,partial,Rachel,False
+scholar,per,Ralph Perry,,,,False
+artist-painter,per,Roger Fry,,,,False
+,per,Roger Fry's father,,,,False
+scholar,per,Perry,,partial,T. H. Perry,True
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Monday, Nov. 9, 1903",,partial,Monday,False
+proper noun adjective,misc,Italian,exact,,Italian,True
+"art style, period, or movement",misc,quattrocento,,,,False
+"art style, period, or movement",misc,Florentines,,,,False
+"art style, period, or movement",misc,Sienese,,,,False
+art described by region,misc,[American landscape painting],,partial,America,False
+"art style, period, or movement",misc,Primitives,,,,False
+"art style, period, or movement",misc,“impressionist”,,,,False
+proper noun adjective,misc,American,,partial,Americans,True
+"art style, period, or movement",misc,[Modern Art],,,,False
+artist-painter,per,[Mr. Elliott],,,,False
+artist-writer,per,[Mrs. Elliott],,partial,Mrs.,True
+artist-writer,per,“Dooley”,,,,False
+athlete / artist-writer,per,the mother-in-law,,,,False
+artist-writer,per,Norman Hapgood,,,,False
+,per,the wife,,,,False
+artist-writer,per,Miss Osgood,,,,False
+artist-writer,per,her mother,,,,False
+,per,Mrs. J. L. Putnam,,partial,Mrs.,True
+,per,Mr. Kidder,,,,False
+state,loc,Alaska,,,,False
+,per,Mrs. Toy,exact,,Mrs. Toy,True
+scholar,per,Barrett Wendell,,,,False
+,per,[Mrs. Wendell],,partial,Mrs.,True
+scholar,per,Santayana,exact,,Santayana,True
+scholar,per,[Mr. William James],,,,False
+scholar,per,Mrs. William James,,partial,Mrs.,True
+,per,Mrs. James,,partial,Mrs.,True
+lawyer,per,Sir Frederick Pollock,,,,False
+,per,William James,,,,False
+religious figure,per,mother,,partial,Mother Superior.,False
+,misc,Christian Secret of a Happy Life,,,,False
+scholar,per,Barrett Wendell,,,,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Tuesday, Nov. 10, 1903",,partial,Tuesday,False
+cultural heritage institution,loc,Museum,exact,,Museum,True
+art described by region,misc,Italian pictures,,partial,Italian,True
+art collector ,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+cultural ,misc,the “Opening” of the Germanic Museum,,partial,Museum,False
+cultural heritage institution,loc,Germanic Museum,,partial,Museum,True
+scholar,per,William James,,,,False
+art described by region,misc,German art,,,,False
+public figure,per,Karl Schurze,,,,False
+artist-writer,per,Shakspeare,,,,False
+proper noun adjective,misc,German,,,,False
+professor,per,Prof. Norton,,partial,Prof.,True
+banker,per,James Loeb,,,,False
+artist-sculptor,per,a poor little Jew scultpor,,,,False
+family unit,org,the Perrys en famille,,,,False
+artist-painter,per,Mrs. Whitman,,partial,Mrs.,True
+family unit,org,The Perry Girls,,,,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Wednesday, Nov. 11, 1903",,partial,Wednesday,False
+cultural heritage institution,loc,Museum,exact,,Museum,True
+public figure,per,Mr. Loeb,,,,False
+proper noun adjective,misc,Philistine,,,,False
+,per,Bernhard's,,partial,Bernhard,False
+award,misc,Poetry Prize,,,,False
+country,loc,Panama,,,,False
+historic,misc,Tammany Victory,,,,False
+,per,B. B.,,,,False
+,per,Miss Reed,,,,False
+,per,Gertrude,exact,,Gertrude,False
+,per,Mrs. Morss,,partial,Mrs.,True
+,per,Bernhard,exact,,Bernhard,False
+,per,Mrs. Pringsheim,,partial,Mrs.,True
+religious figure,per,Mrs. Longyear,,partial,Mrs.,True
+religious beliefs / practices,misc,[Christian Science],,,,False
+proper noun adjective,misc,Francisian,,,,False
+,per,B. B.,,,,False
+religious,misc,Christian Science meeting,,,,False
+,per,Bernhard,exact,,Bernhard,False
+religious figure,per,Mrs Longyear,,,,False
+,per,her son,,,,False
+,per,Miss Leslie Hopkinson,,,,False
+city,loc,Cambridge,exact,,Cambridge,True
+,per,the Fletcheres [Mr. Fletcher],,,,False
+,per,the Fletcheres [Mrs. Fletcher],,partial,Mrs.,True
+scholar,per,the Weir Smyths [Mr. Weir Smyth],,,,False
+,per,the Weir Smyths [Mrs. Smyth],,partial,Mrs.,True
+banker,per,Mr. Baker,,,,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Thursday, Nov. 12, 1903",,partial,Thursday,False
+,per,Rachel,exact,,Rachel,False
+cultural heritage institution,loc,Museum,exact,,Museum,True
+public figure / artist-painter,per,Mr. Denman Ross,,partial,Denman,False
+art collection,misc,the early Chinese paintings,,partial,Chinese,True
+,date,XI-XII century,,,,False
+artist-painter,per,Ririomon,,,,False
+?,misc,Japanese things,,partial,Japanese,True
+sculpture,misc,Chinese figure,,partial,Chinese,True
+?,misc,Japanese thing,,partial,Japanese,True
+public figure / artist-painter,per,Mr. Ross,,partial,Ross,False
+art described by region,misc,Eastern Art,,,,False
+art described by region,misc,Italian Art,,partial,Italian,True
+painting,misc,[Veronese picture],,,,False
+"art style, period, or movement",misc,Veronese,,,,False
+art described by region,misc,Italian Art,,partial,Italian,True
+,per,Bernhard,exact,,Bernhard,False
+,per,Fox,,,,False
+city,loc,Litchfield,,,,False
+city,loc,Boston,exact,,Boston,True
+scholar,per,the Barrett Wendells [Mr. Wendell],,,,False
+,per,the Barrett Wendells [Mrs. Wendell],,partial,Mrs.,True
+,per,Robinsons [Mrs. Robinson],,partial,Mrs.,True
+curator,per,Robinsons [Mr. Robinson],,,,False
+architect,per,Mr. and Mrs. Sturgis [Mr. Sturgis],,partial,Mrs.,True
+,per,Mr. and Mrs. Sturgis [Mrs. Sturgis],,partial,Mrs.,True
+,per,Mr. and Mrs. Bowllkes [Mr. Bowlkes],,partial,Mrs.,True
+,per,Mr. and Mrs. Bowllkes [Mrs. Bowlkes],,partial,Mrs.,True
+,per,daughter of Richardson the archaeologist,,,,False
+archaeologist,per,Richardson the archaeologist,,,,False
+religious beliefs / practices,misc,Christian Science principles,,,,False
+religious figure,per,Bishop of Massachusetts,,,,False
+country,loc,England,exact,,England,True
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Friday, Nov. 13, 1903",,partial,Friday,False
+cultural heritage institution,loc,Museum,exact,,Museum,True
+,per,Bernhard,exact,,Bernhard,False
+public figure,per,Mr. Sam Warren,,,,False
+public figure,per,Mr. Cabot,,,,False
+neighborhood,loc,downtown,,,,False
+cultural heritage institution,loc,Museum,exact,,Museum,True
+,per,Gertrude,exact,,Gertrude,False
+architect,per,Mr. Fox,,,,False
+artist-writer,per,Mrs. Sprague,,partial,Mrs.,True
+painting,misc,Hogarth’s Selbstporträt,,,,False
+artist-painter,per,Hogarth,,,,False
+,per,Mrs. Henry Higginson,,partial,Higginson,False
+public figure,per,Mrs. Agassiz,,partial,Mrs.,True
+cultural heritage institution,loc,Symphony,,partial,Symphony Concert,False
+,per,Miss Norton,,,,False
+professor / artist-writer,per,C. E. Norton,,,,False
+,per,Mrs. Roger,,partial,Mrs.,True
+described by nationality,org,the Italians,,partial,Italian,True
+public figure,per,Mr. Dorr,,,,False
+public figure,per,[Admiral Crowninshield],,,,False
+artist-writer,per,Mrs. Crowninshield,,partial,Mrs.,True
+religious figure,per,[Mr. Peabody],,,,False
+,per,Mrs. Peabody,,partial,Mrs.,True
+accomodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Saturday, Nov. 14, 1903",,partial,Saturday,False
+cultural heritage institution,loc,Museum,exact,,Museum,True
+city,loc,Cambridge,exact,,Cambridge,True
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+cultural heritage institution,loc,Fenway Court,,,,False
+color,misc,Bardini blue,,,,False
+cultural heritage institution,loc,[Bardini Museum],,partial,Museum,True
+art collector,per,[Bardini],,,,False
+art historian,per,Bernhard,exact,,Bernhard,False
+art collector,per,her,,partial,Rabbi Fleischer,True
+painting,misc,"a Chigi ""Tintoretto""",,,,False
+artist-painter,per,[(a Domenico)],,,,False
+painting,misc,The little Mantegna,,,,False
+artist-painter,per,Mantegna,,,,False
+architect,per,Potter,,,,False
+painting,misc,Passari Tura Circumcision,,,,False
+artist-painter,per,Tura,,,,False
+painting,misc,the great Chigi Botticelli,,,,False
+artist-painter,per,Botticelli,,,,False
+painting,misc,"that poor school piece, a Nativity and Shepherds",,,,False
+artist-painter,per,Botticelli,,,,False
+historic,per,Duca di Brindisi,,,,False
+residence,loc,Palazzo Antinori,,,,False
+city,loc,Florence,,partial,Florence Trip,False
+,date,[1901],,,,False
+art collector,per,Horne,,,,False
+art historian,per,B.B.,,,,False
+art historian,per,Bernhard,exact,,Bernhard,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+gift,misc,Chinese bracelet,,partial,Chinese,True
+art collector,per,she,,,,False
+artist-musician,per,Mr. Proctor,,partial,Proctor,False
+cultural hertiage institution,loc,the Symphony,,,,False
+architect,per,Mr. Fox,,,,False
+accomodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Sunday, Nov. 15, 1903",,partial,Sunday,False
+scholar,per,Miss Grace Norton,,partial,Grace,False
+cultural heritage institution,loc,Fogg Museum,,partial,Museum,True
+public figure,per,Mr. Loeb,,,,False
+art collector / artist-painter,per,Fairfax Murray,,,,False
+cultural ,misc,Forman Sale,,,,False
+art collector / bibliographer,per,Forman,,,,False
+art collector,per,Murray,,,,False
+public figure,per,Mr. Loeb,,,,False
+art collector,per,Murray,,,,False
+art historian,per,Bernhard,exact,,Bernhard,False
+art historian,per,Mr. Edward Forbes,,,,False
+painting,misc,[painting by Niccolò d’Alunno],,,,False
+artist-painter,per,Niccolò d’Alunno,,,,False
+city,loc,Siena,,,,False
+painting,misc,[painting by Girolamo di Benvenuto],,,,False
+artist-painter,per,Girolamo di Benvenuto,,,,False
+city,loc,Rome,,,,False
+painting,misc,[painting by fra Diamante],,,,False
+artist-painter,per,fra Diamante,,,,False
+artist-painter,per,[actual artist of Saint Jerome in the Desert...],,,,False
+city,loc,Florence,,partial,Florence Trip,False
+artist-painter,per,Antoniazzo,,,,False
+sculpture,misc,Antoniazzo tabernacolo,,,,False
+curator,per,Mr. Moore,,,,False
+artist-painter,per,Antoniazzo,,,,False
+artist-painter,per,Filippino,,,,False
+artist-painter,per,Correggio,,,,False
+painting,misc,[painting by Correggio],,,,False
+artist-painter,per,Fr. Santacroce,,,,False
+painting,misc,[painting by Fr. Santacroce],,,,False
+artist-painter,per,Rondinelli,,,,False
+painting,misc,[painting by Rondinelli],,,,False
+artist-painter,per,Bellini,,,,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+banker / public figure,per,Mr. Loeb,,,,False
+accommodation,loc,Green Hill,exact,,Green Hill,False
+,per,Mr. Dwight,,partial,Dwight,False
+,per,Mr. Bowlker,,,,False
+,per,Mrs. Robinson,,partial,Mrs.,True
+,per,Mrs. Tyler,,partial,Mrs.,True
+,per,Gertrude,exact,,Gertrude,False
+neighborhood,loc,Dorchester,exact,,Dorchester,False
+,per,Leon Eiges,,,,False
+art historian,per,Bernhard,exact,,Bernhard,False
+accomodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Monday, Nov. 16, 1903",,partial,Monday,False
+religious figure,per,Little Rabbi Fleischer,,partial,Rabbi Fleischer,True
+cultural heritage institution,loc,Fenway Court,,,,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+,per,Mrs. Perry,,partial,Mrs.,True
+art historian,per,Bernhard,exact,,Bernhard,False
+,per,Mason Hodg___,,,,False
+,per,E______,,,,False
+artist-painter,per,Tarbell,,,,False
+,per,Dove,,,,False
+,per,Peabody,,,,False
+,per,Phillip Hale,,,,False
+,per,Ware,,,,False
+,per,Slater,,,,False
+,per,Dietrich,,,,False
+public figure,per,Higginson,exact,,Higginson,False
+,per,[James],,,,False
+,per,Russell,,,,False
+,per,[Cabot],,,,False
+,per,[Hale],,,,False
+,per,Bigelow,,,,False
+artist-writer,per,Mollie Osgood,,,,False
+artist-writer,per,the nice young Englishman,,,,False
+,per,[Perry Girl #1],,,,False
+,per,[Perry Girl #2],,,,False
+city,loc,Brookline,exact,,Brookline,False
+art historian,per,Bernhard,exact,,Bernhard,False
+artist-musician,per,Helen Hopekirk Wilson,,,,False
+,per,her husband,,,,False
+artist-composer,per,Debussy,,,,False
+,misc,[piece by Debussy],,,,False
+artist-composer,per,César Franck,,,,False
+,misc,[piece by César Franck],,,,False
+artist-composer,per,Bach,exact,,Bach,False
+,misc,[piece by Bach],,partial,Bach,False
+accomodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Tuesday, Nov. 17, 1903",,partial,Tuesday,False
+art collection,misc,the Greek Bronzes,,partial,Greek,False
+curator,per,Mr. Robinson,,,,False
+art described by region,misc,Italian Art,,partial,Italian,True
+social reformer,per,Gertrude Hitz,,partial,Gertrude,False
+public figure,per,Alfred Burton,,,,False
+school,loc,Institute of Technology,,,,False
+cultural heritage institution,loc,Fenway Court,,,,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+art historical debate,misc,Powell-Carew Holbein dispute,,,,False
+artist-painter,per,Holbein,,,,False
+artist-musician,per,Clayton Johns,exact,,Clayton Johns,True
+,per,Mr. Swift,,partial,Swift,False
+artist-musician,per,[Mr. Adamowski],,,,False
+,per,Mrs. Adamowski,,partial,Mrs.,True
+,per,Mr. William Blake,,,,False
+,per,Gladys,,,,False
+,per,Mrs. Baldwin,,partial,Mrs.,True
+,per,her mother,,,,False
+artist-musician,per,Clayton Johns,exact,,Clayton Johns,True
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+club,org,Thursday Evening Club,,partial,Thursday,False
+public figure,per,[Mr. Longyear],,partial,Mr. Longyear,True
+religious figure,per,Mrs. Longyear,,partial,Mrs.,True
+religious beliefs / practices,misc,Christian Science,,,,False
+religious figure,per,"""Healer""",,,,False
+artist-painting,per,Carpaccio,,,,False
+painting,misc,Carpaccio's picture,,,,False
+religious figure,per,St. Jerome,,,,False
+religious figure,per,Mrs. Longyear,,partial,Mrs.,True
+public figure,per,____ Longyear,,,,False
+accomodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Wednesday, Nov. 18, 1903",,partial,Wednesday,False
+art historian,per,Bernhard,exact,,Bernhard,False
+artist-painter,per,Ellen Hale,exact,,Ellen Hale,True
+cultural heritage institution,loc,the Museum,,partial,Museum,True
+,per,Mrs. Berenson,,partial,Mrs.,True
+artist-painter,per,Miss Hale,,,,False
+city,loc,Cambridge,exact,,Cambridge,True
+,per,Rachel,exact,,Rachel,False
+,per,Mrs. Willard,,partial,Mrs.,True
+,per,Mrs. West,,partial,Mrs.,True
+art historian,per,B.B.,,,,False
+public figure,per,Ethel Puffer,,,,False
+professor,per,Prof. Royce,,partial,Prof.,True
+psychologist,per,Prof. Münsterberg,,partial,Prof.,True
+scholar,per,Santayana,exact,,Santayana,True
+professor,per,Münsterberg,,,,False
+cultural heritage instituton,loc,the Germanic Museums,,partial,Museum,True
+art historian,per,B.B.,,,,False
+businessman,per,Lippmann,,,,False
+cultural ,misc,St. Louis Fair,,,,False
+professor,per,Prof. Royce,,partial,Prof.,True
+art historian,per,Bertie,,,,False
+school,loc,Harvard,,,,False
+public figure,per,Miss. Puffer,,,,False
+public figure,per,the Longyears [Mr. Longyear],,partial,Mr. Longyear,True
+religious figure,per,the Longyears [Mrs. Longyear],,partial,Mrs.,True
+religious,loc,"""Christian Science Temple""",,,,False
+cultural ,misc,Experience Meeting,,,,False
+,misc,Bible,,,,False
+religious figure,per,Mrs. Mary Baker G. Eddy,,partial,Mrs.,True
+religious figure,per,Mrs. Longyear,,partial,Mrs.,True
+art historian,per,Bernhard,exact,,Bernhard,False
+religious beliefs / practices,misc,"[Christian Science ""treatment""]",,,,False
+scholar,per,Barrett Wendell,,,,False
+cultural,misc,"""Wednesday Evening Club""",,partial,Wednesday,False
+,date,1776,,,,False
+scholar,per,Mr. Rhodes,,,,False
+accomodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Thursday, Nov. 19, 1903",,partial,Thursday,False
+art historian,per,Bernhard,exact,,Bernhard,False
+religious beliefs / practices,misc,"[Christian Science ""treatment""]",,,,False
+psychologist,per,Miss Puffer,,,,False
+school,loc,Wellesley,,,,False
+lecture,misc,gave a lecture,,,,False
+school,loc,Smith,,,,False
+public figure,per,Miss Hazard,,,,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+"school, part of",loc,Club House,,,,False
+academic,org,the girls who go in to art,,,,False
+academic,org,[Wellesley College English Department],,,,False
+art historian,per,B.B.,,,,False
+,per,the Tylers [Mr. Tyler],,,,False
+,per,the Tylers [Mrs. Tyler],,partial,Mrs.,True
+,per,Mr. Gale,,,,False
+,per,his wife,,,,False
+architect,per,Mrs. Fox,,partial,Mrs.,True
+,per,"""brother Charles""",,,,False
+accomodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Friday, Nov. 20, 1903",,partial,Friday,False
+scholar,per,Miss Norton,,,,False
+art collector,per,Mr. Bullard,,,,False
+cultural heritage institution,loc,the Museum,,partial,Museum,True
+scholar,per,Miss Norton,,,,False
+art collector,per,Mr. Bullard,,,,False
+art historian,per,Bernhard,exact,,Bernhard,False
+,per,Miss Norton,,,,False
+artist-painter,per,Joseph Lyndon Smith,,,,False
+cultural,misc,Joseph Lyndon Smith’s exhibition of pictures,,,,False
+region,loc,Sicily,,,,False
+scholar,per,Miss Norton,,,,False
+art historian,per,B.B.,,,,False
+,per,a man,,,,False
+artist-painter,per,Mr. Smith,,,,False
+art historian,per,Bernhard,exact,,Bernhard,False
+city,loc,Cambridge,exact,,Cambridge,True
+,per,Mrs. Barrett Wendell,,partial,Mrs.,True
+,per,Mrs. Rogers,,partial,Mrs.,True
+,per,Mrs. Endicott Peabody,,partial,Mrs.,True
+,per,Mrs. Burr,,partial,Mrs.,True
+,per,Mrs. Parkman,exact,,Mrs. Parkman,True
+,per,Miss Robins,,,,False
+scholar,per,Santayana,exact,,Santayana,True
+city,loc,Cambridge,exact,,Cambridge,True
+art historian,per,B.B.,,,,False
+,per,Miss Robins,,,,False
+scholar,per,the James' [Mr. James],,,,False
+,per,the James' [Mrs. James],,partial,Mrs.,True
+public figure / artist-painter,per,Mr. Denman Ross,,partial,Denman,False
+,per,Mr. Minturn,,,,False
+,per,Miss Coombe,,,,False
+,per,Mrs. Goodwin,,partial,Mrs.,True
+scholar,per,Mr. William James,,,,False
+public figure / artist-painter,per,Mr. Ross ,,partial,Ross,False
+public figure / artist-painter,per,Mr. Ross ,,partial,Ross,False
+artist-painter,per,Titian,,,,False
+painting,misc,Europa,,,,False
+artist-painter / curator,per,Veronese,,,,False
+painting,misc,"that fake ""Veronese""",,,,False
+art historian,per,B.B.,,,,False
+religious figure,per,George Fox,,,,False
+city,loc,Lichfield,,,,False
+city,loc,Boston,exact,,Boston,True
+art historian,per,Bernhard,exact,,Bernhard,False
+religious beliefs / practices,misc,"[Christian Science ""treatment""]",,,,False
+religious figure,per,Mrs. Longyear,,partial,Mrs.,True
+accomodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Saturday, Nov. 21, 1903",,partial,Saturday,False
+art historian,per,Bernhard,exact,,Bernhard,False
+religious beliefs / practices,misc,"[Christian Science ""treatment""]",,,,False
+religious figure,per,Mrs. Longyear,,partial,Mrs.,True
+printer,per,Mr. Updike,,,,False
+business,loc,printing establishment,,,,False
+art historian,per,B.B.,,,,False
+city,loc,Cambridge,exact,,Cambridge,True
+scholar,per,Miss Norton,,,,False
+cultural,misc,football match,,,,False
+athletic team,org,Yale,,,,False
+athletic team,org,Harvard,,,,False
+artist-painter,per,Mrs. Whitman,,partial,Mrs.,True
+cultural,misc,[Symphony Concert],,partial,Symphony Concert,False
+family unit,org,the Perrys,,,,False
+,per,[Mrs. Perry],,partial,Mrs.,True
+lawyer,per,the Samuel Warrens [Samuel Warren],,,,False
+,per,the Samuel Warrens [Mrs. Warren],,partial,Mrs.,True
+family unit,org,Rogers,,,,False
+family unit,org,Grays,,,,False
+artist-painter,per,Lyndon Smiths [Lyndon Smith],,,,False
+,per,Lyndon Smiths [Mrs. Smith],,partial,Mrs.,True
+,per,Miss Reed,,,,False
+professor,per,Prof. Powers,,partial,Prof.,True
+political,org,“Bureau of International Travel”,,,,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+artist-musician,per,Mr. Proctor,,partial,Proctor,False
+cultural heritage institution,loc,the Symphony  ,,,,False
+family unit,org,the family,,,,False
+neighborhood,loc,Savin Hill,,,,False
+,per,Rachel,exact,,Rachel,False
+scholar,per,Ralph Perry,,,,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+,per,B.B.,,,,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Sunday, Nov. 22, 1903",,partial,Sunday,False
+,per,Bernhard,exact,,Bernhard,False
+religious beliefs / practices,misc,Christian Science,,,,False
+religious,misc,Christian Science meeting,,,,False
+city,loc,Cambridge,exact,,Cambridge,True
+public figure / artist-painter,per,Mr. Denman Ross,,partial,Denman,False
+art described by region,misc,[Chinese art],,partial,Chinese,True
+art described by region,misc,Japanese Art,,partial,Japanese,True
+art described by region,misc,[Eastern art],,,,False
+?,misc,[Denman Waldo Ross' art],,partial,Denman,False
+artist-painter,per,Ingres,,,,False
+artist-painter,per,Velasquez,,,,False
+artist-painter,per,Manet,,,,False
+artist-painter,per,Michelangelo,,,,False
+artist-painter,per,Degas,,,,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+art collector,per,Fairfax Murray,,,,False
+,per,Mrs. Fletcher,,partial,Mrs.,True
+,per,Miss Allyn,,,,False
+scholar,per,the Moores [Mr. Moore],,,,False
+,per,the Moores [Mrs. Moore],,partial,Mrs.,True
+,per,Thayers [Mr. Thayer],,,,False
+,per,Thayers [Mrs. Thayer],,partial,Mrs.,True
+,per,"Mrs. Sampson, née Ware",,partial,Mrs.,True
+,per,B.B.,,,,False
+,per,Mrs. Toy,exact,,Mrs. Toy,True
+religious figure,per,Conte Campello,,,,False
+newspaper,misc,the Nation,,,,False
+art historian,per,Warburg,,,,False
+artist-writer,per,Logan,,,,False
+,per,Aunt Janet,,,,False
+,per,Conway Felton,,,,False
+city,loc,Santa Barbara,,,,False
+religious figure,per,Longyear,,partial,Mr. Longyear,True
+,per,Old Mrs. Ross,,partial,Ross,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Monday, Nov. 23, 1903",,partial,Monday,False
+,per,Mrs. Tyler,,partial,Mrs.,True
+architect,per,Mr. Fox,,,,False
+,per,Larz Anderson,,,,False
+,per,Mr. Anderson,,,,False
+,per,B.B.,,,,False
+artist-musician,per,Clayton Johns,exact,,Clayton Johns,True
+club,loc,Tavern Club,,,,False
+,per,Mrs. Peabody,,partial,Mrs.,True
+,per,Mrs. Kahn,,partial,Mrs.,True
+,per,B.B.,,,,False
+,per,Mrs. Perry,,partial,Mrs.,True
+,per,Mrs. Morss,,partial,Mrs.,True
+,per,Mr. I. Mackintosh. Bell,,partial,R. I.,True
+region,loc,British Columbia,,,,False
+body of water,loc,Hudson's Bay,,,,False
+ethnic group,org,Indians,,,,False
+ethnic group,org,Esquimaux,,,,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Tuesday, Nov. 24, 1903",,partial,Tuesday,False
+city,loc,Cambridge,exact,,Cambridge,True
+professor,per,Prof. Norton,,partial,Prof.,True
+scholar,per,Santayana,exact,,Santayana,True
+,per,the daughter Santayana christened “Paradiso”,,partial,Santayana,True
+scholar,per,Santayana,exact,,Santayana,True
+professor,per,Norton,,,,False
+painting,misc,[Bassano paintings],,,,False
+artist-painter,per,Bassano,,,,False
+artist-painter,per,Tintoretto,,,,False
+drawing,misc,[Burne-Jones drawings],,,,False
+artist-painter,per,Burne-Jones,,,,False
+drawing,misc,[Blake drawing],,,,False
+artist-painter / artist-writer,per,Blake,,,,False
+scholar,per,Miss Norton,,,,False
+public figure / artist-painter,per,Denman Ross,,partial,Denman,False
+club,loc,the Union,,,,False
+scholar,per,Santayana,exact,,Santayana,True
+,per,the Toys [Mr. Toy],,,,False
+,per,the Toys [Mrs. Toy],,partial,Mrs.,True
+art collector,per,Bullard [Mr. Bullard],,,,False
+public figure,per,Mrs. Agassiz,,partial,Mrs.,True
+art collector,per,Pringsheims [Mr. Pringsheim],,,,False
+,per,Pringsheims [Mrs. Pringsheim],,partial,Mrs.,True
+religious figure,per,Rabbi Fleischer,exact,,Rabbi Fleischer,True
+,per,the Wilsons [Mr. Wilson],,,,False
+artist-musician,per,the Wilsons [Mrs. Wilson],,partial,Mrs.,True
+artist-musician,per,Helen,,,,False
+,misc,[music by Bach],,partial,Bach,False
+artist-composer,per,Bach,exact,,Bach,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Wednesday, Nov. 25, 1903",,partial,Wednesday,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+artist-painter / artist-sculptor,per,Zorn,,,,False
+,per,B. B.,,,,False
+art collector,per,Mr. Macomber,,,,False
+art described by region,misc,[Italian art],,partial,Italian,True
+artist-painter,per,Mrs. Whitman,,partial,Mrs.,True
+painting,misc,[Sarah Whitman paintings],,,,False
+stained glass,misc,[Sarah Whitman stained glass],,,,False
+art collector,per,Mr. Templeman Coolidge,,,,False
+,per,his wife,,,,False
+artist-writer / scholar,per,"the historian, Parkman",,,,False
+,per,Senda,,,,False
+scholar,per,Mr. Perry,,,,False
+,per,Mrs. Hooker,,partial,Mrs.,True
+,per,the Bowlkers [Mr. Bowlker],,,,False
+,per,the Bowlkers [Mrs. Bowlker],,partial,Mrs.,True
+,per,Mrs. Bowlker,,partial,Mrs.,True
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+cultural,misc,Thanksgiving,,,,False
+,date,"Thursday, Nov. 26, 1903",,partial,Thursday,False
+region,loc,New England,,partial,England,True
+,per,Senda,,,,False
+,per,little Mrs. Berenson,,partial,Mrs.,True
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Friday, Nov. 27, 1903",,partial,Friday,False
+public figure / artist-painter,per,Denman ross,,partial,Denman,False
+cultural heritage institution,loc,Museum,exact,,Museum,True
+?,misc,[16 pictures of Rakkan],,,,False
+religious figure,per,Rakkan,,,,False
+artist-printmaker,per,Dureresque,,,,False
+art described by region,misc,[Japanese art],,partial,Japanese,True
+art described by region,misc,[Chinese art],,partial,Chinese,True
+art historian,per,Mr. Pritchard,,,,False
+public figure / artist-painter,per,Mr. Ross,,partial,Ross,False
+,per,Billy Taylor,,,,False
+public figure / artist-painter,per,Denman Ross,,partial,Denman,False
+public figure,per,Alfred Burton,,,,False
+city,loc,Newton,,,,False
+region,loc,North Pole,,,,False
+region,loc,Java,,,,False
+religious figure,per,a priest,,,,False
+historic,misc,solar eclipse,,,,False
+public figure,per,Berton,,,,False
+public figure,per,Burton,,,,False
+,per,Arnold,,,,False
+,per,Harold,,,,False
+,per,Burton’s sister,,,,False
+curator,per,the Robinsons [Mr. Robinson],,,,False
+,per,the Robinsons [Mrs. Robinson],,partial,Mrs.,True
+art historian,per,Dick Norton,,,,False
+art collector,per,Mrs. Montgomery Sears,,partial,Mrs.,True
+art described by region,misc,"""Etruscan” jewelry",,,,False
+,per,Mrs. Sears,,partial,Mrs.,True
+cultural heritage institution,loc,Museum,exact,,Museum,True
+art historian,per,Norton,,,,False
+cultural heritage institution,loc,Museum,exact,,Museum,True
+artist-painter,per,Perugino,,,,False
+painting,misc,our Perugino,,,,False
+curator,per,Robinson,,,,False
+,per,his wife,,,,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Saturday, Nov. 28, 1903",,partial,Saturday,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+,per,Senda,,,,False
+art described by region,misc,[Chinese art],,partial,Chinese,True
+art described by region,misc,[Japanese art],,partial,Japanese,True
+cultural heritage museum,loc,her beautiful Palace,,,,False
+scholar,per,Edward Everett Hale,exact,,Edward Everett Hale,True
+,per,a sweet clean wife,,,,False
+artist-painter,per,daughter,,,,False
+artist-painter,per,Ellen Hale,exact,,Ellen Hale,True
+,per,the Fletchers [Mr. Fletcher],,,,False
+,per,the Fletchers [Mrs. Fletcher],,partial,Mrs.,True
+city,loc,Cambridge,exact,,Cambridge,True
+,per,Mr. Thayer,,,,False
+,per,his wife,,,,False
+,per,Bessie Ware,,,,False
+artist-writer,per,Logan,,,,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Sunday, Nov. 29, 1903",,partial,Sunday,False
+,per,Charles Tyler,,,,False
+architect,per,Fox,,,,False
+,per,tyler,,partial,Gertrude and Mrs. Tyler,False
+business,org,Pullman,,,,False
+city,loc,Newburyport,,,,False
+transportation vessel,misc,"""Mr. White""",,,,False
+city,loc,Newburyport,,,,False
+neighborhood,loc,Hampton Beach,,,,False
+city,loc,Hampton  ,,,,False
+,per,B. B.,,,,False
+,per,Tyler,,partial,Gertrude and Mrs. Tyler,False
+,per,Gertrude Moulton,,partial,Gertrude,False
+,loc,Union Club,,,,False
+,per,Mr. Tyler,,,,False
+region,loc,the West,,,,False
+criminal,per,a Texan,,,,False
+,per,B. B.,,,,False
+,per,Billy Taylor,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Ray,,,,False
+,per,Bernhard ,,partial,Bernhard,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Monday, Nov. 30, 1903",,partial,Monday,False
+,per,B. B.,,,,False
+cultural heritage institution,loc,Museum,exact,,Museum,True
+,per,Mrs. Rogers,,partial,Mrs.,True
+philanthropic,org,home for underpaid shop-girls,,,,False
+,per,Miss Sarah Gardiner,,,,False
+art collector,per,the Bullards [Mr. Bullard],,,,False
+,per,the Bullards [Mrs. Bullard],,partial,Mrs.,True
+art collection,misc,Mr. Bullard's collection,,,,False
+print,misc,Whistler etchings and lithographs,,,,False
+artist-painter,per,Whistler,,partial,Turner - Whistler-esque,False
+religious figure,per,Mrs. Longyear,,partial,Mrs.,True
+,per,Mrs. Perry,,partial,Mrs.,True
+artist-photographer,per,Mr. Dow,,,,False
+,per,Bernhard,exact,,Bernhard,False
+artist-photographer,per,Mr. Dow,,,,False
+,per,B. B.,,,,False
+artist-illustrator,per,Miss Fanny Alexander,,,,False
+art critic,per,Ruskin,,,,False
+,per,B.B.,,,,False
+cultural,org,Kneisel Quartette,,,,False
+city,loc,Cambridge,exact,,Cambridge,True
+,per,Mrs. Ross,,partial,Ross,False
+,misc,Kruzer Sonata,,,,False
+artist-composer,per,Beethoven,,,,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Tuesday, Dec. 1, 1903",,partial,Tuesday,False
+art collector,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+artist-musician,per,Melba,,,,False
+cultural heritage institution,loc,Symphony Hall,,,,False
+city,loc,Concord,,,,False
+art historian,per,Edward Forbes,,,,False
+public figure / artist-writer,per,Emerson,,,,False
+cultural heritage institution,loc,"""School of Philosophy""",,,,False
+academic,org,"""School of Philosophy""",,,,False
+historic,loc,Hawthorne’s house,,,,False
+artist-writer,per,Hawthorne,,,,False
+,per,Miss Emerson,,,,False
+historic,loc,Emerson’s study,,,,False
+education,loc,Middlesex school,,,,False
+city,loc,Concord,,,,False
+lawyer,per,tucker Burr,,,,False
+medical professional,per,[Mr. Minot],,,,False
+,per,Mrs. Minot,,partial,Mrs.,True
+medical professional,per,[Mr. Thorndyke],,,,False
+,per,Mrs. Thorndyke,,partial,Mrs.,True
+lawyer ,per,[Mr. Warren],,,,False
+,per,[Mrs. Sam Warren],,partial,Mrs.,True
+professor,per,the Barrett Wendells [Mr. Barrett Wendell],,,,False
+,per,the Barrett Wendells [Mrs. Barrett Wendell],,partial,Mrs.,True
+lawyer,per,Tucker,,,,False
+lawyer,per,Mr. Burr,,,,False
+,per,B. B.,,,,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Wednesday, Dec. 2, 1903",,partial,Wednesday,False
+,per,Bernhard,exact,,Bernhard,False
+religious beliefs / practices,misc,[Chrisitan Science treatment],,,,False
+religious figure,per,Mrs. Longyear,,partial,Mrs.,True
+,per,Mrs. Tyler,,partial,Mrs.,True
+,per,B.B.,,,,False
+art collector,per,Mr. Bullard,,,,False
+artist-writer,per,Mrs. Elliott,,partial,Mrs.,True
+artist-writer,per,Julia Ward Howe,,,,False
+,per,Mrs. Higginson,exact,,Mrs. Higginson,True
+,per,Mrs. Rogers,,partial,Mrs.,True
+neighborhood,loc,Savin Hill,,,,False
+accommodation,loc,Hotel Somerset,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Thursday, Dec. 3, 1903",,partial,Thursday,False
+,per,B. B.,,,,False
+city,loc,Cambridge,exact,,Cambridge,True
+professor,per,Wendell,,,,False
+professor,per,Royce,,partial,Josiah Royce,True
+scholar,per,Miss Norton,,,,False
+lawyer,per,the Sam Warrens [Mr. Warren],,,,False
+,per,the Sam Warrens [Mrs. Warren],,partial,Mrs.,True
+professor,per,Mr. and Mrs. Coolidge [Mr. Coolidge],,partial,Mrs.,True
+,per,Mr. and Mrs. Coolidge [Mrs. Coolidge],,partial,Mrs.,True
+art collector,per,Templeman Coolidge,,,,False
+curator,per,The Robinsons [Mr. Robinson],,,,False
+,per,The Robinsons [Mrs. Robinson],,partial,Mrs.,True
+public figure / artist-painter,per,Denman Ross,,partial,Denman,False
+art historian,per,Pritchard,,,,False
+public figure / artist-painter,per,Mr. Ross,,partial,Ross,False
+curator,per,Mr. Robinson,,,,False
+curator,per,Mr. Robinson,,,,False
+painting,misc,the Perugino,,,,False
+artist-painter,per,Perugino,,,,False
+accomodation,loc,Guernsey Hall,,,,False
+city,loc,Princeton,,,,False
+state,loc,New Jersey,,,,False
+,date,"Friday, Dec. 4, 1903",,partial,Friday,False
+business,org,Pullman car,,,,False
+state,loc,New York,exact,,New York,True
+art historical adjective,misc,Cyclopean,,,,False
+town,loc,San Gemignano,,,,False
+scholar,per,Mrs. Marquand,,partial,Mrs.,True
+art historian,per,Mr. Marquand,,,,False
+student / scholar,per,Mr. Morey,,,,False
+professor,per,Freddie Pease,,,,False
+accomodation,loc,Guernsey Hall,,,,False
+city,loc,Princeton,,,,False
+state,loc,New Jersey,,,,False
+,date,"Saturday, Dec. 5, 1903",,partial,Saturday,False
+school,loc,the college,,,,False
+architect,per,Mr. Potter,,,,False
+architect,per,Walter Cope,,,,False
+"school, part of",loc,Walter Cope's building,,,,False
+art historian,per,Bernhard,exact,,Bernhard,False
+scholar,per,Mrs. Marquand,,partial,Mrs.,True
+scholar,per,Mr. Marquand,,,,False
+,per,Mr. Cross,,partial,Ross,False
+artist-writer,per,George Eliot,,,,False
+accomodation,loc,Guernsey Hall,,,,False
+city,loc,Princeton,,,,False
+state,loc,New Jersey,,,,False
+,date,"Sunday, Dec. 6, 1903",,partial,Sunday,False
+sculpture,misc,Saint Gaudens monument,,,,False
+artist-scultpor,per,Saint Gaudens,,,,False
+sculpture,misc,La Farge and Lathrop (?) windows,,,,False
+artist-sculptor,per,La Farge,,,,False
+artist-sculptor,per,Lathrop,,,,False
+professor,per,Mr. Morey,,,,False
+professor,per,Mr. Pease ,,,,False
+scholar,per,Mr. Butler,,,,False
+landmark,loc,Orontes,,,,False
+accomodation,loc,Hotel Plaza,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Monday, Dec. 7, 1903",,partial,Monday,False
+artist-painter,per,August Jacacci,,,,False
+artist-painter,per,Mr. Jacacci,,,,False
+artist-painter,per,Mr. Kenyon Dox,,,,False
+artist-painter,per,Mr. Jacacci,,,,False
+art described by region,misc,Italian pictures,,partial,Italian,True
+accomodation,loc,Hotel Plaza,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Tuesday, Dec. 8, 1903",,partial,Tuesday,False
+business,loc,the Bank,,,,False
+public figure,per,Mr. Garrison,,,,False
+newspaper,misc,The Nation,,,,False
+journalist,per,Mr. Mather,,,,False
+artist-writer,per,Hutchins,,,,False
+artist-writer,per,Neith,,,,False
+,per,her father,,,,False
+,per,her mother,,,,False
+artist-writer,per,Norman,,,,False
+social reformer,per,Wife,,,,False
+,per,Florence Dike (Reynolds),,,,False
+,per,Bernhard,exact,,Bernhard,False
+art collector,per,Mr. Winthrop,,,,False
+artist-writer,per,Norman,,,,False
+artist-illustrator,per,Charles Dana Gibson,,partial,Gibson,True
+scholar,per,George Carpenter,,,,False
+state,loc,California,,,,False
+country,loc,New Zealand,,,,False
+continent,loc,Europe,exact,,Europe,True
+banker,per,Tucker Burr,,,,False
+accomodation,loc,the Somerset,,,,False
+,per,Mr. Berenson,,,,False
+,per,Burrnarrd,,,,False
+accomodation,loc,Hotel Plaza,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Wednesday, Dec. 9, 1903",,partial,Wednesday,False
+art collector,per,Mr. Bullard,,,,False
+article,misc,[article by Bernard Berenson],,,,False
+article,misc,[article by Bernard Berenson],,,,False
+magazine,misc,Burlington Magazine,,,,False
+art collector,per,Francis Bullard,,,,False
+accomodation,loc,a strange Settlement,,,,False
+region,loc,Catskill Mountains,,,,False
+public figure,per,the founder,,,,False
+public figure,per,Mr. W. D. Murphy,,,,False
+artist-painter,per,Mr. Kenyon Cox,,,,False
+cultural,misc,portrait exhibition,,,,False
+artist-writer,per,Norman,,,,False
+painting,misc,the Sargents,,,,False
+artist-painter,per,Sargeant,exact,,Sargeant,False
+public figure / artist-painter,per,Denman Ross,,partial,Denman,False
+artist-poet,per,Wordsworth,,,,False
+,misc,Intimations of Immorality,,,,False
+painting,misc,the Whistler,,,,False
+artist-painter,per,Whistler,,partial,Turner - Whistler-esque,False
+city,loc,Santa Barbara,,,,False
+banker,per,Mr. Ilsley,,,,False
+city,loc,Milwaukee,,,,False
+,per,Mrs. Hooker,,partial,Mrs.,True
+city,loc,Santa Barbara,,,,False
+continent,loc,Europe,exact,,Europe,True
+country,loc,Italy,,,,False
+city,loc,[Florence],,,,False
+region,loc,the Riviera,,,,False
+city,loc,Venice,,,,False
+city,loc,Munich,,,,False
+city,loc,Dresden,,,,False
+city,loc,Paris,,,,False
+cultural,misc,Portrait Exhibition,,,,False
+artist-writer,per,Norman,,,,False
+artist-painter,per,Sargeant,exact,,Sargeant,False
+artist-painter,per,Mr. Kenyon Cox,,,,False
+painting,misc,[painting by Kenyon Cox],,,,False
+artist-sculptor,per,St. Gaudens,,,,False
+sculpture,misc,[medal by Augustus St. Gaudens],,,,False
+sculpture,misc,[relief by Augustus St. Gaudens],,,,False
+,per,Bernhard,exact,,Bernhard,False
+cultural heritage institution,loc,Metropolitan Museum,,partial,Museum,True
+artist-sculptor,per,Mr. Story,,,,False
+public figure,per,Cottenet,,,,False
+,per,Miss Satey Fairchild,,,,False
+cultural,misc,the Exhibition,,,,False
+artist-composer,per,Blair,,,,False
+public figure,per,Cottenet,,,,False
+,per,Bernhard,exact,,Bernhard,False
+club,loc,Century Association,,,,False
+businessperson,per,Sir William Van Horn,,,,False
+artist-painter,per,La Farge,,,,False
+,per,Mr. Carey,,,,False
+artist-painter,per,Jacacci,,,,False
+businessperson,per,Van Horn,,,,False
+business,org,Canadian Pacific,,,,False
+country,loc,Cuba,,,,False
+accomodation,loc,Hotel Plaza,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Thursday, Dec. 10, 1903",,partial,Thursday,False
+,per,Bernhard,exact,,Bernhard,False
+public figure,per,Cesnola,,,,False
+cultural heritage institution,loc,the Museum,,partial,Museum,True
+neighborhood,loc,Brooklyn,,,,False
+artist-painter,per,Hamilton Field,,,,False
+artist-painter,per,Roger,,,,False
+artist-poet,per,Trevy,,,,False
+city,loc,New York,exact,,New York,True
+,per,Florence Mosher,,,,False
+art collector,per,Ned Warren,,,,False
+city,loc,Boston,exact,,Boston,True
+,per,Bernhard,exact,,Bernhard,False
+businessperson,per,[William Cornelius Van Horne],,,,False
+artist-sculptor,per,[John La Farge],,,,False
+,per,[Mr.  Carey],,,,False
+artist-painter,per,[Mr.  Jaccaci],,,,False
+accomodation,loc,Waldorf Astoria Hotel,,,,False
+accomodation,loc,Hotel Plaza,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Friday, Dec. 11, 1903",,partial,Friday,False
+street,loc,Fifth Avenue,,,,False
+art collector,per,Mr. Bullard,,,,False
+art collector,per,Mr. Grenville Winthrop,,,,False
+architect,per,Mr. Hastings,,,,False
+cultural heritage institution,loc,Library,exact,,Library,True
+"art style, period, or movement",misc,XVIII century art,,,,False
+"art style, period, or movement",misc,Beaux Arts,,,,False
+historic,misc,the revolution,,,,False
+artist-poet,per,Carman,,,,False
+athlete,per,the Dunnes [Mr. Dunne],,,,False
+,per,the Dunnes [Mrs. Dunne],,partial,Mrs.,True
+athlete,per,Mrs. Abbott,,partial,Mrs.,True
+,per,Mrs. Chapman,,partial,Mrs.,True
+art collector,per,Ned Warren,,,,False
+art collector,per,Mr. Marshall,,,,False
+street,loc,Irving Place,,,,False
+art collector,per,Ned,,,,False
+country,loc,America,exact,,America,False
+art collector,per,Ned,,,,False
+city,loc,Boston,exact,,Boston,True
+accomodation,loc,Hotel Plaza,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Saturday, Dec. 12, 1903",,partial,Saturday,False
+business,loc,Tiffany glass works,,,,False
+,per,Bond,,partial,Grace and Bond,False
+,per,Bond,,partial,Grace and Bond,False
+cultural,misc,Christmas,,,,False
+cultural,misc,Christmas,,,,False
+business,org,Tiffany's,,,,False
+,per,Bond,,partial,Grace and Bond,False
+governmental,loc,Court of Appeal,,,,False
+artist-painter,per,Kenyon Cox,,,,False
+mural,misc,[decorations by Kenyon Cox],,,,False
+,per,Bernhard,exact,,Bernhard,False
+art historian,per,Mr. Van Dyke,,,,False
+club,loc,the Century,,,,False
+,per,Florence,,partial,Florence Trip,False
+,loc,the Arts,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,B.B.,,,,False
+country,loc,America,exact,,America,False
+,per,Mrs. George Carpenter,,partial,Mrs.,True
+,per,Mrs. Manson,,partial,Mrs.,True
+,per,Cora Burr Harden,,,,False
+,per,Bernhard,exact,,Bernhard,False
+public figure / businessman,per,Mr. Laffan,,,,False
+newspaper,misc,the Sun,,,,False
+artist-writer,per,Norman,,,,False
+philosopher / public figure,per,the Crolys [Mr. Crolys],,,,False
+,per,the Crolys [Mrs. Crolys],,partial,Mrs.,True
+artist-painter,per,Kenyon Cox,,,,False
+,per,Miss Eisham,,,,False
+artist-painter,per,Bernhard,exact,,Bernhard,False
+artist-painter,per,Kenyon Cox,,,,False
+businessperson,per,Van Horne,,,,False
+accomodation,loc,Hotel Plaza,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Sunday, Dec. 13, 1903",,partial,Sunday,False
+art collector / art dealer,per,Mr. Eugene Glaenzer,,,,False
+public figure / businessman,per,Laffone,,,,False
+artist-musician,per,Fuchs,,,,False
+print,misc,a so-called Correggio,,,,False
+artist-painter,per,Correggio,,,,False
+art collector,per,Mr. Richardson,,,,False
+neighborhood,loc,Flushing,,,,False
+region,loc,Long Island,,,,False
+artist-sculptor,per,Edith,exact,,Edith,False
+artist-painter / curator,per,Bryson Burroughs,,,,False
+artist-writer,per,Norman,,,,False
+philosopher / public figure,per,the Crolys [Mr. Crolys],,,,False
+,per,the Crolys [Mrs. Crolys],,partial,Mrs.,True
+artist-painter,per,the Alexanders [Mr. Alexander],,,,False
+,per,the Alexanders [Mrs. Alexander],,partial,Mrs.,True
+,per,Mr. Van Dyke,,,,False
+artist-writer,per,Mr. Steffens,,,,False
+,per,Mrs. Cadwallader Jones,,partial,Mrs.,True
+,per,Mrs. Sorchon,,partial,Mrs.,True
+artist-actor,per,Goellet the actor,,,,False
+artist-writer,per,R.L. Stevenson,,,,False
+,per,[R.L. Stevenson's widow],,,,False
+artist-writer,per,her son,,,,False
+social reformer ,per,Emilie,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,date,"Monday, Dec. 14, 1903",,partial,Monday,False
+city,loc,Albany,,,,False
+landmark,loc,the Hudson,,,,False
+,per,Mrs. Richmond,,partial,Mrs.,True
+,per,Mr. Fenimore Cooper,,,,False
+artist-writer,per,the novelist,,,,False
+,per,Mr. Cooper,,,,False
+painting,misc,a Holbein,,,,False
+artist-painter,per,Holbein,,,,False
+,per,Mr. Thacker,,,,False
+lecture,misc,my lecture,,,,False
+,per,the Richmonds,,,,False
+,per,the Richmonds [Mr. Richmond],,,,False
+public figure / politial figure,per,[Mr. Parsons],,,,False
+public figure / scholar,per,Mrs. Parsons,,partial,Mrs.,True
+public figure,per,the President,,,,False
+governmental,loc,State Education Bureau,,,,False
+city,loc,Albany,,,,False
+country,loc,America,exact,,America,False
+,per,Bernhard,exact,,Bernhard,False
+art collector / art dealer,per,Glaenzer,,,,False
+artist-sculptor,per,La Farge,,,,False
+,per,the Chapmans [Mr.],,,,False
+,per,the Chapmans [Mrs. Chapman],,partial,Mrs.,True
+artist-painter,per,Sargeant,exact,,Sargeant,False
+artist-painter,per,he,,partial,Mr. Theodore Dwight,True
+scholar,per,George Carpenter,,,,False
+club,loc,the Club,,,,False
+artist-sculptor,per,La Farge,,,,False
+accomodation,loc,Hotel Plaza,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Tuesday, Dec. 15, 1903",,partial,Tuesday,False
+artist-painter,per,Mr. Palmer,,,,False
+city,loc,Albany,,,,False
+,per,Miss Davidge,,,,False
+,per,Bernhard,exact,,Bernhard,False
+artist-writer,per,Norman Hapgood,,,,False
+,per,Jerome,,,,False
+artist-writer,per,Hodder,,,,False
+,per,Goelet,,,,False
+businessman / public figure,per,Collier,,,,False
+artist-painter,per,Alexander,,,,False
+artist-writer,per,Dunne,,,,False
+artist-writer / artist-illustrator,per,Herford,,,,False
+artist-playwright,per,Clyde Fitch,,,,False
+artist-actor,per,Miss Elsie de Wolfe,,,,False
+producer,per,Miss Marbury,,,,False
+artist-actor,per,Miss de Wolfe,,,,False
+public figure,per,Gladys,,,,False
+landmark,loc,Versailles,,,,False
+,per,Bernhard,exact,,Bernhard,False
+artist-writer / artist-illustrator,per,Herford,,,,False
+accomodation,loc,Hotel Plaza,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Wednesday, Dec. 16, 1903",,partial,Wednesday,False
+,per,Mrs. Bullard,,partial,Mrs.,True
+,per,Mrs. Davis,exact,,Mrs. Davis,False
+country,loc,Italy,,,,False
+,per,the Young Lady,,,,False
+,per,Rawlins Cottenett,,,,False
+,per,Mrs. Sorchau,,partial,Mrs.,True
+bookseller,per,Mr. Robin Grey,,,,False
+restaurant,loc,Sherry’s,,,,False
+artist-writer,per,Neith,,,,False
+art historian,per,Fenellosas [Mr. Fenellosa],,,,False
+artist-writer,per,Fenellosas [Mrs. Fenellosa],,partial,Mrs.,True
+journalist,per,Steffens [Mr. Steffens],,,,False
+artist-writer,per,Hodder,,,,False
+artist-writer,per,Norman Hapgood,,,,False
+artist-painter,per,Alexanders [Mr. Alexander],,,,False
+,per,Alexanders [Mrs. Alexander],,partial,Mrs.,True
+accomodation,loc,Hotel Plaza,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Thursday, Dec. 17, 1903",,partial,Thursday,False
+,per,Bernhard,exact,,Bernhard,False
+artist-sculptor,per,Mr. Lathrop,,,,False
+businessperson,per,Mr. Hyde,,,,False
+athlete,per,Miss Platt,,,,False
+,per,Mr. Gregory,,,,False
+,per,Cottenett,,,,False
+architect,per,Chapmans [Mr. Chapman],,,,False
+,per,Chapmans [Mrs. Chapman],,partial,Mrs.,True
+,per,[Mr. Lawrence],,,,False
+,per,Mrs. Lawrence,,partial,Mrs.,True
+cultural,misc,Concert of Old Music,,,,False
+,per,Bernhard,exact,,Bernhard,False
+accomodation,loc,Hotel Plaza,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Friday, Dec. 18, 1903",,partial,Friday,False
+,per,Cora Hardon,,,,False
+,per,Bernhard,exact,,Bernhard,False
+public figure,per,Mr. Rhinelander,,,,False
+,per,President of the Board of Trustees,,,,False
+cultural heritage institution,loc,Metropolitan Meseum,,,,False
+curator / public figure,per,the Curator,,partial,Curator,False
+curator / public figure,per,Cesnola,,,,False
+proper noun adjective,misc,Italian ,,partial,Italian,True
+art collector,per,Ned Warren,,,,False
+sculpture,misc,David “Leonardo”,,,,False
+art historian,per,Mr. Richard Norton,,,,False
+art collector,per,Davis,exact,,Davis,False
+newspaper,misc,the Nation,,,,False
+,per,B. B.,,,,False
+,per,Mansons [Mr. Manson],,,,False
+,per,Mansons [Mrs. Manson],,partial,Mrs.,True
+,per,Mansons [Mr. Manson],,,,False
+public figure / businessman,per,Mr. Laffan,,,,False
+businessperson,per,[Mr. Gayley],,,,False
+,per,Mrs. Gayley,,partial,Mrs.,True
+estate,loc,Tranquillity Farm,,,,False
+governmental,loc,Allamuchy Post Office,,,,False
+region,loc,Warren County,,,,False
+state,loc,New Jersey,,,,False
+,date,"Saturday, Dec. 19, 1903",,partial,Saturday,False
+city,loc,Hackettstown,,,,False
+public figure,per,[Mr. Rutherford Stuyvesant],,,,False
+,per,Mrs. Rutherford Stuyvesant,,partial,Mrs.,True
+,per,Mrs. Chapman,,partial,Mrs.,True
+estate,loc,“Tranquillity Farm”,,,,False
+city,loc,Allamuchy,,,,False
+,per,Mrs. Rutherford Stuyvesant,,partial,Mrs.,True
+proper noun adjective,misc,French,exact,,French,True
+proper noun adjective,misc,French,exact,,French,True
+public figure,per,Mr. Stuyvesant,,,,False
+public figure,per,Mr. Rutherford,,,,False
+proper noun adjective,misc,English,,,,False
+landmark,loc,a house near by,,,,False
+estate,loc,Tranquillity Farm,,,,False
+,date,"Saturday, Dec. 20, 1903",,partial,Saturday,False
+,per,Bernhard,exact,,Bernhard,False
+public figure,per,Stuyvesants [Mr. Stuyvesant],,,,False
+,per,Stuyvesants [Mrs. Stuyvesant],,partial,Mrs.,True
+historic,per,Soloman,,,,False
+cultural heritage institution,loc,Museum,exact,,Museum,True
+,per,Mrs. Stuyvesant,,partial,Mrs.,True
+,per,Bernhard,exact,,Bernhard,False
+architect,per,Mr. Chapman,,,,False
+accommodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Monday, Dec. 21, 1903",,partial,Monday,False
+,per,Miss Chanler,,,,False
+,per,Cora Harden,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Fafner,,,,False
+,per,Bond,,partial,Grace and Bond,False
+,per,Josephine,,,,False
+,per,Bond,,partial,Grace and Bond,False
+,per,Josephine,,,,False
+accommodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Tuesday, Dec. 22, 1903",,partial,Tuesday,False
+businessperson,per,Mr. Yerkes,,,,False
+textiles,misc,Persian rugs,,,,False
+painting,misc,one or two forgeries by Costantini,,,,False
+artist-painter,per,Constantini,,,,False
+,per,Florence,,partial,Florence Trip,False
+,per,Mrs. Hewett,,partial,Mrs.,True
+,per,Mrs. Russell,,partial,Mrs.,True
+public figure / scholar,per,Mrs. Parsons,,partial,Mrs.,True
+,per,Mrs. (Florence Lockwood) Grant Lafarge,,partial,Mrs.,True
+,per,Mrs. Harry Wharton,,partial,Mrs.,True
+,per,Florence Mosher,,,,False
+artist-actor,per,Miss Carlyle,,,,False
+artist-poet,per,Bliss Carman,,,,False
+,per,Mancuse Conway,,,,False
+artist-painter,per,Alexanders [Mr. Alexander],,,,False
+,per,Alexanders [Mrs. Alexander],,partial,Mrs.,True
+,per,Truches [Mr. Truche],,,,False
+,per,Truches [Mrs. Truche],,partial,Mrs.,True
+,per,Mrs. Jacacci,,partial,Mrs.,True
+artist-writer,per,Norman,,,,False
+artist-painter,per,Kenyon Coxes [Mr. Cox],,,,False
+artist-painter,per,Kenyon Coxes [Mrs. Cox],,partial,Mrs.,True
+artist-painter,per,[Mr. Isham],,,,False
+,per,Miss Isham,,,,False
+public figure,per,Mr. Garrison,,,,False
+,per,Mrs. Kenyon Cox,,partial,Mrs.,True
+,per,Kenyon,,,,False
+accommodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Wednesday, Dec. 23, 1903",,partial,Wednesday,False
+artist-actor,per,Miss de Wolfe ,,,,False
+,per,Gladys,,,,False
+producer,per,Miss Marbury,,,,False
+,per,Mr. Gregory,,,,False
+public figure,per,Marchese di San Vito,,,,False
+,per,Gayleys [Mr. Gayley],,,,False
+,per,Gayleys [Mrs. Gayley],,partial,Mrs.,True
+,per,B. B.,,,,False
+proper noun adjective,misc,American,,partial,Americans,True
+,per,Mrs. Gayley,,partial,Mrs.,True
+,per,Mr. Gayley,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Miss Bustan,,,,False
+businessman / public figure,per,Carnegie,,,,False
+businessman / public figure,per,Schwab,,,,False
+businessman / public figure,per,Carnegie,,,,False
+businessman / public figure,per,Schwab,,,,False
+,per,Mrs. Gayley,,partial,Mrs.,True
+proper noun adjective,misc,American ,,partial,America,False
+accommodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Thursday, Dec. 24, 1903",,partial,Thursday,False
+artist-writer,per,Hutchins,,,,False
+artist-writer / public figure,per,Mr. Cahan,,,,False
+proper noun adjective,misc,Russian,,,,False
+artist-writer,per,Zangwill,,,,False
+,per,Fleischer,,partial,Rabbi Fleischer,True
+,per,Senda,,,,False
+,per,Bessie,,,,False
+,per,Bernhard,exact,,Bernhard,False
+artist-actor,per,Elsie de Wolfe,,,,False
+politial figure,per,Mr. Bourke Cochran,,,,False
+artist-painter,per,Prince Trowbetskoi,,,,False
+,per,Amélie Rives,,,,False
+accommodation,loc,Ivy Cottage,,,,False
+city,loc,Germantown,,,,False
+,date,"Friday, Christmas Day",,partial,Friday,False
+,date,"[Dec. 25, 1904]",,,,False
+,per,Wilson,,,,False
+,per,Aunty Lill,,,,False
+city,loc,Germantown,,,,False
+,per,Alban,,,,False
+,per,Emma,,,,False
+,per,Aunty Lill,,,,False
+,per,Alban,,,,False
+,per,Aunty   ,,,,False
+accommodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Saturday, Dec. 26, 1903",,partial,Saturday,False
+artist-musician,per,David Bispham,,,,False
+club,loc,Arts Club,,,,False
+journalist,per,[Mr. Mather],,,,False
+,per,Miss Mather,,,,False
+,per,[Mr. Corbyn],,,,False
+,per,Mrs. Corbyn,,partial,Mrs.,True
+artist-painter,per,Bryson Burroughs,,,,False
+,per,Senda,,,,False
+,per,Bessie,,,,False
+neighborhood,loc,Flushing,,,,False
+artist-painter,per,Bryson,,,,False
+stained glass,misc,stained glass,,,,False
+,per,Edith,exact,,Edith,False
+accommodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Sunday, Dec. 27, 1903",,partial,Sunday,False
+public figure / businessman,per,[Mr. Laffan],,,,False
+,per,Mrs. Laffan,,partial,Mrs.,True
+art collection,misc,[Laffan's collection of Asian art],,,,False
+art described by region,misc,[Chinese things],,partial,Chinese,True
+art described by region,misc,Japanese things,,partial,Japanese,True
+,per,Johnsons [Mr. Johnson],,,,False
+,per,Johnsons [Mrs. Johnson],,partial,Mrs.,True
+club,loc,Century,,,,False
+,per,B. B.,,,,False
+cultural heritage institutions,loc,Museum,exact,,Museum,True
+artist-writer,per,Norman,,,,False
+,per,Mrs. Lee,,partial,Mrs.,True
+,per,Putnams [Mr. Putnam],,,,False
+,per,Putnams [Mrs. Putnam],,partial,Mrs.,True
+,per,Bernhard,exact,,Bernhard,False
+accommodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Monday, Dec. 28, 1903",,partial,Monday,False
+,per,Miss Isham,,,,False
+,per,Mrs. Hewett,,partial,Mrs.,True
+artist-singer,per,Mrs. Blashfield,,partial,Mrs.,True
+artist-playwright,per,Bernard Shaw,,,,False
+,per,Bernhard,exact,,Bernhard,False
+artist-writer,per,Norman Hapgood,,,,False
+neighborhood,loc,Brooklyn,,,,False
+,per,Mrs. Field,,partial,Mrs.,True
+accommodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Tuesday, Dec. 29, 1903",,partial,Tuesday,False
+politial figure,per,Ray,,,,False
+,misc,Mill’s Autobiography,,,,False
+scholar / public figure,per,Mill,,,,False
+artist-painter,per,Mr. Jacacci,,,,False
+,per,Florence <Dike> Reynolds,,,,False
+,per,Miss George B. Gibbs,,,,False
+,per,Mr. Kent,,,,False
+scholar,per,[Mr. Perry],,,,False
+,per,Mrs. Perry,,partial,Mrs.,True
+cultural heritage institution,loc,the Metropolitan,,,,False
+artist-sculptor,per,Mr. Story,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Senda,,,,False
+,per,Bessie,,,,False
+,per,Halls [Mr. Hall],,,,False
+,per,Halls [Mrs. Hall],,partial,Mrs.,True
+lawyer,per,Gans,,,,False
+,per,Mr. Reynolds,,,,False
+,per,Percy Griffin,,,,False
+art critic,per,Steins [Mr. Stein],,,,False
+,per,Steins [Mrs. Stein],,partial,Mrs.,True
+lawyer,per,Gans,,,,False
+,per,Mr. Sternberger,,,,False
+artist-writer,per,Zangwill,,,,False
+lawyer,per,Mr. Gans,,,,False
+restaurant,loc,Delmonico's,,,,False
+accommodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Wednesday, Dec. 30, 1903",,partial,Wednesday,False
+,per,Bond,,partial,Grace and Bond,False
+business,loc,the Studios,,,,False
+artist-sculptor,per,Edith Burroughs,,partial,Edith,False
+business,org,Tifgfany’s,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Mr. Britten,,,,False
+,per,Mrs. Young,,partial,Mrs.,True
+artist-writer,per,Claude Phillips,,,,False
+literary,per,Circe,,,,False
+artist-actor,per,Duse,,,,False
+country,loc,Samoa,,,,False
+artist-writer,per,Stevenson,,,,False
+artist-playwright,per,Bernard Shaw,,,,False
+school,loc,Bryn Mawr,,,,False
+artist-playwright,per,Bernard Shaw,,,,False
+architect,per,[Mr. Percy Griffin],,,,False
+,per,Mrs. Percy Griffin,,partial,Mrs.,True
+,per,his brother,,,,False
+,per,Mr. Stevenson,,,,False
+accomodation,loc,Waldorf Astoria,,,,False
+artist-poet,per,William Yeats,,,,False
+lecture,misc,"""Poetry in the Old Time and New""""",,,,False
+,per,Trevy,,,,False
+,per,Roger,,,,False
+artist-poet,per,Horne,,,,False
+artist-poet,per,Stenbock,,,,False
+accommodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Thursday, Dec. 31, 1903",,partial,Thursday,False
+artist-painter,per,Mr. Jacacci,,,,False
+art collector,per,Mr. Lathrop,,,,False
+,per,Fafner,,,,False
+,per,Florence Mosher,,,,False
+,per,Mrs. Manson,,partial,Mrs.,True
+,per,Mrs. Gayley,,partial,Mrs.,True
+,per,Mrs. Ali Ben Haggin,,partial,Mrs.,True
+,per,Emilie Hapgood,,,,False
+transportation vessel,misc,Twentieth Century Express,,,,False
+city,loc,Chicago,,,,False
+,date,"Friday, January 1, 1904",,partial,Friday,False
+,per,Fafner,,,,False
+,per,Senda ,,,,False
+,per,Bessie,,,,False
+proper noun adjective,misc,European,,partial,Europe,False
+lecture,misc,“The Art of Portrait Painting”,,,,False
+artist-writer,per,Anatole France,,,,False
+book,misc,Histoire comique,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,misc,Old Time Folks,,,,False
+artist-writer,per,H.H. Stowe,,,,False
+accomodation,loc,Auditorium Annex,,,,False
+city,loc,Chicago,,,,False
+,date,"Saturday, January 2, 1904",,partial,Saturday,False
+city,loc,Chicago,,,,False
+city,loc,Chicago,,,,False
+historic,misc,the terrible theatre fire,,,,False
+cultural,org,theatre,,partial,New York Theatre,True
+landmark,loc,the Lake,,,,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+artist-musician,per,Proctor,exact,,Proctor,False
+cultural heritage institution,loc,the Symphony,,,,False
+,misc,Concerto by Liszt,,,,False
+artist-composer,per,Liszt,,,,False
+public figure,per,the Mayor,,,,False
+historic,misc,the accident,,,,False
+,per,them,,,,False
+artist-musician,per,them,,,,False
+,per,Jack Gardner,exact,,Jack Gardner,True
+,per,Mrs. Jack Gardner,,partial,Mrs.,True
+artist-musician,per,Proctor,exact,,Proctor,False
+artist-musician,per,he,,partial,Mr. Theodore Dwight,True
+artist-composer,per,Beethoven,,,,False
+,misc,[music by Beethoven],,,,False
+artist-composer,per,Scarlatti,,,,False
+,misc,[music by Scarlatti],,,,False
+,misc,A minor Toccata and Fugue,,,,False
+artist-composer,per,Bach,exact,,Bach,False
+artist-composer,per,Liszt,,,,False
+,misc,[music by liszt],,,,False
+accomodation,loc,Auditorium Annex,,,,False
+city,loc,Chicago,,,,False
+,date,"Sunday, January 3, 1904",,partial,Sunday,False
+artist-painter,per,Mr. Tarbell,,,,False
+artist-writer,per,Mr. Herrick,,,,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+artist-musician,per,Mr. Proctor,,partial,Proctor,False
+art collector,per,Mr. Ryerson,,,,False
+painting,misc,4 Perugino predelle,,,,False
+artist-painter,per,Perugino,,,,False
+painting,misc,[painting by Botticini],,,,False
+artist-painter,per,Botticini,,,,False
+,per,Lillian Prussing,,,,False
+lawyer / philanthropist,per,her husband,,,,False
+,per,Bond Thomas,,,,False
+,per,[Mr. Hercroten],,,,False
+,per,Mrs. Hercroten,,partial,Mrs.,True
+,per,Mrs. Healey,,partial,Mrs.,True
+public figure,per,the editor of the Tribune,,,,False
+newspaper,misc,the Tribune,,,,False
+artist-writer,per,the Herricks [Mr. Herrick],,,,False
+,per,the Herricks [Mrs. Herrick],,partial,Mrs.,True
+city,loc,Chicago,,,,False
+accomodation,loc,Auditorium Annex,,,,False
+city,loc,Chicago,,,,False
+,date,"Monday, January 4, 1904",,partial,Monday,False
+street,loc,Lake Shore,,,,False
+art dealer,per,Mr. Gunsaulus,,,,False
+art collector,per,Mr. Logan,,,,False
+"art style, period, or movement",org,Barbizon school,,,,False
+painting,misc,a fake Holbima,,,,False
+artist-painter,per,Holbima,,,,False
+?,misc,modern stuff by Israels,,,,False
+artist-painter,per,Israels,,,,False
+painting,misc,a false Millet,,,,False
+artist-painter,per,Millet,,,,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+businessman,per,Mr. Gates,,,,False
+businessman,per,Plunger Gates,,,,False
+street,loc,Via dei Fossi,,,,False
+business,org,Tiffany,,,,False
+painting,misc,[paintings by Hoppner],,,,False
+artist-painter,per,Hoppner,,,,False
+painting,misc,[paintings by Romney],,,,False
+artist-painter,per,Romney,,,,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+artist-painter,per,Mr. Bartlett,,,,False
+city,loc,Chicago,,,,False
+,per,Bernhard,exact,,Bernhard,False
+businessman / art collector,per,Mr. Deering,,,,False
+club,org,the Club,,,,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+artist-musician,per,Mr. Proctor,,partial,Proctor,False
+public figure,per,Mrs. Potter Palmer,,partial,Mrs.,True
+public figure,per,Mrs. MacVeagh,,partial,Mrs.,True
+city,loc,Chicago,,,,False
+public figure,per,Mrs. McCormick,,partial,Mrs.,True
+public figure,per,Mrs. Potter Palmer,,partial,Mrs.,True
+,per,Bernhard,exact,,Bernhard,False
+literary,loc,New Jerusalem,,,,False
+painting,misc,Monets by the yard,,,,False
+artist-painter,per,Monet,,,,False
+,per,B.B.,,,,False
+lecture,misc,my lecture,,,,False
+,per,Mrs. Martin,,partial,Mrs.,True
+,per,Miss Jones,,,,False
+,per,a newspaper interviewer,,,,False
+curator,per,Mr. French,,partial,French,False
+art dealer,per,Borel,,partial,Bore,False
+art dealer,per,Bosdari,,,,False
+banker,per,Pierpont Morgan,,,,False
+scholar,per,Lovett [Mr. Lovett],,,,False
+,per,Lovett [Mrs. Lovett],,partial,Mrs.,True
+club,loc,Quadrangle Club,,,,False
+,per,Mr. Tarbell,,,,False
+artist-painter,per,Mr. Schwill,,,,False
+public figure,per,Mr. Salisbury,,,,False
+,per,Mr. Bruer,,,,False
+lecture,misc,"my lecture ""How to Enjoy the Old Masters""",,,,False
+,per,B.B.,,,,False
+,per,Lovett [Mr. Lovett],,,,False
+ misc,org,Undergraduates,,,,False
+ misc,org,Faculty,,,,False
+accomodation,loc,Auditorium Annex,,,,False
+city,loc,Chicago,,,,False
+,date,"Tuesday, January 5, 1904",,partial,Tuesday,False
+,per,Bernhard,exact,,Bernhard,False
+cultural heritage institution,loc,the Gallery,,,,False
+art dealer,per,Mr. French,,partial,French,False
+,per,Lillian,,,,False
+lawyer / philanthropist,per,her husband,,,,False
+,loc,Union League Club,,,,False
+,per,Lillian,,,,False
+,per,Mrs. Hamil,,partial,Mrs.,True
+artist-writer,per,the Herricks [Mr. Herrick],,,,False
+,per,the Herricks [Mrs. Herrick],,partial,Mrs.,True
+,per,[Mr. Bartlett],,,,False
+,per,Mrs. Bartlett,,partial,Mrs.,True
+,per,Miss Day,,,,False
+businessman / scholar,per,Mr. Rhodes,,,,False
+,per,the Lovetts [Mr. Lovett],,,,False
+,per,the Lovetts [Mrs. Lovett],,partial,Mrs.,True
+,per,Mr. Bartlett,,,,False
+accomodation,loc,Auditorium Annex,,,,False
+city,loc,Chicago,,,,False
+,date,"Wednesday, January 6, 1904",,partial,Wednesday,False
+art collection,misc,the collection of Cyrus H. McCormick,,,,False
+businessperson,per,Cyrus H. McCormick,,,,False
+painting,misc,[painting by Constable],,,,False
+artist-painter,per,Constable,,,,False
+art collector,per,Mr. Deering,,,,False
+school,loc,Art Institute,,,,False
+lecture,misc,"""the New Art Criticism""",,,,False
+,per,Bernhard,exact,,Bernhard,False
+public figure,per,Mrs. MacVeagh,,partial,Mrs.,True
+cultural,misc,Mrs. MacVeagh's enormous musicale,,partial,Mrs.,False
+artist-musician,per,Mr. Proctor,,partial,Proctor,False
+public figure,per,Mrs. MacVeagh,,partial,Mrs.,True
+businessperson,per,[Mr. Arthur Meeker],,,,False
+,per,Mrs. Arthur Meeker,,partial,Mrs.,True
+country,loc,Japan,,partial,Japanese,False
+country,loc,Russia,,,,False
+school,loc,the University,,,,False
+accomodation,loc,Auditorium Annex,,,,False
+city,loc,Chicago,,,,False
+,date,"Thursday, January 7, 1904",,partial,Thursday,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Mr. Blair,,,,False
+lecture,misc,"my lecture on ""The Art of Portrait Painting""",,,,False
+public figure,per,Mrs. Harold McCormick (née Rockefeller),,partial,Mrs.,True
+,per,B.B.,,,,False
+,per,Mr. Keering,,,,False
+architect,per,Mr. Burnham,,,,False
+cultural,misc,World's Fair,,,,False
+professor,per,Zug,,,,False
+lecture,misc,[gave his classes a talk],,,,False
+professor,per,Prof. Tarbell,,partial,Prof.,True
+public figure,per,Hutchinson's (C.L.),,,,False
+,per,[Mrs. Hutchinson],,partial,Mrs.,True
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+artist-musician,per,Proctor,exact,,Proctor,False
+city,loc,St. Petersburg,,,,False
+,per,[Mr. Blair],,,,False
+,per,Mrs. Blair,,partial,Mrs.,True
+,per,Mrs. Cyrus H. McCormick,,partial,Mrs.,True
+businessperson,per,Cyrus H. McCormick,,,,False
+accomodation,loc,Auditorium Annex,,,,False
+city,loc,Chicago,,,,False
+,date,"Friday, January 8, 1904",,partial,Friday,False
+,per,Mrs. Martin,,partial,Mrs.,True
+lecture,misc,The Art of Portraiture Old and New,,,,False
+club,loc,Friday Club,,partial,Friday,False
+public figure,per,Mrs. MacVeagh,,partial,Mrs.,True
+business man,per,Mr. Kohlsaat,,,,False
+businessperson,per,Mr. Lincoln,,,,False
+politial figure,per,Abraham Lincoln,,,,False
+business,org,Pullman Company,,,,False
+,per,B.B.,,,,False
+,per,Mrs. Caton,,partial,Mrs.,True
+literary,per,Circe,,,,False
+city,loc,Chicago,,,,False
+city,loc,Rome,,,,False
+,per,Bernhard,exact,,Bernhard,False
+accomodation,loc,Grand Hotel,,,,False
+public figure,per,Mrs. MacVeagh,,partial,Mrs.,True
+art historian,per,Bernard,,,,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+,per,B.B.,,,,False
+,per,Mrs. Caton,,partial,Mrs.,True
+,per,B.B.,,,,False
+region,loc,Sicilian,,,,False
+,misc,[poetry by Theocritus],,,,False
+artist-poet,per,Theocritus,,,,False
+,per,Mrs. Caton,,partial,Mrs.,True
+,per,her,,partial,Rabbi Fleischer,True
+,per,her hostess,,,,False
+,per,the Berensons,,,,False
+self,per,the Berensons [Mrs. Berenson],,partial,Mrs.,True
+,per,B.B.,,,,False
+,per,Mrs. Jack,,partial,Mrs.,True
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+accomodation,loc,Auditorium Annex,,,,False
+city,loc,Chicago,,,,False
+,date,"Saturday, January 9, 1904",,partial,Saturday,False
+,per,the Lovetts [Mr. Lovett],,,,False
+,per,the Lovetts,,,,False
+,per,Mr. Schwill,,,,False
+,per,Lillian,,,,False
+lecture,misc,How to tell a Forgery,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Mr. Jerome,,,,False
+accomodation,loc,Auditorium Annex,,,,False
+city,loc,Chicago,,,,False
+,date,"Sunday, January 10, 1904",,partial,Sunday,False
+city,loc,West Hinsdale,,,,False
+misc,loc,Prairie,,,,False
+,per,[Mr. Robert Hamill],,,,False
+,per,Mrs. Robert Hamill,,partial,Mrs.,True
+,per,Mr. Jones,,,,False
+businessperson,per,Harold McCormicks [Mr. McCormick,,,,False
+public figure,per,Harold McCormicks [Mrs. McCormick],,partial,Mrs.,True
+family unit,org,Rockefeller,exact,,Rockefeller,False
+accomodation,loc,Auditorium Annex,,,,False
+city,loc,Chicago,,,,False
+,date,"Monday, January 11, 1904",,partial,Monday,False
+,per,Miss Lunt,,,,False
+,per,Miss Bates,,,,False
+,per,The Prussings [Mrs. Prussing],,partial,Mrs.,True
+lawyer / philanthropist,per,The Prussings [Mr. Prussing],,,,False
+art collector,per,Mr. Deering,,,,False
+socialite,per,Mrs. Meeker,,partial,Mrs.,True
+,per,Caton,,,,False
+businessperson,per,Field,,,,False
+,per,Hutchinson,,,,False
+businessperson,per,Sprague,,,,False
+family unit,org,various McCormicks,,,,False
+,per,Martin,,,,False
+,per,MacVeagh,,,,False
+art collector,per,Mr. Bryan Lathrop,,,,False
+family unit,org,various McCormicks,,,,False
+businessman,per,Mr. Kohlsaat,,,,False
+art collector,per,Mr. Lathrop,,,,False
+print,misc,Whistler etchings,,,,False
+artist-painter,per,Whistler,,partial,Turner - Whistler-esque,False
+,per,Bernhard,exact,,Bernhard,False
+accomodation,loc,Cadillac,,,,False
+city,loc,Detroit,,,,False
+,date,"Tuesday, Jan. 12, 1904",,partial,Tuesday,False
+social reformer,per,Miss Adams,,,,False
+social institution,loc,Hull House,,,,False
+,per,Mr. Deering,,,,False
+,per,Lillian,,,,False
+,per,Deering,,,,False
+accomodation,loc,Cadillac,,,,False
+city,loc,Detroit,,,,False
+,date,"Wednesday, Jan. 13, 1904",,partial,Wednesday,False
+art collector,per,Mr. Freer,,,,False
+painting,misc,Chinese paintings,,partial,Chinese,True
+painting,misc,Japanese paintings,,partial,Japanese,True
+art collector,per,Fenollosa,,,,False
+art collector,per,Mr. Freer,,,,False
+accomodation,loc,Cadillac,,,,False
+city,loc,Detroit,,,,False
+,date,"Thursday, Jan. 14, 1904",,partial,Thursday,False
+city,loc,Buffalo,,,,False
+art collector,per,Mr. Freer,,,,False
+art collection,misc,his collection,,,,False
+painting,misc,Whistler paintings,,,,False
+artist-painter,per,Whistler,,partial,Turner - Whistler-esque,False
+art described by region,misc,Japanese things,,partial,Japanese,True
+accomodation,loc,Amherst House,,,,False
+city,loc,Buffalo,,,,False
+,date,"Friday, Jan. 15, 1904",,partial,Friday,False
+,per,Mrs. Glenny,,partial,Mrs.,True
+artist-poet,per,Aline,,,,False
+,per,Evelyn,exact,,Evelyn,True
+school,loc,Smith College,,,,False
+lecture,misc,lecture,,,,False
+school,loc,Art Institute,,,,False
+businessperson,per,[Mr. Carlton Sprague],,,,False
+,per,Mrs. Carlton Sprague,,partial,Mrs.,True
+family unit,org,The Glennys,,,,False
+accomodation,loc,Amherst House,,,,False
+city,loc,Buffalo,,,,False
+,date,"Saturday, Jan. 16, 1904",,partial,Saturday,False
+,per,Bernhard,exact,,Bernhard,False
+businessman,per,Mr. Sawyer,,,,False
+club,loc,Twentieth Century Club,,,,False
+,per,Mrs. Glenny,,partial,Mrs.,True
+mural,misc,mural paintings,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,she,,,,False
+artist-painter,per,Kenyon Cox,,,,False
+businessman,per,Mr. Sawyer,,,,False
+businessman,per,Mr. Sawyer,,,,False
+,per,Mrs. Glenny,,partial,Mrs.,True
+accomodation,loc,Amherst House,,,,False
+city,loc,Buffalo,,,,False
+,date,"Sunday, Jan. 17, 1904",,partial,Sunday,False
+landmark,loc,Niagara,,,,False
+,per,Mrs. Glenny,,partial,Mrs.,True
+businessman,per,Mr. Sawyer,,,,False
+,per,[Mr. Sprague],,,,False
+,per,Mrs. Sprague,,partial,Mrs.,True
+accomodation,loc,The Hollenden,,,,False
+city,loc,Cleveland,,,,False
+,date,"Monday, Jan. 18, 1904",,partial,Monday,False
+,per,Miss Jones,,,,False
+banker,per,Mr. Cannon,,,,False
+businessman / art collector,per,Mr. Pope,,,,False
+politician / social reformer,per,Mr. Howe,,,,False
+religious figure,per,his bride,,,,False
+religious denomonation,misc,Unitarian,,,,False
+accomodation,loc,The Hollenden,,,,False
+city,loc,Cleveland,,,,False
+,date,"Tuesday, Jan. 19, 1904",,partial,Tuesday,False
+,per,Miss Jones,,,,False
+art collector,per,Mr. L. E. Holden,,,,False
+art collection,misc,Jarves Collection,,,,False
+region,loc,New England,,partial,England,True
+region,loc,Middle West,,,,False
+,per,B.B.,,,,False
+accomodation,loc,The Hollenden,,,,False
+city,loc,Cleveland,,,,False
+,date,"Wednesday, Jan. 20, 1904",,partial,Wednesday,False
+socialite,per,Mrs. Squire,,partial,Mrs.,True
+art collector,per,Mr. Brush,,,,False
+art collection,misc,[art collection of Mr. Brush],,,,False
+art collector,per,Mr. Isades,,,,False
+art collection,misc,[art collection of Mr. Isades],,,,False
+artist-painter,per,Puvis,,,,False
+painting,misc,[painting by Puvis],,,,False
+art collector,per,Mr. Wade,,,,False
+art collection,misc,[art collection of Mr. Wade],,,,False
+financial,loc,the Trust Building,,,,False
+business,org,Tiffany,,,,False
+mural,misc,[painting by Cox],,,,False
+artist-painter,per,Cox,,,,False
+lawyer,per,the Squires [Mr. Squire],,,,False
+socialite,per,the Squires [Mrs. Squire],,partial,Mrs.,True
+club,loc,the Club,,,,False
+lecture,misc,lecture,,,,False
+art collector,per,old Holden,,,,False
+,per,Miss Jones,,,,False
+city,loc,Pittsburg,,,,False
+state,loc,Pa,,partial,Japanese,False
+,date,"Thursday, Jan. 21, 1904",,partial,Thursday,False
+,per,Bessie Taylor,,,,False
+club,loc,her Club,,,,False
+"businessperson, art patron",per,Mr. Frick,,,,False
+business,loc,Mr. Frick's building,,,,False
+,per,Bessie,,,,False
+address / accomodation,loc,7422 Penn Avenue,,,,False
+businessperson,per,Frank Taylor,,,,False
+city,loc,Pittsburg,,,,False
+business,org,Westinghouse Electric,,,,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+city,loc,London,,,,False
+,per,Bernhard,exact,,Bernhard,False
+painting,misc,[piece by Dürer],,,,False
+artist-painter / artist-printmaker,per,Dürer,,,,False
+address / accomodation,loc,7422 Penn Avenue,,,,False
+city,loc,Pittsburg,,,,False
+state,loc,Pa,,partial,Japanese,False
+,date,"Friday, Jan. 22, 1904",,partial,Friday,False
+business,loc,Westinghouse Works,,,,False
+artist-poet,per,Dante,,,,False
+,misc,Inferno,,,,False
+literary,per,Geryon,,,,False
+,per,Bernhard,exact,,Bernhard,False
+artist-poet,per,Homer,,,,False
+art collector / lawyer,per,Mr. Watson,,,,False
+art collection,misc,[art collection of Mr. Watson],,,,False
+art collector,per,Mrs. Byer,,partial,Mrs.,True
+art collection,misc,[art collection of Mrs. Byer],,partial,Mrs.,False
+curator,per,[Mr. Beatty],,,,False
+,per,Mrs. Beatty,,partial,Mrs.,True
+art collector,per,[Mr. Caldwell],,,,False
+,per,Mrs. Caldwell,,partial,Mrs.,True
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+,per,Bernhard,exact,,Bernhard,False
+scholar,per,the Strongs [Mr. Strong],,partial,Strong,False
+socialite,per,the Strongs [Mrs. Strong],,partial,Mrs.,True
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Saturday, Jan. 23, 1904",,partial,Saturday,False
+,per,Mr. Frick,,,,False
+art collection,misc,[art collection of Mr. Frick],,,,False
+artist-painter,per,Terburg,,,,False
+painting,misc,[painting by Terburg],,,,False
+artist-painter,per,Rembrandt,,,,False
+painting,misc,[paintings by Rembrandt],,,,False
+artist-painter,per,Watts,,,,False
+painting,misc,[painting by Watts],,,,False
+"art style, period, or movement",misc,Barbizon,,,,False
+painting,misc,[paintings by Barbizon school],,,,False
+public figure,per,Carey,,,,False
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Sunday, Jan. 24, 1904",,partial,Sunday,False
+lawyer,per,John,,partial,Clayton Johns,True
+professor,per,Mamie,,,,False
+architect,per,Walter Cope,,,,False
+school,loc,Walter Cope's fine architecture,,,,False
+architect,per,[Mr. Ely],,,,False
+socialite,per,Mrs. Ely,,partial,Mrs.,True
+business,org,Pennsylvania Railroad,,,,False
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Monday, Jan. 25, 1904",,partial,Monday,False
+street,loc,Broad Street,,,,False
+cultural heritage institution,loc,Fine Arts Museum,,partial,Museum,True
+cultural,misc,art exhibiton,,,,False
+artist-painter,per,a new Master,,,,False
+artist-painter,per,Whistler,,partial,Turner - Whistler-esque,False
+artist-writer,per,Fridenwald,,,,False
+arts administrator,per,Mr. Morris,,,,False
+arts administrator,per,Mr. Trasky,,,,False
+,per,Mr. Caseby,,,,False
+,per,Mr. Jones,,,,False
+,per,Mr. Caseby,,,,False
+historic,misc,Panama question,,,,False
+country,loc,Nicaragua,,,,False
+,per,Carey,,,,False
+,per,[wife of Mr. Caseby],,,,False
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Tuesday, Jan. 26, 1904",,partial,Tuesday,False
+,per,Frienderwalds [Mr. Frienderwald],,,,False
+,per,Frienderwalds [Mrs. Frienderwald],,partial,Mrs.,True
+,per,Miss Moss,,,,False
+arts administrator,per,Mr. Morris,,,,False
+cultural heritage institution,loc,Memorial Hall,,,,False
+art described by region,misc,[Italian art],,partial,Italian,True
+,per,Elys,,,,False
+,per,Elys,,,,False
+,per,Miss Helen Sawyer,,,,False
+artist-composer,per,Handel,,,,False
+artist-composer,per,Liszt,,,,False
+artist-musician,per,Rubenstein,,,,False
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Wednesday, Jan. 27, 1904",,partial,Wednesday,False
+,per,Carey,,,,False
+,per,Miss Gwinn,,,,False
+town,loc,Elkins Park,,,,False
+cultural heritage institution,loc,[Lynwood Hall],,,,False
+art collector,per,Mr. Widener,,,,False
+art collection,misc,[art collection of Mr. Widener],,,,False
+,per,Carey,,,,False
+professor,per,Miss G.,,,,False
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Thursday, Jan. 28 1904",,partial,Thursday,False
+,per,Aunty Lill,,,,False
+,per,Alban,,,,False
+,per,Emma,,,,False
+,per,Pearlie Whithall,,,,False
+,per,Madge Rhoads,,,,False
+,per,Bernhard,exact,,Bernhard,False
+student / psychologist [future],per,Mr. Leuba,,,,False
+professor,per,Mr. Whitney,,,,False
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Friday, Jan. 29, 1904",,partial,Friday,False
+art collector,per,Mr. Johnson,,,,False
+,per,Mamie Morton,,,,False
+instrument,misc,Pianola,,,,False
+cultural,loc,Philadelphia Symphony Orchestra,,,,False
+artist-composer,per,Mozart,,,,False
+,misc,[music by Mozart],,,,False
+art historian,per,Arthur Strong,,partial,Strong,False
+art historian,per,she,,,,False
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Saturday, Jan. 30 .1904",,partial,Saturday,False
+journalist,per,[Mr. Talcott Williams],,,,False
+artist-photographer,per,Mrs. Talcott Williams,,partial,Mrs.,True
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Sunday, Jan. 31 .1904",,partial,Sunday,False
+,per,Bernhard,exact,,Bernhard,False
+lawyer / art collector,per,Mr. Johnson,,,,False
+town,loc,Morristown,,,,False
+photographer,per,Will Nicholson,,,,False
+,per,Eliza,,,,False
+,per,Whitall,,partial,Mary Whitall Berenson,True
+family unit,org,their children,,,,False
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Monday, Feb. 1, 1904",,partial,Monday,False
+,misc,Awkward Age,,,,False
+artist-writer,per,Henry James,,,,False
+lawyer,per,Mr. Morgan,,,,False
+archaeologist,per,[Mr. Hoppin],,,,False
+,per,Mrs. Hoppin,,partial,Mrs.,True
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Tuesday, Feb. 2, 1904",,partial,Tuesday,False
+,per,Aunty LIll,,,,False
+businessman / philanthropist,per,Coates,exact,,Coates,False
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Wednesday, Feb. 3, 1904",,partial,Wednesday,False
+politician,per,Horace Eaton,,,,False
+,per,Carey,,,,False
+"school, part of",loc,Rockefeller,exact,,Rockefeller,True
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Thursday, Feb. 4, 1904",,partial,Thursday,False
+,per,Eaton,,,,False
+school,loc,college,,,,False
+,per,John Thomas,,,,False
+"school, part of",loc,Pembroke Hall,,,,False
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Friday, Feb. 5, 1904",,partial,Friday,False
+academic,misc,Alumnae lunch,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Johnson,,,,False
+professor,per,Barrett Wendell,,,,False
+lecture,misc,lecture,,,,False
+accomodation,loc,The Deanery,,,,False
+city,loc,Bryn Mawr,,,,False
+,date,"Saturday, Feb. 6, 1904",,partial,Saturday,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Mr. Caseby,,,,False
+city,loc,St. Louis,,,,False
+,per,Cousin Carrie Lawrence,,,,False
+family unit,org,her family,,,,False
+family unit,org,the Everetts,,,,False
+country,loc,United States,,,,False
+"school, part of",loc,Art and Science Building,,,,False
+school,loc,Pennsylvania University,,,,False
+"art style, period, or movement",misc,Romanesque,,,,False
+art described by region,misc,German,,,,False
+lecture,misc,lecture,,,,False
+,per,Miss Rapplier,,,,False
+socialite,per,Miss Harrison,,,,False
+academic administrator,per,the Provost,,,,False
+,per,Carey,,,,False
+school,loc,Bryn Mawr,,,,False
+,per,her fashionable mother,,,,False
+,per,B.B.,,,,False
+,per,Uncle Logan,,,,False
+,per,B.B.,,,,False
+,per,Hannah Whitall Smith,,,,False
+,per,Bernhard,exact,,Bernhard,False
+art collector / lawyer,per,Mr. John G. Johnson,,,,False
+,per,B.B.,,,,False
+,per,Carey,,,,False
+professor,per,Mamie Gwinn,,,,False
+professor,per,Miss Gwinn,,,,False
+,per,Carey,,,,False
+,per,Mr. Hodder,,,,False
+,per,Carey,,,,False
+,per,the Casebys [Mr. Caseby],,,,False
+,per,the Casebys [Mrs. Caseby],,partial,Mrs.,True
+,per,Hodder,,,,False
+professor,per,Miss Gwinn,,,,False
+,per,her mother,,,,False
+,per,Mr. Hodder,,,,False
+,per,the Mother,,,,False
+professor,per,Miss Gwinn,,,,False
+,per,the Mother,,,,False
+social reformer / [hilanthropist,per,Miss Garrett,,,,False
+city,loc,Baltimore,,,,False
+,date,"Sunday, Feb. 7, 1904",,partial,Sunday,False
+city,loc,Baltimore,,,,False
+historic,misc,[Balitmore in flames],,,,False
+social reformer / philanthropist,per,Miss Garrett,,,,False
+politial figure,per,the Mayor,,,,False
+,per,Zoe,,,,False
+,per,Harry,,,,False
+,per,Margaret,,,,False
+,per,Dr. Wright,,,,False
+,per,Miss Dawson,,,,False
+,per,Margaret,,,,False
+,per,her husband,,,,False
+city,loc,Baltimore,,,,False
+,date,"Monday, Feb. 8, 1904",,partial,Monday,False
+historic,misc,the fire,,,,False
+city,loc,Baltimore,,,,False
+art collector,per,Mr. Walter,,,,False
+art collection,misc,[art collection of Mr. Walter],,,,False
+art described by region,misc,Chinese ,,partial,Chinese,True
+art described by region,misc,Japanese ,,partial,Japanese,True
+,per,Zoe,,,,False
+politial figure,per,[Mr. Bonaparte],,,,False
+,per,Mrs. Bonaparte,,partial,Mrs.,True
+politial figure,per,Napoleon,,,,False
+politial figure,per,Napolean's brother Jerome,,,,False
+,per,Miss Patterson,,,,False
+,per,Princesse Mathilde,,,,False
+,per,[Mr. Brackett],,,,False
+,per,Mrs. Brackett,,partial,Mrs.,True
+social reformer / philanthropist,per,Miss Garrett,,,,False
+literary,per,Sardanapalus,,,,False
+proper noun adjective,misc,Indian,,,,False
+city,loc,Baltimore,,,,False
+,date,"Tuesday, Feb. 9, 1904",,partial,Tuesday,False
+biographical,misc,Fire out.,,,,False
+artifacts,misc,Bonaparte relics,,,,False
+politial figure,per,Mr. Bonaparte,,,,False
+school,loc,Bryn Mawr school,,,,False
+,per,Margaret,,,,False
+public figure,per,Ann Carey,,,,False
+public figure,per,Carey,,,,False
+social reformer / philanthropist,per,Miss Garrett,,,,False
+school,loc,Johns Hopkins University,,,,False
+school,loc,the Medical School,,,,False
+social reformer / philanthropist,per,Miss Garrett,,,,False
+public figure,per,Carey,,,,False
+literary,per,Aeneas,,,,False
+,per,Mary,,partial,Mary Whitall Berenson,True
+literary,per,Achates,,,,False
+public figure,per,Carey,,,,False
+school,loc,Medical College,,,,False
+,loc,Harry's,,,,False
+,per,Zoe,,,,False
+,per,[Mr. Palin],,,,False
+,per,Mrs. Palin,,partial,Mrs.,True
+,per,[Mr. Buchler],,,,False
+,per,Mrs. Buchler,,partial,Mrs.,True
+accomodation,loc,New Willard Hotel,,,,False
+city,loc,Washington D. C. ,,,,False
+,date,"Wednesday, Feb. 10, 1904",,partial,Wednesday,False
+city,loc,Baltimore,,,,False
+historic,misc,their terrific loss,,,,False
+,misc,Babes in the Wood,,,,False
+governmental,loc,White House,,,,False
+governmental,loc,Capitol,,,,False
+proper noun adjective,misc,German,,,,False
+,per,B.B.,,,,False
+accomodation,loc,New Willard Hotel,,,,False
+city,loc,Washington D. C. ,,,,False
+,date,"Thursday, Feb. 11, 1904",,partial,Thursday,False
+artist-painter,per,Miss Hale,,,,False
+cultral heritage institution,loc,Corcoran Gallery,,,,False
+artist-sculptor,per,Hiram Powers,,,,False
+sculpture,misc,Greek Slave,,partial,Greek,False
+art described by region,misc,American art,,partial,America,False
+,per,[Mr. Ross Perry],,partial,Ross,False
+,per,Mrs. Ross Perry,,partial,Ross,False
+,per,Mr. Archer,,,,False
+businessman / philanthropist,per,Mr. Parmelu,,,,False
+,per,Waterlows,,,,False
+,per,Waterlows,,,,False
+,per,Cotton Smiths,,,,False
+,per,Cotton Smiths,,,,False
+,per,B.B.,,,,False
+,per,Mrs. Warder,,partial,Mrs.,True
+cultural,misc,[Mrs. Warder's musicale],,partial,Mrs.,False
+family unit,org,Miss Warders,,,,False
+,per,Mrs. Huhn,,partial,Mrs.,True
+family unit,org,Miss Stickneys,,,,False
+,per,Mrs. Slater,,partial,Mrs.,True
+artist-painter,per,William Morris Hunt,,,,False
+socialite,per,Miss Alice Roosevelt,,,,False
+accomodation,loc,New Willard Hotel,,,,False
+city,loc,Washington D. C. ,,,,False
+,date,"Friday, Feb. 12, 1904",,partial,Friday,False
+artist-painter,per,Ellen Hale,exact,,Ellen Hale,True
+cultural heritage institution,loc,the Smithsonian,,,,False
+politial figure,per,Secretary Mr. Langley,,,,False
+transportation vessel,misc,Flying Machine,,,,False
+arts administrator,per,Mr. Adler,,,,False
+arts administrator,per,Mr. Holmes,,,,False
+,per,Bernhard,exact,,Bernhard,False
+politial figure,per,Secretary Hay,,,,False
+historian / religious figure,per,Edward Everett Hale,exact,,Edward Everett Hale,True
+artist-painter,per,Ellen,,partial,Ellen Hale,True
+governmental,loc,Senate,,,,False
+politial figure,per,Senator Hoare,,,,False
+,loc,the gallery of the House,,,,False
+,per,Mrs. Ross Perry,,partial,Ross,False
+,misc,[music by Schumann],,,,False
+artist-composer,per,Schumann,,,,False
+,per,Mrs. Slater,,partial,Mrs.,True
+politial figure,per,Judge Holmes,,,,False
+,per,nephew of Charlotte Cushing,,,,False
+artist-actor,per,Charlotte Cushing,,,,False
+accomodation,loc,New Willard Hotel,,,,False
+city,loc,Washington D. C. ,,,,False
+,date,"Saturday, Feb. 13, 1904",,partial,Saturday,False
+,per,Dr. Lee,,,,False
+artist-poet,per,Mr. Samuel Ward,,,,False
+art collection,misc,Mr. Samuel Ward's things,,,,False
+,per,Miss Norton of Cambridge,,partial,Cambridge,False
+city,loc,Cambridge,exact,,Cambridge,True
+literary,loc,"""Purgatorio""",,,,False
+?,misc,English pictures,,,,False
+painting,misc,[portrait by Page],,,,False
+artist-painter,per,Page,,,,False
+arts administrator,per,Mr. Adler,,,,False
+cultural heritage institution,loc,the Smithsonian,,,,False
+arts administrator,per,the Secretary,,,,False
+artist-writer,per,Miss Seward,,,,False
+,per,Miss Upton,,,,False
+,per,B.B.,,,,False
+artist-painter,per,Miss Hale,,,,False
+,per,[Mr. Gilman],,,,False
+,per,Mrs. Gilman,,partial,Mrs.,True
+,per,Mrs. Kennan,,partial,Mrs.,True
+religious figure,per,Mrs. Howe,,partial,Mrs.,True
+city,loc,Cleveland,,,,False
+religious denomonation,misc,Unitarian,,,,False
+historical,misc,Women' Suffrage Congress,,,,False
+,per,Mrs. Cabot Lodge,,partial,Mrs.,True
+politial figure,per,Secretary Hay,,,,False
+artist-painter,per,Zorn,,,,False
+,per,B.B.,,,,False
+,date,"Sunday, Feb. 14, 1904",,partial,Sunday,False
+biographical,misc,My Fortieth Birthday,,,,False
+,per,B.B.,,,,False
+art collection,misc,Mr. Waggaman's collection,,,,False
+art collector,per,Mr. Waggaman,,,,False
+painting,misc,early Flemish triptych,,,,False
+painting,misc,[Madonna and two donors],,,,False
+painting,misc,[painting by Wilson],,,,False
+artist-painter,per,Wilson,,,,False
+technique,misc,chromo,,,,False
+artist-painter,per,Claude Lorraine,,,,False
+pottery,misc,Japanese pottery,,partial,Japanese,True
+businessman,per,Mr. Sawyer,,,,False
+city,loc,Buffalo,,,,False
+art collector,per,Mr. Waggaman,,,,False
+city,loc,District of Columbia,,,,False
+city,loc,New York,exact,,New York,True
+city,loc,Washington,,,,False
+politician,per,Henry Cabot Lodge,,,,False
+,per,Mrs. Adams,,partial,Mrs.,True
+,per,Miss Bigelow,,,,False
+engineer,per,[Mr. Buena Varila],,,,False
+,per,Mme. Buena Varilla,,,,False
+historic,misc,[the whole Panama business],,,,False
+country,loc,Panama,,,,False
+,per,Mr. Lodge,,,,False
+painting,misc,[Laganeth painting],,,,False
+artist-painter,per,Laganeth,,,,False
+painting,misc,Madonna enthroned with four saints,,,,False
+painting,misc,a Cardinal,,,,False
+artist-painter,per,Dirck Bouts,,,,False
+public figure,per,His son,,,,False
+cultural,org,American Egypt exploring committee,,partial,America,True
+,per,Mrs. Adams,,partial,Mrs.,True
+businessman / philanthropist,per,[Mr. James Parmelu],,,,False
+,per,Mrs. James Parmelu,,partial,Mrs.,True
+engineer,per,M. Buena Varilla,,,,False
+,date,1841,,,,False
+country,loc,Nicaragua,,,,False
+country,loc,Panama,,,,False
+engineer,per,M. Buena Varilla,,,,False
+business,org,De Lassseps Co.,,,,False
+city,loc,Cincinnati,,,,False
+banker,per,[prominient Cincinatti banker],,,,False
+country,loc,Panama,,,,False
+city,loc,Cleveland,,,,False
+engineer,per,M.B. Varilla,,,,False
+city,loc,Cleveland,,,,False
+businessman / philanthropist,per,Mr. Parmelu,,,,False
+businessman / politician,per,Mr. Herrick,,,,False
+city,loc,Cleveland,,,,False
+businessperson,per,Mark Hanna,,,,False
+engineer,per,M. Buena Varilla,,,,False
+lecture,misc,[speech],,,,False
+country,loc,Panama,,,,False
+businessperson,per,Hanna,,,,False
+legislation,misc,"[""put the thing through"" in the House]",,,,False
+political,org,House,,,,False
+businessman / philanthropist,per,Mr. Parmelu,,,,False
+,per,Sen. Lodge,,,,False
+historic,misc,the Canal,,,,False
+,per,Mr. Caseby,,,,False
+businessperson,per,Mr. Hanna,,,,False
+business,org,the railway he represents,,,,False
+historic,misc,the Canal,,,,False
+businessman / philanthropist,per,Mr. Parmelu,,,,False
+businessperson,per,Mr. Hanna,,,,False
+political,org,the government,,,,False
+engineer,per,M. Buena Varilla,,,,False
+,per,the Ross-Perrys,,partial,Ross,False
+,per,the Ross-Perrys,,partial,Ross,False
+,per,Mrs. Slater,,partial,Mrs.,True
+family unit,org,the Stickneys,,,,False
+,per,Mrs. Slater,,partial,Mrs.,True
+,per,Mr. Berry,,,,False
+artist-poet,per,Walt Whitman,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Miss Stickney,,,,False
+accomodation,loc,New Willard Hotel,,,,False
+city,loc,Washington D. C. ,,,,False
+,date,"Monday, Feb. 15, 1904",,partial,Monday,False
+lawyer,per,Mrs. Foster,,partial,Mrs.,True
+lawyer,per,Judith Ellen,,,,False
+artist-painter,per,Nellie Hale,,,,False
+scholar,per,Mr. Henry Adams,,,,False
+art historian,per,Loeser,,,,False
+,per,the Wardens',,,,False
+,per,the Wardens' [Mrs. Warden],,partial,Mrs.,True
+,per,Mr. Berry,,,,False
+,per,[Mrs. Lee],,partial,Mrs.,True
+,per,Miss Lee,,,,False
+home,loc,the German Ambassador's,,,,False
+politial figure,per,the German Ambassador,,,,False
+,misc,some wonderful things,,partial,Wonderful,True
+historic,misc,Pekin Loot,,,,False
+,per,Mrs. Kuhn,,partial,Mrs.,True
+artist-painter,per,Anders Zorn,,,,False
+accomodation,loc,New Willard Hotel,,,,False
+city,loc,Washington D. C. ,,,,False
+,date,"Tuesday, Feb. 16, 1904",,partial,Tuesday,False
+landmark,loc,Mt. Vernon,,,,False
+artist-painter,per,Nellie Hale,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,the Waterlows,,,,False
+,per,the Waterlows,,,,False
+,per,Miss Hortmanns',,,,False
+,per,Miss Hortmanns',,,,False
+artist-writer,per,Miss Seward,,,,False
+,per,Miss Lee,,,,False
+accomodation,loc,New Willard Hotel,,,,False
+city,loc,Washington D. C. ,,,,False
+,date,"Wednesday, Feb. 17, 1904",,partial,Wednesday,False
+,per,Mr. Henry Adams,,,,False
+,per,Mrs. Foster,,partial,Mrs.,True
+social reformer,per,Mrs. Henderson,,partial,Mrs.,True
+ misc,org,Great Artists,,,,False
+artist-painter,per,Géronne,,,,False
+artist-painter,per,Cabanel,,,,False
+artist-painter,per,Bougureau,,,,False
+,per,Bernhard,exact,,Bernhard,False
+home,loc,"went on to an awful squillionaire's, Mr. Walsh",,,,False
+businessman,per,Mr. Walsh,,,,False
+state,loc,Colorado,,,,False
+artist-writer,per,Miss Seward,,,,False
+accomodation,loc,New Willard Hotel,,,,False
+city,loc,Washington D. C. ,,,,False
+,date,"Thursday, Feb. 18, 1904",,partial,Thursday,False
+,per,Bernhard,exact,,Bernhard,False
+governmental,loc,the Congressional Library,,partial,Library,True
+arts administrator,per,Mr. Parsons,,,,False
+mural,misc,"""mural decorations""",,,,False
+artist-painter,per,Elihu Vedder,,,,False
+art described by region,misc,Italian pictures,,partial,Italian,True
+painting,misc,"the Drapers' ""Botticelli""",,,,False
+,per,the Drapers',,,,False
+,per,the Drapers [Mrs. Draper],,partial,Mrs.,True
+artist-painter,per,Botticelli,,,,False
+,per,Mrs. Draper,,partial,Mrs.,True
+,per,the Cotton Smiths,,,,False
+,per,the Cotton Smiths,,,,False
+,per,Miss Horner,,,,False
+city,loc,Brookline,exact,,Brookline,False
+artist-painter,per,Ellen Hale,exact,,Ellen Hale,True
+politial figure,per,Chief Justice Nott,,,,False
+historian / politician,per,Lodges [Mr. Lodge],,,,False
+,per,Lodges [Mrs. Lodge],,partial,Mrs.,True
+,per,Gilmans,,,,False
+,per,Gilmans [Mrs. Gilman],,partial,Mrs.,True
+historian,per,Mr. Henry Adams,,,,False
+politial figure,per,Secretary Hay,,,,False
+art dealer,per,Fischer the dealer,,,,False
+,per,Mr. Berenson,,,,False
+art described by region,misc,Italian Art,,partial,Italian,True
+politial figure,per,Mr. Hay,,,,False
+,per,this Great Authority,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Mrs. Kuhn's,,partial,Mrs.,True
+art collector,per,Mr. Rhinelander,,,,False
+,per,[Mr. Thonor],,,,False
+,per,Mrs. Thonor,,partial,Mrs.,True
+,per,Mrs. Wadsworth,,partial,Mrs.,True
+,per,Bernhard,exact,,Bernhard,False
+,per,Mrs. Du Bois,,partial,Mrs.,True
+city,loc,New Haven,,,,False
+,date,"Friday, Feb. 19, 1904",,partial,Friday,False
+city ,loc,Washington,,,,False
+artist-painter,per,Ellen Hale,exact,,Ellen Hale,True
+city ,loc,New York,exact,,New York,True
+artist-painter,per,Mr. Hamilton Field,,,,False
+,per,his mother,,,,False
+,per,B.B.,,,,False
+artist-actor,per,Elsie de Wolfe,,,,False
+public figure,per,Stuyvesants [Mr. Stuyvesant],,,,False
+public figure,per,Stuyvesants [Mrs. Stuyvesant],,partial,Mrs.,True
+accomodation,loc,Somerset Hotel,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Saturday, Feb. 20, 1904",,partial,Saturday,False
+,per,Bernhard,exact,,Bernhard,False
+art collector,per,Ned Waren,,,,False
+art collector,per,Marshall,,,,False
+public figure,per,Mr. Dorr,,,,False
+lecture,misc,lecture,,,,False
+club,org,[Saturday Morning Club],,partial,morning,False
+club,org,New Haven Ladies Saturday Morning Club,,partial,morning,False
+lecture,misc,lecture,,,,False
+association,org,Hartford Art Association,,,,False
+accomodation,loc,Somerset Hotel,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Sunday, Feb. 21, 1904",,partial,Sunday,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+,per,Kneise,,,,False
+,per,his wife,,,,False
+artist-musician,per,Proctor,exact,,Proctor,False
+neighborhood,loc,Savin Hill,,,,False
+,per,Senda,,,,False
+,per,Rachel,exact,,Rachel,False
+accomodation,loc,Somerset Hotel,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Monday, Feb. 22, 1904",,partial,Monday,False
+,per,Rachel,exact,,Rachel,False
+,per,Senda,,,,False
+,per,Ray,,,,False
+proper noun adjective,misc,Greek,exact,,Greek,False
+,per,Mrs. Tyler,,partial,Mrs.,True
+,per,Gertrude,exact,,Gertrude,False
+biographical,misc,Gertrude's death,,partial,Gertrude,False
+city,loc,Cambridge,exact,,Cambridge,True
+,per,Senda,,,,False
+,per,Münsterbergs [Mr. Münsterberg],,,,False
+,per,Münsterbergs [Mrs. Münsterberg],,partial,Mrs.,True
+,per,Puffers [Mr. Puffer],,,,False
+,per,Puffers [Mrs. Puffer],,partial,Mrs.,True
+,per,Nortons,,,,False
+,per,Nortons [Mrs. Norton],,partial,Mrs.,True
+,per,Warrens [Mr. Warren],,,,False
+,per,Warrens [Mrs. Warren],,partial,Mrs.,True
+professor,per,the Warrens [Mr. Warren],,,,False
+,per,the Warrens [Mrs. Warren],,partial,Mrs.,True
+school,loc,Smith College,,,,False
+,per,Salomé Machado,,,,False
+professor,per,Prof. Lauman,,partial,Prof.,True
+,per,Salomé,,,,False
+,per,Mr. Owen,,partial,Mr. Owen Wister,True
+proper noun adjective,misc,Western,,partial,Western tour of,False
+state,loc,Kansas,,,,False
+country,loc,England,exact,,England,True
+,per,B.B.,,,,False
+,per,D_,,,,False
+religious figure,per,Mrs. Piper,,partial,Mrs.,True
+accomodation,loc,Somerset Hotel,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Tuesday, Feb. 23, 1904",,partial,Tuesday,False
+,per,Bernhard,exact,,Bernhard,False
+medical professional,per,Dr. Lauman,,,,False
+,per,Fletcher,,,,False
+art historian,per,Prichard,,,,False
+artist-painter / curator,per,Chalfin,exact,,Chalfin,False
+cultural heritage institution,loc,Museum,exact,,Museum,True
+,per,B.B.,,,,False
+,per,Mrs. Toy,exact,,Mrs. Toy,True
+scholar,per,Santayana,exact,,Santayana,True
+family unit,org,the Perrys,,,,False
+artist-painter,per,Whistler,,partial,Turner - Whistler-esque,False
+cultural ,misc,Whistler reception,,,,False
+cultural ,loc,Copley Hall,,,,False
+,per,B.B.,,,,False
+art collector,per,Mr. Freer,,,,False
+,per,Miss Watson,,,,False
+city,loc,Buffalo,,,,False
+cultural ,org,Bostonians,,partial,Boston,False
+accomodation,loc,Somerset Hotel,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Wednesday, Feb. 24, 1904",,partial,Wednesday,False
+art collector,per,Mr. Freer,,,,False
+cultural heritage institution,loc,Museum,exact,,Museum,True
+art described by region,misc,Chinese things,,partial,Chinese,True
+art collector / businessperson,per,[Mr. Havemeyer],,,,False
+,per,Mrs. Havemeyer,,partial,Mrs.,True
+,per,Abie,,,,False
+artist-painter,per,Mrs. Rogers,,partial,Mrs.,True
+,per,old Miss Norton,,,,False
+,per,B.B.,,,,False
+accomodation,loc,Somerset Hotel,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Thursday, Feb. 25, 1904",,partial,Thursday,False
+artist-painter,per,Whistler,,partial,Turner - Whistler-esque,False
+exhibiton,misc,[Whistler again],,,,False
+art collector,per,Mr. Freer,,,,False
+architect,per,Mr. Fox,,,,False
+,per,Mrs. Nickerson,,partial,Mrs.,True
+,per,B.B.,,,,False
+medical professional,per,Dr. Langmaid,,,,False
+artist-painter,per,Mrs. Whitman,,partial,Mrs.,True
+artist-painter,per,Mr. Dove,,,,False
+accomodation,loc,Somerset Hotel,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Friday, Feb. 26, 1904",,partial,Friday,False
+,per,Bernhard,exact,,Bernhard,False
+cultural heritage institution,loc,museum,exact,,Museum,True
+architect,per,Potter,,,,False
+artist-painter,per,Veronese,,,,False
+artist-painter,per,Paolo,,,,False
+painting,misc,"[art supposedly by Paolo Veronse @ MFA, Boston]",,partial,Boston,False
+,per,Billy taylor,,,,False
+,per,Power,,,,False
+architect,per,Mr. Fox,,,,False
+,per,Billy taylor,,,,False
+,per,Bernhard,exact,,Bernhard,False
+artist-painter,per,Whistler,,partial,Turner - Whistler-esque,False
+exhibiton,misc,[Whistler again],,,,False
+art collector,per,Mr. Bullard,,,,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+performance,org,Vincent Club of girls,,,,False
+cultural,misc,Vaudeville performance,,,,False
+family unit,org,Longyears,,,,False
+businessman,per,Longyears,,,,False
+philanthropist / religious figure,per,Longyears,,,,False
+accomodation,loc,Somerset Hotel,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Saturday, Feb. 27, 1904",,partial,Saturday,False
+,per,Bernhard,exact,,Bernhard,False
+,per,His mother,,,,False
+,per,Rachel,exact,,Rachel,False
+school,loc,Wellesely,,,,False
+lecture,misc,The New Art Criticism,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Mrs. Nickerson,,partial,Mrs.,True
+accomodation,loc,Somerset Hotel,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Sunday, Feb. 28, 1904",,partial,Sunday,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+public figure / artist-painter ,per,Denman Ross,,partial,Denman,False
+,per,Miss Norton,,,,False
+,per,Mrs. Scudder (Jeanette Markham),,partial,Mrs.,True
+public figure / artist-painter ,per,Mr. Ross,,partial,Ross,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+cultural heritage instituton,loc,her Palace,,,,False
+music described by era,misc,XVIII music,,,,False
+artist-musician,per,Proctor,exact,,Proctor,False
+artist-musician,per,Loeffler,,,,False
+instrument,misc,viola d'amore,,,,False
+family unit,org,The Berenson family,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,his parents [Mr. Berenson],,,,False
+,per,his parents [Mrs. Berenson],,partial,Mrs.,True
+,per,this Mother,,,,False
+,per,Rachel,exact,,Rachel,False
+,per,Bessie,,,,False
+,per,Senda,,,,False
+,per,Abe,,,,False
+,per,Bernhard,exact,,Bernhard,False
+business,org,Bank (Barings),,,,False
+,per,his father,,,,False
+,per,Senda,,,,False
+,per,Bessie,,,,False
+,per,Senda,,,,False
+,per,She,,,,False
+,per,Ray,,,,False
+,per,Bernhard,exact,,Bernhard,False
+accomodation,loc,Somerset Hotel,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Monday, Feb. 29, 1904",,partial,Monday,False
+artist-painter,per,Whistler,,partial,Turner - Whistler-esque,False
+exhibiton,misc,Whistlers,,,,False
+,per,Mrs. Bowlker,,partial,Mrs.,True
+,per,Mr. Bullard,,,,False
+lecture,misc,lecture,,,,False
+"school, part of",loc,the College Club,,,,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+,per,Mrs. Whitman,,partial,Mrs.,True
+art collector,per,Mrs. Montgomery Sears,,partial,Mrs.,True
+artist-poet,per,Miss Eva Palmer,,,,False
+city,loc,New York,exact,,New York,True
+artist-poet,per,Poe,,,,False
+,misc,[poetry by Poe],,,,False
+artist-actor/ artist-singer/ artist-poet,per,Mrs. Fiske Warren,,partial,Mrs.,True
+artist-poet,per,Miss Palmer,,,,False
+,per,Mrs. Longyear,,partial,Mrs.,True
+,per,B.B.,,,,False
+medical professional,per,Mr. Ayer,,,,False
+medicine,misc,Cherry Pectoral,,,,False
+art described by region,misc,Italian pictures,,partial,Italian,True
+,per,Mrs. Longyear,,partial,Mrs.,True
+religious beliefs / practices,misc,Christian Science,,,,False
+accomodation,loc,Somerset Hotel,,,,False
+city,loc,Boston,exact,,Boston,True
+,date,"Wednesday, March 2, 1904",,partial,Wednesday,False
+architect,per,Mr. Fox,,,,False
+,per,Bernhard,exact,,Bernhard,False
+family unit,org,the Ayers,,,,False
+businessman,per,Old Mr. Ayer,,,,False
+art historic,org,Old Masters,,,,False
+,per,B.B.,,,,False
+,per,B.B.,,,,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+,per,Miss Norton,,,,False
+artist-painter,per,Whistler,,partial,Turner - Whistler-esque,False
+exhibiton,misc,Whistlers,,,,False
+,per,B.B.,,,,False
+,per,Mrs. Whitman,,partial,Mrs.,True
+family unit,org,the Perrys,,,,False
+accomodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Thursday, March 3, 1904",,partial,Thursday,False
+cultural heritage institution,loc,the Museum,,partial,Museum,True
+,per,Mr. Rhinelander,,,,False
+,per,Cesnola,,,,False
+,per,Mr. R.,,,,False
+,per,B.B.,,,,False
+cultural heritage institution,loc,the Museum,,partial,Museum,True
+businessman,per,Havemeyer,,,,False
+?,misc,[Havenmeyer things],,,,False
+business,org,Tiffany,,,,False
+painting,misc,Rembrandts,,,,False
+artist-painter,per,Rembrandt,,,,False
+painting,misc,Manets,,,,False
+artist-painter,per,Manet,,,,False
+painting,misc,Degases,,,,False
+artist-painter,per,Degas,,,,False
+art described by region,misc,Chinese things,,partial,Chinese,True
+,per,Miss Weeks,,,,False
+producer,per,Miss Marbury,,,,False
+artist-actor,per,Elsie de Wolfe,,,,False
+proper noun adjective,misc,American,,partial,Americans,True
+accomodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Friday, March 4, 1904",,partial,Friday,False
+art collector / art dealer,per,Glaenzer,,,,False
+,per,Emilie Hapgood,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Mr. Rhinelander,,,,False
+club,loc,Round Table Club,,,,False
+city,loc,Philadelphia,,,,False
+lecture,misc,speech,,,,False
+,per,Faff,,,,False
+accomodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Saturday, March 5, 1904",,partial,Saturday,False
+publisher,per,Jacacci,,,,False
+,per,Mrs. Vollmer,,partial,Mrs.,True
+financial,loc,Stock Exchange,,,,False
+art collector,per,"Governors, Mr. R. Halsey",,,,False
+,per,Bernhard,exact,,Bernhard,False
+scholar,per,Carpenter,,,,False
+lecture,misc,my speech,,,,False
+professor,per,Hodder,,,,False
+,per,Caseby,,,,False
+city,loc,Germantown,,,,False
+,date,"Sunday, March 6, 1904",,partial,Sunday,False
+city,loc,Philadelphia,,,,False
+,per,Uncle William,,,,False
+,per,John,,partial,Clayton Johns,True
+,per,Pearlie,,,,False
+,per,Bernhard,exact,,Bernhard,False
+businessman,per,Mr. Lathrop,,,,False
+architect,per,Mr. Stanford White,,,,False
+,per,Mr. Poer,,,,False
+professor,per,Mr. Hodder,,,,False
+professor,per,Miss Gwinn,,,,False
+professor,per,Hodder,,,,False
+city,loc,Germantown,,,,False
+,date,"Monday, March 7, 1904",,partial,Monday,False
+,per,Minnie Kimbre,,,,False
+club,org,Questant,,,,False
+school,loc,Bryn Mawr,,,,False
+,per,John Thomas,,,,False
+professor / social reformer,per,Carey,,,,False
+lecture,misc,an address,,,,False
+,per,Mamie,,,,False
+,per,tom Morton,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Mrs. Winthrop,,partial,Mrs.,True
+city,loc,Germantown,,,,False
+,date,"Tuesday, March 8, 1904",,partial,Tuesday,False
+,per,Aunty Lill,,,,False
+,per,Aunty,,,,False
+club,loc,the Contemporary Club,,,,False
+lecture,misc,my address,,,,False
+lecture,misc,Art Collections in America and their Influence on National Taste and Art,,partial,America,False
+,per,Aunty,,,,False
+,per,Bernhard,exact,,Bernhard,False
+art historian,per,Fenellosa,,,,False
+art critic / professor,per,Mr. Mather,,,,False
+accomodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Wednesday, March 9, 1904",,partial,Wednesday,False
+,per,Bernhard,exact,,Bernhard,False
+artist-actor,per,Elsie de Wolfe,,,,False
+,per,the Gayleys [Mr. Gayley],,,,False
+,per,the Gayleys [Mrs. Gayley],,partial,Mrs.,True
+,per,Mr. Gayley,,,,False
+,per,B.B.,,,,False
+,per,B.B.,,,,False
+accomodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Wednesday, March 10, 1904",,partial,Wednesday,False
+medical professional,per,Dr. Oppenheim,,,,False
+sickness,misc,Grip,,,,False
+,per,Mrs. Dickinson,,partial,Mrs.,True
+artist-writer,per,Norman,,,,False
+,per,Bond,,partial,Grace and Bond,False
+,per,Bernhard,exact,,Bernhard,False
+professor,per,Mr. Butler,,,,False
+,per,Mr. Winthrop,,,,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+art collector / art dealer,per,Mr. Glaenzer,,,,False
+artist-painter,per,Degas,,,,False
+painting,misc,[Degas (portrait of a woman)],,,,False
+,per,the Mansons [Mr. Manson],,,,False
+,per,the Mansons [Mrs. Manson],,partial,Mrs.,True
+cultural,misc,concert,,partial,Symphony Concert,False
+accomodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Wednesday, March 11, 1904",,partial,Wednesday,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+cultural heritage institution,loc,Metropolitan Museum,,partial,Museum,True
+artist-actor,per,Miss De Wolfe,,,,False
+lecture,misc,speech,,,,False
+club,loc,Barnard Club,,,,False
+art historian,per,Mr. Van Dyke,,,,False
+club,loc,Bryn Mawr Club,,,,False
+,per,Norman,,,,False
+,per,Bernhard,exact,,Bernhard,False
+artist-writer,per,Underwood Johnsons [Mr. Johnson],,,,False
+,per,Underwood Johnsons [Mrs. Johnson],,partial,Mrs.,True
+accomodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Saturday, March 12, 1904",,partial,Saturday,False
+sickness,misc,Grip,,,,False
+,per,Bernhard,exact,,Bernhard,False
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+cultural heritage institution,loc,Historical Society,,,,False
+art collector,per,the Chapmans [Mr. Chapman],,,,False
+,per,the Chapmans [Mrs. Chapman],,partial,Mrs.,True
+,per,Mrs. Abbe,,partial,Mrs.,True
+,per,Mrs. Gardner,exact,,Mrs. Gardner,True
+artist-painter,per,Degas,,,,False
+painting,misc,[painting by Degas],,,,False
+medical professional,per,Dr. Abbe,,,,False
+element,misc,Radium,,,,False
+accomodation,loc,Plaza Hotel,,,,False
+city,loc,New York,exact,,New York,True
+,date,"Sunday, March 13, 1904",,partial,Sunday,False
+artist-painter,per,Jacacci,,,,False
+art collector / lawyer,per,Mr. Grenville Winthrop,,,,False
+,per,Bond,,partial,Grace and Bond,False
+,per,Josephine,,,,False
+artist-writer,per,Norman,,,,False
+transportation vessel name,misc,S.S. Kaiser Wilhelm II,,,,False
+business,org,North German Lloyd,,,,False
+,date,"Monday, March 14, 1904",,partial,Monday,False
+,per,Alban,,,,False
+,per,Emma,,,,False
+city,loc,Philadelphia,,,,False
+,per,Fafner,,,,False
+,per,Emily Hapgood,,,,False
+art collector / businessperson,per,Charles Deering,,,,False
+art collector / art dealer,per,Mr. Glaenzer,,,,False
+,per,A.,,partial,America.,False
+,per,E.,,partial,Literature.,False
+address,loc,44 Grosvenor Road,,,,False
+city,loc,London,,,,False
+,date,"Monday, March 21, 1904",,partial,Monday,False
+city,loc,Plymouth,,,,False
+sickness,misc,Grip,,,,False
+home,loc,I Tatti,,,,False
+region,loc,Settignano,exact,,Settignano,False
+,date,"Monday, April 4, 1904",,partial,Monday,False
+city,loc,London,,,,False
+,per,Bernhard,exact,,Bernhard,False
+city,loc,Paris,,,,False
+,per,Ray,,,,False
+,per,Karin,,,,False
+,per,Winnie Buckley,,,,False

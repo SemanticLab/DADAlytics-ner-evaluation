@@ -69,39 +69,23 @@
       "org"
     ]
   },
-  "Liverpool": {
-    "text": "Liverpool",
-    "type": [
-      "loc"
-    ],
-    "spotlightUri": "http://dbpedia.org/resource/Liverpool",
-    "tool": [
-      "spotlight"
-    ],
-    "confidence": 100,
-    "typeMode": [
-      "loc"
-    ]
-  },
   "England": {
     "text": "England",
     "type": [
-      "misc"
+      "org"
     ],
-    "spotlightUri": "http://dbpedia.org/resource/England",
+    "spotlightUri": "http://dbpedia.org/resource/England_national_football_team",
     "tool": [
       "spotlight"
     ],
     "confidence": 100,
     "typeMode": [
-      "misc"
+      "org"
     ]
   },
   "The Reef": {
     "text": "The Reef",
     "type": [
-      "misc",
-      "misc",
       "misc"
     ],
     "spotlightUri": "http://dbpedia.org/resource/Shark_Bait",
@@ -116,8 +100,6 @@
   "Newport": {
     "text": "Newport",
     "type": [
-      "org",
-      "org",
       "org"
     ],
     "spotlightUri": "http://dbpedia.org/resource/Newport_RFC",
@@ -149,6 +131,20 @@
       "misc"
     ],
     "spotlightUri": "http://dbpedia.org/resource/United_States_dollar",
+    "tool": [
+      "spotlight"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "Greek": {
+    "text": "Greek",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": "http://dbpedia.org/resource/Greek_language",
     "tool": [
       "spotlight"
     ],
@@ -316,14 +312,15 @@
   "Italian": {
     "text": "Italian",
     "type": [
-      "misc"
+      "loc"
     ],
-    "spotlightUri": "http://dbpedia.org/resource/Italian_language",
+    "spotlightUri": "http://dbpedia.org/resource/Italy",
     "tool": [
       "spotlight"
     ],
     "confidence": 100,
     "typeMode": [
+      "loc",
       "misc"
     ]
   },
@@ -372,8 +369,6 @@
   "Boston": {
     "text": "Boston",
     "type": [
-      "loc",
-      "loc",
       "loc"
     ],
     "spotlightUri": "http://dbpedia.org/resource/Boston",
@@ -455,31 +450,9 @@
       "misc"
     ]
   },
-  "Grampian": {
-    "text": "Grampian",
-    "type": [
-      "misc",
-      "misc",
-      "misc",
-      "misc",
-      "misc"
-    ],
-    "spotlightUri": "http://dbpedia.org/resource/Grampian_Television",
-    "tool": [
-      "spotlight"
-    ],
-    "confidence": 100,
-    "typeMode": [
-      "misc"
-    ]
-  },
   "Dorchester": {
     "text": "Dorchester",
     "type": [
-      "loc",
-      "loc",
-      "loc",
-      "loc",
       "loc"
     ],
     "spotlightUri": "http://dbpedia.org/resource/Dorchester_on_Thames",
@@ -505,18 +478,20 @@
       "per"
     ]
   },
-  "Cambridge": {
-    "text": "Cambridge",
+  "Grampian": {
+    "text": "Grampian",
     "type": [
-      "loc"
+      "misc",
+      "misc",
+      "misc"
     ],
-    "spotlightUri": "http://dbpedia.org/resource/Cambridge",
+    "spotlightUri": "http://dbpedia.org/resource/Grampian_Mountains",
     "tool": [
       "spotlight"
     ],
     "confidence": 100,
     "typeMode": [
-      "loc"
+      "misc"
     ]
   },
   "tea": {
@@ -589,20 +564,6 @@
       "loc"
     ]
   },
-  "Charles": {
-    "text": "Charles",
-    "type": [
-      "per"
-    ],
-    "spotlightUri": "http://dbpedia.org/resource/Charles_II_of_England",
-    "tool": [
-      "spotlight"
-    ],
-    "confidence": 100,
-    "typeMode": [
-      "per"
-    ]
-  },
   "Coen": {
     "text": "Coen",
     "type": [
@@ -617,27 +578,9 @@
       "loc"
     ]
   },
-  "James": {
-    "text": "James",
-    "type": [
-      "per"
-    ],
-    "spotlightUri": "http://dbpedia.org/resource/James_VI_and_I",
-    "tool": [
-      "spotlight"
-    ],
-    "confidence": 100,
-    "typeMode": [
-      "per"
-    ]
-  },
   "Green Hill": {
     "text": "Green Hill",
     "type": [
-      "misc",
-      "misc",
-      "misc",
-      "misc",
       "misc",
       "misc"
     ],
@@ -653,10 +596,6 @@
   "Brookline": {
     "text": "Brookline",
     "type": [
-      "misc",
-      "misc",
-      "misc",
-      "misc",
       "misc",
       "misc"
     ],
@@ -953,16 +892,15 @@
   "Owen": {
     "text": "Owen",
     "type": [
-      "misc",
-      "misc"
+      "per"
     ],
-    "spotlightUri": "http://dbpedia.org/resource/Owen_Harper",
+    "spotlightUri": "http://dbpedia.org/resource/Owen_Armstrong",
     "tool": [
       "spotlight"
     ],
     "confidence": 100,
     "typeMode": [
-      "misc"
+      "per"
     ]
   },
   "The Virginian": {

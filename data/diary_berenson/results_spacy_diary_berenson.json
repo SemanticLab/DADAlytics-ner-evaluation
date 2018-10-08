@@ -72,7 +72,6 @@
   "America": {
     "text": "America",
     "type": [
-      "loc",
       "loc"
     ],
     "spotlightUri": null,
@@ -101,7 +100,7 @@
   "R. M. S. Majestic": {
     "text": "R. M. S. Majestic",
     "type": [
-      "org"
+      "per"
     ],
     "spotlightUri": null,
     "tool": [
@@ -109,7 +108,7 @@
     ],
     "confidence": 100,
     "typeMode": [
-      "org"
+      "per"
     ]
   },
   "White Star": {
@@ -126,8 +125,8 @@
       "org"
     ]
   },
-  "Wednesday, Sept. 30,": {
-    "text": "Wednesday, Sept. 30,",
+  "Wednesday, Sept. 30, 1903": {
+    "text": "Wednesday, Sept. 30, 1903",
     "type": [
       "date"
     ],
@@ -241,8 +240,6 @@
   "Reef": {
     "text": "Reef",
     "type": [
-      "loc",
-      "loc",
       "loc"
     ],
     "spotlightUri": null,
@@ -257,8 +254,6 @@
   "Newport": {
     "text": "Newport",
     "type": [
-      "loc",
-      "loc",
       "loc"
     ],
     "spotlightUri": null,
@@ -284,8 +279,8 @@
       "per"
     ]
   },
-  "Thursday, Oct. 8, 1903 We landed this morning": {
-    "text": "Thursday, Oct. 8, 1903 We landed this morning",
+  "Thursday, Oct. 8, 1903": {
+    "text": "Thursday, Oct. 8, 1903",
     "type": [
       "date"
     ],
@@ -296,6 +291,21 @@
     "confidence": 100,
     "typeMode": [
       "date"
+    ]
+  },
+  "this morning": {
+    "text": "this morning",
+    "type": [
+      "misc",
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
     ]
   },
   "Bore": {
@@ -340,25 +350,9 @@
       "org"
     ]
   },
-  "this morning": {
-    "text": "this morning",
-    "type": [
-      "misc",
-      "misc"
-    ],
-    "spotlightUri": null,
-    "tool": [
-      "spacy"
-    ],
-    "confidence": 100,
-    "typeMode": [
-      "misc"
-    ]
-  },
   "one": {
     "text": "one",
     "type": [
-      "misc",
       "misc"
     ],
     "spotlightUri": null,
@@ -415,7 +409,6 @@
   "Grace": {
     "text": "Grace",
     "type": [
-      "org",
       "org"
     ],
     "spotlightUri": null,
@@ -514,10 +507,6 @@
   "Davis": {
     "text": "Davis",
     "type": [
-      "per",
-      "per",
-      "per",
-      "per",
       "per"
     ],
     "spotlightUri": null,
@@ -767,52 +756,6 @@
       "date"
     ]
   },
-  "3": {
-    "text": "3",
-    "type": [
-      "misc"
-    ],
-    "spotlightUri": null,
-    "tool": [
-      "spacy"
-    ],
-    "confidence": 100,
-    "typeMode": [
-      "misc"
-    ]
-  },
-  "45": {
-    "text": "45",
-    "type": [
-      "date"
-    ],
-    "spotlightUri": null,
-    "tool": [
-      "spacy"
-    ],
-    "confidence": 100,
-    "typeMode": [
-      "date"
-    ]
-  },
-  "189": {
-    "text": "189",
-    "type": [
-      "misc",
-      "misc",
-      "misc",
-      "misc",
-      "misc"
-    ],
-    "spotlightUri": null,
-    "tool": [
-      "spacy"
-    ],
-    "confidence": 100,
-    "typeMode": [
-      "misc"
-    ]
-  },
   "Andrews": {
     "text": "Andrews",
     "type": [
@@ -845,7 +788,6 @@
   "Western": {
     "text": "Western",
     "type": [
-      "misc",
       "misc"
     ],
     "spotlightUri": null,
@@ -945,7 +887,6 @@
   "the evening": {
     "text": "the evening",
     "type": [
-      "misc",
       "misc"
     ],
     "spotlightUri": null,
@@ -1058,8 +999,6 @@
   "Boston": {
     "text": "Boston",
     "type": [
-      "loc",
-      "loc",
       "loc"
     ],
     "spotlightUri": null,
@@ -1171,6 +1110,48 @@
   },
   "hundreds": {
     "text": "hundreds",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "3": {
+    "text": "3",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
+    ]
+  },
+  "45": {
+    "text": "45",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
+  "189": {
+    "text": "189",
     "type": [
       "misc"
     ],
@@ -1340,10 +1321,6 @@
   "Grampian": {
     "text": "Grampian",
     "type": [
-      "misc",
-      "misc",
-      "misc",
-      "misc",
       "misc"
     ],
     "spotlightUri": null,
@@ -1358,10 +1335,6 @@
   "Dorchester": {
     "text": "Dorchester",
     "type": [
-      "per",
-      "per",
-      "per",
-      "per",
       "per"
     ],
     "spotlightUri": null,
@@ -1432,8 +1405,6 @@
   "Rachel": {
     "text": "Rachel",
     "type": [
-      "per",
-      "per",
       "per"
     ],
     "spotlightUri": null,
@@ -1442,7 +1413,8 @@
     ],
     "confidence": 100,
     "typeMode": [
-      "per"
+      "per",
+      "misc"
     ]
   },
   "Miss Sellers": {
@@ -1825,28 +1797,10 @@
       "per"
     ]
   },
-  "11": {
-    "text": "11",
-    "type": [
-      "date"
-    ],
-    "spotlightUri": null,
-    "tool": [
-      "spacy"
-    ],
-    "confidence": 100,
-    "typeMode": [
-      "date"
-    ]
-  },
   "Green Hill": {
     "text": "Green Hill",
     "type": [
       "loc",
-      "loc",
-      "per",
-      "loc",
-      "loc",
       "loc"
     ],
     "spotlightUri": null,
@@ -1855,16 +1809,13 @@
     ],
     "confidence": 100,
     "typeMode": [
-      "loc"
+      "loc",
+      "per"
     ]
   },
   "Brookline": {
     "text": "Brookline",
     "type": [
-      "loc",
-      "loc",
-      "loc",
-      "loc",
       "loc",
       "loc"
     ],
@@ -2090,7 +2041,6 @@
   "Higginson": {
     "text": "Higginson",
     "type": [
-      "per",
       "per"
     ],
     "spotlightUri": null,
@@ -2119,10 +2069,6 @@
   "Gardner": {
     "text": "Gardner",
     "type": [
-      "per",
-      "per",
-      "per",
-      "per",
       "per"
     ],
     "spotlightUri": null,
@@ -2277,7 +2223,6 @@
   "Library": {
     "text": "Library",
     "type": [
-      "loc",
       "loc"
     ],
     "spotlightUri": null,
@@ -2376,7 +2321,6 @@
   "Ellen Hale": {
     "text": "Ellen Hale",
     "type": [
-      "per",
       "per"
     ],
     "spotlightUri": null,
@@ -2669,6 +2613,20 @@
       "per"
     ]
   },
+  "11": {
+    "text": "11",
+    "type": [
+      "date"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "date"
+    ]
+  },
   "Wednesday, Oct. 21, 1903": {
     "text": "Wednesday, Oct. 21, 1903",
     "type": [
@@ -2849,6 +2807,20 @@
     "confidence": 100,
     "typeMode": [
       "org"
+    ]
+  },
+  " ": {
+    "text": " ",
+    "type": [
+      "misc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "spacy"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "misc"
     ]
   },
   "Theodore Dwight": {

@@ -1,48 +1,33 @@
 {
-  "Berenson": {
-    "text": "Berenson",
-    "type": [],
+  "Theodore Dwight": {
+    "text": "Theodore Dwight",
+    "type": [
+      "per"
+    ],
     "spotlightUri": null,
     "tool": [
-      "parsey"
+      "opener"
     ],
-    "confidence": 100
+    "confidence": 100,
+    "typeMode": [
+      [
+        "per"
+      ]
+    ]
   },
-  "Mary Whitall Berenson": {
-    "text": "Mary Whitall Berenson",
-    "type": [],
+  "Owen Wister": {
+    "text": "Owen Wister",
+    "type": [
+      "per"
+    ],
     "spotlightUri": null,
     "tool": [
-      "parsey"
+      "opener"
     ],
-    "confidence": 100
-  },
-  "Tatti Settignano": {
-    "text": "Tatti Settignano",
-    "type": [],
-    "spotlightUri": null,
-    "tool": [
-      "parsey"
-    ],
-    "confidence": 100
-  },
-  "Florence Trip": {
-    "text": "Florence Trip",
-    "type": [],
-    "spotlightUri": null,
-    "tool": [
-      "parsey"
-    ],
-    "confidence": 100
-  },
-  "America September": {
-    "text": "America September",
-    "type": [],
-    "spotlightUri": null,
-    "tool": [
-      "parsey"
-    ],
-    "confidence": 100
+    "confidence": 100,
+    "typeMode": [
+      "per"
+    ]
   },
   "White Star": {
     "text": "White Star",
@@ -100,15 +85,6 @@
   },
   "Thursday": {
     "text": "Thursday",
-    "type": [],
-    "spotlightUri": null,
-    "tool": [
-      "parsey"
-    ],
-    "confidence": 100
-  },
-  "Oct": {
-    "text": "Oct",
     "type": [],
     "spotlightUri": null,
     "tool": [
@@ -188,17 +164,8 @@
     ],
     "confidence": 100
   },
-  "Reef": {
-    "text": "Reef",
-    "type": [],
-    "spotlightUri": null,
-    "tool": [
-      "parsey"
-    ],
-    "confidence": 100
-  },
-  "Newport Friday": {
-    "text": "Newport Friday",
+  "Friday Oct": {
+    "text": "Friday Oct",
     "type": [],
     "spotlightUri": null,
     "tool": [
@@ -476,15 +443,6 @@
     ],
     "confidence": 100
   },
-  "Miss": {
-    "text": "Miss",
-    "type": [],
-    "spotlightUri": null,
-    "tool": [
-      "parsey"
-    ],
-    "confidence": 100
-  },
   "Tuesday": {
     "text": "Tuesday",
     "type": [],
@@ -692,15 +650,6 @@
     ],
     "confidence": 100
   },
-  "Dwight": {
-    "text": "Dwight",
-    "type": [],
-    "spotlightUri": null,
-    "tool": [
-      "parsey"
-    ],
-    "confidence": 100
-  },
   "Lakewood": {
     "text": "Lakewood",
     "type": [],
@@ -712,6 +661,15 @@
   },
   "Italian": {
     "text": "Italian",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Mrs": {
+    "text": "Mrs",
     "type": [],
     "spotlightUri": null,
     "tool": [
@@ -854,6 +812,15 @@
     ],
     "confidence": 100
   },
+  "Hale": {
+    "text": "Hale",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
   "Franklin": {
     "text": "Franklin",
     "type": [],
@@ -899,8 +866,17 @@
     ],
     "confidence": 100
   },
-  "Owen Wister": {
-    "text": "Owen Wister",
+  "Dwight": {
+    "text": "Dwight",
+    "type": [],
+    "spotlightUri": null,
+    "tool": [
+      "parsey"
+    ],
+    "confidence": 100
+  },
+  "Wister": {
+    "text": "Wister",
     "type": [],
     "spotlightUri": null,
     "tool": [

@@ -1,0 +1,1758 @@
+{
+  "description": "Whitney Museum Finding Aid",
+  "entities": [
+    {
+      "type": "per",
+      "value": "Calder"
+    },
+    {
+      "type": "misc",
+      "value": "Calder's Circus"
+    },
+    {
+      "type": "per",
+      "value": "Calder"
+    },
+    {
+      "type": "misc",
+      "value": "Calder's Universe"
+    },
+    {
+      "type": "loc",
+      "value": "California"
+    },
+    {
+      "type": "misc",
+      "value": "California Dreaming"
+    },
+    {
+      "type": "org",
+      "value": "Canadian Centre for Architecture"
+    },
+    {
+      "type": "misc",
+      "value": "Carnival Strippers"
+    },
+    {
+      "type": "per",
+      "value": "Susan Meiselas"
+    },
+    {
+      "type": "per",
+      "value": "Paik"
+    },
+    {
+      "type": "org",
+      "value": "Akademie du Kunste"
+    },
+    {
+      "type": "per",
+      "value": "De Creeft"
+    },
+    {
+      "type": "per",
+      "value": "Robus"
+    },
+    {
+      "type": "per",
+      "value": "Burlin"
+    },
+    {
+      "type": "per",
+      "value": "Moorman, Charlotte"
+    },
+    {
+      "type": "per",
+      "value": "Lincoln Kirstein"
+    },
+    {
+      "type": "per",
+      "value": "G. Coleman"
+    },
+    {
+      "type": "per",
+      "value": "Greene"
+    },
+    {
+      "type": "per",
+      "value": "De Rivera"
+    },
+    {
+      "type": "per",
+      "value": "Henry Wilder Foote"
+    },
+    {
+      "type": "per",
+      "value": "Sawitzky"
+    },
+    {
+      "type": "per",
+      "value": "Lloyd Goodrich"
+    },
+    {
+      "type": "org",
+      "value": "Booklist"
+    },
+    {
+      "type": "per",
+      "value": "Beale"
+    },
+    {
+      "type": "per",
+      "value": "Blythe, L.G."
+    },
+    {
+      "type": "per",
+      "value": "Burlin"
+    },
+    {
+      "type": "date",
+      "value": "1949"
+    },
+    {
+      "type": "per",
+      "value": "Lloyd Goodrich"
+    },
+    {
+      "type": "per",
+      "value": "Knaths"
+    },
+    {
+      "type": "per",
+      "value": "Maurer"
+    },
+    {
+      "type": "date",
+      "value": "1963"
+    },
+    {
+      "type": "date",
+      "value": "1965"
+    },
+    {
+      "type": "date",
+      "value": "2965"
+    },
+    {
+      "type": "per",
+      "value": "Caesar"
+    },
+    {
+      "type": "per",
+      "value": "Gross"
+    },
+    {
+      "type": "per",
+      "value": "Rattner"
+    },
+    {
+      "type": "per",
+      "value": "Baur"
+    },
+    {
+      "type": "org",
+      "value": "Harvard University Press"
+    },
+    {
+      "type": "per",
+      "value": "De Rivera"
+    },
+    {
+      "type": "per",
+      "value": "Greene"
+    },
+    {
+      "type": "org",
+      "value": "Virginia Robie"
+    },
+    {
+      "type": "per",
+      "value": "Waldo"
+    },
+    {
+      "type": "org",
+      "value": "Armory"
+    },
+    {
+      "type": "org",
+      "value": "The Eight"
+    },
+    {
+      "type": "org",
+      "value": "Society for Independent Artists"
+    },
+    {
+      "type": "org",
+      "value": "Societe Anonyme"
+    },
+    {
+      "type": "per",
+      "value": "Barbara Parker"
+    },
+    {
+      "type": "org",
+      "value": "MFA Boston"
+    },
+    {
+      "type": "per",
+      "value": "Lloyd Goodrich"
+    },
+    {
+      "type": "org",
+      "value": "American Art Research Council"
+    },
+    {
+      "type": "per",
+      "value": "Lloyd Goodrich"
+    },
+    {
+      "type": "per",
+      "value": "Tomlin Family"
+    },
+    {
+      "type": "per",
+      "value": "Caesar"
+    },
+    {
+      "type": "per",
+      "value": "Weber"
+    },
+    {
+      "type": "per",
+      "value": "Gross"
+    },
+    {
+      "type": "per",
+      "value": "Knaths"
+    },
+    {
+      "type": "per",
+      "value": "Lloyd Goodrich"
+    },
+    {
+      "type": "per",
+      "value": "Marsh"
+    },
+    {
+      "type": "per",
+      "value": "MW"
+    },
+    {
+      "type": "per",
+      "value": "R. Irvine"
+    },
+    {
+      "type": "per",
+      "value": "Sheeler"
+    },
+    {
+      "type": "per",
+      "value": "Schnakenberg"
+    },
+    {
+      "type": "per",
+      "value": "Fiene"
+    },
+    {
+      "type": "per",
+      "value": "Ault"
+    },
+    {
+      "type": "per",
+      "value": "Speicher"
+    },
+    {
+      "type": "per",
+      "value": "Luce"
+    },
+    {
+      "type": "per",
+      "value": "Rattner"
+    },
+    {
+      "type": "per",
+      "value": "Lloyd Goodrich"
+    },
+    {
+      "type": "per",
+      "value": "Rosenberg"
+    },
+    {
+      "type": "per",
+      "value": "Beth Venn"
+    },
+    {
+      "type": "per",
+      "value": "Betsy"
+    },
+    {
+      "type": "per",
+      "value": "Bloemink"
+    },
+    {
+      "type": "misc",
+      "value": "Dada"
+    },
+    {
+      "type": "per",
+      "value": "Bhabha, Homi"
+    },
+    {
+      "type": "per",
+      "value": "Fuchs, Rudi"
+    },
+    {
+      "type": "per",
+      "value": "Ross"
+    },
+    {
+      "type": "per",
+      "value": "Fuchs"
+    },
+    {
+      "type": "per",
+      "value": "Weinberg"
+    },
+    {
+      "type": "per",
+      "value": "Kelley"
+    },
+    {
+      "type": "per",
+      "value": "Nochlin"
+    },
+    {
+      "type": "per",
+      "value": "Sussman"
+    },
+    {
+      "type": "per",
+      "value": "Venn"
+    },
+    {
+      "type": "per",
+      "value": "Weinberg"
+    },
+    {
+      "type": "per",
+      "value": "Bloom"
+    },
+    {
+      "type": "per",
+      "value": "Bloom"
+    },
+    {
+      "type": "per",
+      "value": "Gail Scott"
+    },
+    {
+      "type": "per",
+      "value": "James Speyer"
+    },
+    {
+      "type": "per",
+      "value": "Stanley Johnson"
+    },
+    {
+      "type": "org",
+      "value": "Voice of America"
+    },
+    {
+      "type": "per",
+      "value": "Leo Steinberg"
+    },
+    {
+      "type": "per",
+      "value": "Levine"
+    },
+    {
+      "type": "org",
+      "value": "ICA"
+    },
+    {
+      "type": "per",
+      "value": "Levine"
+    },
+    {
+      "type": "loc",
+      "value": "Lichtenstein"
+    },
+    {
+      "type": "misc",
+      "value": "Calder's Universe"
+    },
+    {
+      "type": "per",
+      "value": "Jean Lipman"
+    },
+    {
+      "type": "misc",
+      "value": "Calder's Universe"
+    },
+    {
+      "type": "per",
+      "value": "Jean Lipman"
+    },
+    {
+      "type": "org",
+      "value": "Harry N. Abrams, Inc."
+    },
+    {
+      "type": "per",
+      "value": "Harry N. Abrams"
+    },
+    {
+      "type": "org",
+      "value": "European institutions"
+    },
+    {
+      "type": "org",
+      "value": "European institutions"
+    },
+    {
+      "type": "per",
+      "value": "Richard Marshall"
+    },
+    {
+      "type": "per",
+      "value": "Robert Rosenblum"
+    },
+    {
+      "type": "per",
+      "value": "Robert Rosenblum"
+    },
+    {
+      "type": "per",
+      "value": "Henry Allan Moe"
+    },
+    {
+      "type": "per",
+      "value": "Diller"
+    },
+    {
+      "type": "per",
+      "value": "Diller"
+    },
+    {
+      "type": "misc",
+      "value": "Beat Culture: Road Show"
+    },
+    {
+      "type": "date",
+      "value": "16 May 1996"
+    },
+    {
+      "type": "per",
+      "value": "Charles Burchfield"
+    },
+    {
+      "type": "per",
+      "value": "Charles Burchfield"
+    },
+    {
+      "type": "per",
+      "value": "Charles Demuth"
+    },
+    {
+      "type": "misc",
+      "value": "Charles Demuth Memorial Exhibition"
+    },
+    {
+      "type": "per",
+      "value": "Charles Demuth"
+    },
+    {
+      "type": "per",
+      "value": "Charles Garabedian"
+    },
+    {
+      "type": "per",
+      "value": "Charles Ray"
+    },
+    {
+      "type": "per",
+      "value": "Charles Schucker"
+    },
+    {
+      "type": "per",
+      "value": "Charles Sheeler"
+    },
+    {
+      "type": "per",
+      "value": "Charles Sheeler"
+    },
+    {
+      "type": "per",
+      "value": "Charles Sheeler"
+    },
+    {
+      "type": "org",
+      "value": "Museum für Moderne Kunst"
+    },
+    {
+      "type": "org",
+      "value": "Walker Art Center"
+    },
+    {
+      "type": "org",
+      "value": "WMAA"
+    },
+    {
+      "type": "date",
+      "value": "pre-20th century"
+    },
+    {
+      "type": "per",
+      "value": "LG"
+    },
+    {
+      "type": "org",
+      "value": "Met"
+    },
+    {
+      "type": "misc",
+      "value": "Life in America"
+    },
+    {
+      "type": "org",
+      "value": "Corcoran"
+    },
+    {
+      "type": "org",
+      "value": "Whitney"
+    },
+    {
+      "type": "date",
+      "value": "August 1998"
+    },
+    {
+      "type": "org",
+      "value": "Hirschl  Adler Gallery"
+    },
+    {
+      "type": "per",
+      "value": "Jim Shaw"
+    },
+    {
+      "type": "org",
+      "value": "Macmillan"
+    },
+    {
+      "type": "per",
+      "value": "Simon"
+    },
+    {
+      "type": "per",
+      "value": "Nast"
+    },
+    {
+      "type": "per",
+      "value": "Greene"
+    },
+    {
+      "type": "per",
+      "value": "De Rivera"
+    },
+    {
+      "type": "per",
+      "value": "Mrs. Tucker"
+    },
+    {
+      "type": "per",
+      "value": "Christensen"
+    },
+    {
+      "type": "misc",
+      "value": "A Panorama of Mormon Life"
+    },
+    {
+      "type": "per",
+      "value": "Chryssa"
+    },
+    {
+      "type": "misc",
+      "value": "Selected Prints and Drawings"
+    },
+    {
+      "type": "date",
+      "value": "1959-1962"
+    },
+    {
+      "type": "per",
+      "value": "Cindy Sherman"
+    },
+    {
+      "type": "per",
+      "value": "Claes Oldenburg"
+    },
+    {
+      "type": "per",
+      "value": "Claes Oldenburg"
+    },
+    {
+      "type": "date",
+      "value": "1959-1977"
+    },
+    {
+      "type": "per",
+      "value": "Claire Zeisler"
+    },
+    {
+      "type": "per",
+      "value": "Neil Jenney"
+    },
+    {
+      "type": "misc",
+      "value": "Natural Rationalism"
+    },
+    {
+      "type": "date",
+      "value": "1948"
+    },
+    {
+      "type": "misc",
+      "value": "A Year from the Collection"
+    },
+    {
+      "type": "date",
+      "value": "1952"
+    },
+    {
+      "type": "per",
+      "value": "Breuer"
+    },
+    {
+      "type": "org",
+      "value": "Whitney"
+    },
+    {
+      "type": "misc",
+      "value": "An Anniversary Exhibition"
+    },
+    {
+      "type": "per",
+      "value": "Gertrude Vanderbilt Whitney"
+    },
+    {
+      "type": "misc",
+      "value": "Printmaker's Patron"
+    },
+    {
+      "type": "per",
+      "value": "Gertrude Vanderbilt Whitney"
+    },
+    {
+      "type": "misc",
+      "value": "Printmaker's Patron"
+    },
+    {
+      "type": "per",
+      "value": "Joseph Cornell"
+    },
+    {
+      "type": "misc",
+      "value": "Cosmic Travels"
+    },
+    {
+      "type": "per",
+      "value": "Paul Cadmus"
+    },
+    {
+      "type": "misc",
+      "value": "The Sailor Trilogy"
+    },
+    {
+      "type": "per",
+      "value": "Paul Cadmus"
+    },
+    {
+      "type": "misc",
+      "value": "The Sailor Trilogy"
+    },
+    {
+      "type": "misc",
+      "value": "Picassoid"
+    },
+    {
+      "type": "per",
+      "value": "Raphael Montanez Ortiz"
+    },
+    {
+      "type": "misc",
+      "value": "Early Destruction"
+    },
+    {
+      "type": "date",
+      "value": "1957-1966"
+    },
+    {
+      "type": "misc",
+      "value": "Rockwell Kent by Night"
+    },
+    {
+      "type": "per",
+      "value": "Rockwell Kent"
+    },
+    {
+      "type": "per",
+      "value": "Willem de Kooning"
+    },
+    {
+      "type": "misc",
+      "value": "Door Cycle"
+    },
+    {
+      "type": "per",
+      "value": "Willem de Kooning"
+    },
+    {
+      "type": "misc",
+      "value": "Door Cycle"
+    },
+    {
+      "type": "org",
+      "value": "Colorado Springs Fine Arts Center"
+    },
+    {
+      "type": "date",
+      "value": "March 10-April 18,1976"
+    },
+    {
+      "type": "per",
+      "value": "Reynolds"
+    },
+    {
+      "type": "loc",
+      "value": "NYC"
+    },
+    {
+      "type": "per",
+      "value": "Conrad Marca-Relli"
+    },
+    {
+      "type": "per",
+      "value": "Bruce Conner"
+    },
+    {
+      "type": "per",
+      "value": "Bruce Conner"
+    },
+    {
+      "type": "per",
+      "value": "DeFeo, Jay"
+    },
+    {
+      "type": "misc",
+      "value": "The Rose"
+    },
+    {
+      "type": "per",
+      "value": "DeFeo, Jay"
+    },
+    {
+      "type": "misc",
+      "value": "The Rose"
+    },
+    {
+      "type": "org",
+      "value": "WMAA"
+    },
+    {
+      "type": "loc",
+      "value": "Berlin"
+    },
+    {
+      "type": "loc",
+      "value": "Paris"
+    },
+    {
+      "type": "org",
+      "value": "WMAA"
+    },
+    {
+      "type": "loc",
+      "value": "Berlin"
+    },
+    {
+      "type": "loc",
+      "value": "Paris"
+    },
+    {
+      "type": "misc",
+      "value": "Contemporary American Ceramics"
+    },
+    {
+      "type": "misc",
+      "value": "Contemporary American Prints and Drawings"
+    },
+    {
+      "type": "org",
+      "value": "Whitney Museum of American Art"
+    },
+    {
+      "type": "misc",
+      "value": "Contemporary American Sculpture and Sculptor's Drawings"
+    },
+    {
+      "type": "misc",
+      "value": "1942 Annual of Sculpture"
+    },
+    {
+      "type": "date",
+      "value": "1942"
+    },
+    {
+      "type": "misc",
+      "value": "Between Two Wars"
+    },
+    {
+      "type": "misc",
+      "value": "Contemporary American Sculpture: Selection I"
+    },
+    {
+      "type": "misc",
+      "value": "Contemporary American Sculpture: Selection II"
+    },
+    {
+      "type": "misc",
+      "value": "Contemporary Black Artists in America"
+    },
+    {
+      "type": "loc",
+      "value": "America"
+    },
+    {
+      "type": "org",
+      "value": "Pennsylvania Academy of Fine Arts"
+    },
+    {
+      "type": "org",
+      "value": "Detroit Institution of Art"
+    },
+    {
+      "type": "org",
+      "value": "Pennsylvania Academy of Fine Arts"
+    },
+    {
+      "type": "org",
+      "value": "Whitney"
+    },
+    {
+      "type": "org",
+      "value": "Fine Arts"
+    },
+    {
+      "type": "org",
+      "value": "national Gallery"
+    },
+    {
+      "type": "loc",
+      "value": "San Francisco"
+    },
+    {
+      "type": "per",
+      "value": "Arturo Herrera"
+    },
+    {
+      "type": "per",
+      "value": "Anastasi, William"
+    },
+    {
+      "type": "per",
+      "value": "Antin, Eleanor"
+    },
+    {
+      "type": "per",
+      "value": "Bochner, Mel"
+    },
+    {
+      "type": "per",
+      "value": "Bourgeois, Louise"
+    },
+    {
+      "type": "per",
+      "value": "Campus, Peter"
+    },
+    {
+      "type": "per",
+      "value": "Chalfont, Henry"
+    },
+    {
+      "type": "per",
+      "value": "Christo and Jeanne-Claude"
+    },
+    {
+      "type": "per",
+      "value": "Eisenman, Nicole"
+    },
+    {
+      "type": "per",
+      "value": "Frankenthaler, Helen"
+    },
+    {
+      "type": "per",
+      "value": "Hill, Gary"
+    },
+    {
+      "type": "per",
+      "value": "Holt, Nancy"
+    },
+    {
+      "type": "per",
+      "value": "Johns, Jasper"
+    },
+    {
+      "type": "per",
+      "value": "Kosuth, Robert"
+    },
+    {
+      "type": "per",
+      "value": "Kozloff, Joyce"
+    },
+    {
+      "type": "per",
+      "value": "Kushner, Robert"
+    },
+    {
+      "type": "per",
+      "value": "Lewitt, Sol"
+    },
+    {
+      "type": "per",
+      "value": "Marden, Brice"
+    },
+    {
+      "type": "per",
+      "value": "Oldenburg, Claes"
+    },
+    {
+      "type": "per",
+      "value": "Oursler, Tony"
+    },
+    {
+      "type": "per",
+      "value": "Paik, Nam June"
+    },
+    {
+      "type": "per",
+      "value": "Pollock"
+    },
+    {
+      "type": "per",
+      "value": "Pollock"
+    },
+    {
+      "type": "per",
+      "value": "Pollock"
+    },
+    {
+      "type": "per",
+      "value": "Pollock"
+    },
+    {
+      "type": "per",
+      "value": "Rauschenberg, Robert"
+    },
+    {
+      "type": "per",
+      "value": "Simmons, Gary"
+    },
+    {
+      "type": "per",
+      "value": "Simmons, Laurie"
+    },
+    {
+      "type": "per",
+      "value": "Spero, Nancy"
+    },
+    {
+      "type": "per",
+      "value": "Viola, Bill"
+    },
+    {
+      "type": "per",
+      "value": "Weiner, Lawrence"
+    },
+    {
+      "type": "org",
+      "value": "Costopolous Foundation"
+    },
+    {
+      "type": "org",
+      "value": "Costopolous Foundation"
+    },
+    {
+      "type": "per",
+      "value": "Steichen, Joanna"
+    },
+    {
+      "type": "per",
+      "value": "Schrier, Sandy"
+    },
+    {
+      "type": "misc",
+      "value": "The Ballad of Sexual Dependency"
+    },
+    {
+      "type": "per",
+      "value": "Alexander Calder"
+    },
+    {
+      "type": "per",
+      "value": "Alexander Calder"
+    },
+    {
+      "type": "org",
+      "value": "California Historical Society"
+    },
+    {
+      "type": "org",
+      "value": "California Historical Society"
+    },
+    {
+      "type": "per",
+      "value": "Chryssa"
+    },
+    {
+      "type": "per",
+      "value": "Chryssa"
+    },
+    {
+      "type": "org",
+      "value": "Exxon Corporation"
+    },
+    {
+      "type": "org",
+      "value": "Exxon Corporation"
+    },
+    {
+      "type": "per",
+      "value": "IBM"
+    },
+    {
+      "type": "per",
+      "value": "IBM"
+    },
+    {
+      "type": "per",
+      "value": "Norman Feder"
+    },
+    {
+      "type": "per",
+      "value": "Norman Feder"
+    },
+    {
+      "type": "per",
+      "value": "Stein, Roger B."
+    },
+    {
+      "type": "per",
+      "value": "Stein, Roger B."
+    },
+    {
+      "type": "per",
+      "value": "Andre, Carl"
+    },
+    {
+      "type": "org",
+      "value": "Whitney"
+    },
+    {
+      "type": "per",
+      "value": "Bry/O'Keefe"
+    },
+    {
+      "type": "date",
+      "value": "January 31, 1968"
+    },
+    {
+      "type": "date",
+      "value": "June 24, 1970"
+    },
+    {
+      "type": "org",
+      "value": "Whitney"
+    },
+    {
+      "type": "per",
+      "value": "Bry/O'Keefe"
+    },
+    {
+      "type": "date",
+      "value": "June 26, 1970"
+    },
+    {
+      "type": "date",
+      "value": "August 20, 1971"
+    },
+    {
+      "type": "org",
+      "value": "Whitney"
+    },
+    {
+      "type": "org",
+      "value": "Smithsonian"
+    },
+    {
+      "type": "per",
+      "value": "Craven, wayne"
+    },
+    {
+      "type": "per",
+      "value": "Craven, Wayne"
+    },
+    {
+      "type": "org",
+      "value": "Worcester Art Museum"
+    },
+    {
+      "type": "org",
+      "value": "City College"
+    },
+    {
+      "type": "per",
+      "value": "Walter Pach"
+    },
+    {
+      "type": "per",
+      "value": "Guston"
+    },
+    {
+      "type": "per",
+      "value": "Tworkov"
+    },
+    {
+      "type": "per",
+      "value": "Hofmann"
+    },
+    {
+      "type": "org",
+      "value": "Museum of Graphic Art"
+    },
+    {
+      "type": "per",
+      "value": "Weber"
+    },
+    {
+      "type": "per",
+      "value": "Nevelson, Louise"
+    },
+    {
+      "type": "per",
+      "value": "Bloemink, Barbara"
+    },
+    {
+      "type": "per",
+      "value": "Bloemink, Barbara"
+    },
+    {
+      "type": "per",
+      "value": "Carpenter"
+    },
+    {
+      "type": "per",
+      "value": "Coates"
+    },
+    {
+      "type": "misc",
+      "value": "Dollhouses"
+    },
+    {
+      "type": "misc",
+      "value": "Dollhouses"
+    },
+    {
+      "type": "per",
+      "value": "Jim Shaw"
+    },
+    {
+      "type": "per",
+      "value": "Jim Shaw"
+    },
+    {
+      "type": "per",
+      "value": "Frank, Robert"
+    },
+    {
+      "type": "misc",
+      "value": "Garbage Drawings"
+    },
+    {
+      "type": "misc",
+      "value": "Garbage Drawings"
+    },
+    {
+      "type": "per",
+      "value": "Goldin, Nan"
+    },
+    {
+      "type": "per",
+      "value": "Jenney, Neil"
+    },
+    {
+      "type": "per",
+      "value": "Jim Shaw"
+    },
+    {
+      "type": "per",
+      "value": "Jim Shaw"
+    },
+    {
+      "type": "per",
+      "value": "Kienholz"
+    },
+    {
+      "type": "per",
+      "value": "M. Knoedler"
+    },
+    {
+      "type": "per",
+      "value": "Marcus, Greil"
+    },
+    {
+      "type": "per",
+      "value": "Myers, Scott"
+    },
+    {
+      "type": "org",
+      "value": "National Gallery of Art"
+    },
+    {
+      "type": "loc",
+      "value": "Washington, D.C."
+    },
+    {
+      "type": "org",
+      "value": "National Gallery of Art"
+    },
+    {
+      "type": "loc",
+      "value": "Washington, D.C."
+    },
+    {
+      "type": "per",
+      "value": "Naumann, Francis"
+    },
+    {
+      "type": "per",
+      "value": "Naumann, Francis"
+    },
+    {
+      "type": "per",
+      "value": "Nevelson, Maria"
+    },
+    {
+      "type": "per",
+      "value": "Nevelson, Maria"
+    },
+    {
+      "type": "per",
+      "value": "Norton, Peter"
+    },
+    {
+      "type": "per",
+      "value": "Pandiscio, Richard"
+    },
+    {
+      "type": "per",
+      "value": "Papa, Anthony"
+    },
+    {
+      "type": "per",
+      "value": "Stella, Joseph"
+    },
+    {
+      "type": "org",
+      "value": "The Andy Warhol Museum"
+    },
+    {
+      "type": "org",
+      "value": "The Andy Warhol Museum"
+    },
+    {
+      "type": "org",
+      "value": "The Keith Haring Foundation"
+    },
+    {
+      "type": "org",
+      "value": "The Keith Haring Foundation"
+    },
+    {
+      "type": "org",
+      "value": "The Menil Collection"
+    },
+    {
+      "type": "org",
+      "value": "The Menil Collection"
+    },
+    {
+      "type": "misc",
+      "value": "The Parents Wedding Photos"
+    },
+    {
+      "type": "org",
+      "value": "The Shafrazi Gallery"
+    },
+    {
+      "type": "org",
+      "value": "Venturi and Rauch"
+    },
+    {
+      "type": "org",
+      "value": "Venturi and Rauch"
+    },
+    {
+      "type": "misc",
+      "value": "Arkansas"
+    },
+    {
+      "type": "per",
+      "value": "Frank Gillette"
+    },
+    {
+      "type": "misc",
+      "value": "Laughing Boy"
+    },
+    {
+      "type": "org",
+      "value": "American Can Company"
+    },
+    {
+      "type": "org",
+      "value": "American Can Company"
+    },
+    {
+      "type": "org",
+      "value": "BMW"
+    },
+    {
+      "type": "org",
+      "value": "BMW"
+    },
+    {
+      "type": "org",
+      "value": "Braniff International"
+    },
+    {
+      "type": "per",
+      "value": "Calder, Alexander"
+    },
+    {
+      "type": "per",
+      "value": "Calder, Alexander"
+    },
+    {
+      "type": "org",
+      "value": "Champion International Corporation"
+    },
+    {
+      "type": "org",
+      "value": "Champion International Corporation"
+    },
+    {
+      "type": "per",
+      "value": "Claus Oldenburg"
+    },
+    {
+      "type": "per",
+      "value": "Crichton, Michael"
+    },
+    {
+      "type": "per",
+      "value": "Johns, Jasper"
+    },
+    {
+      "type": "org",
+      "value": "Des Moines Art Center"
+    },
+    {
+      "type": "per",
+      "value": "Duane Hanson"
+    },
+    {
+      "type": "per",
+      "value": "Hayes, Peggy Calder"
+    },
+    {
+      "type": "per",
+      "value": "Hayes, Peggy Calder"
+    },
+    {
+      "type": "per",
+      "value": "Helen Lundberg Feitelson"
+    },
+    {
+      "type": "per",
+      "value": "Joan Adams Mondale"
+    },
+    {
+      "type": "org",
+      "value": "Joseph E. Seagram  Sons Inc."
+    },
+    {
+      "type": "org",
+      "value": "Joseph E. Seagram  Sons Inc."
+    },
+    {
+      "type": "per",
+      "value": "Lipman"
+    },
+    {
+      "type": "per",
+      "value": "Lloyd Goodrich"
+    },
+    {
+      "type": "loc",
+      "value": "Los Angeles County Museum of Art"
+    },
+    {
+      "type": "per",
+      "value": "Louise Nevelson"
+    },
+    {
+      "type": "org",
+      "value": "M.H. deYoung Memorial Museum"
+    },
+    {
+      "type": "org",
+      "value": "M.H. deYoung Memorial Museum"
+    },
+    {
+      "type": "per",
+      "value": "Mulnix, Nancy"
+    },
+    {
+      "type": "per",
+      "value": "Myron Stout"
+    },
+    {
+      "type": "org",
+      "value": "National Collection of Fine Arts Smithsonian Institution"
+    },
+    {
+      "type": "loc",
+      "value": "Washington DC"
+    },
+    {
+      "type": "org",
+      "value": "National Collection of Fine Arts Smithsonian Institution"
+    },
+    {
+      "type": "loc",
+      "value": "Washington DC"
+    },
+    {
+      "type": "per",
+      "value": "Richard Estes"
+    },
+    {
+      "type": "org",
+      "value": "Sears, Roebuck and Co."
+    },
+    {
+      "type": "org",
+      "value": "Sears, Roebuck and Co."
+    },
+    {
+      "type": "org",
+      "value": "Walker Art Center"
+    },
+    {
+      "type": "org",
+      "value": "Walker Art Center"
+    },
+    {
+      "type": "per",
+      "value": "Westermann, H.C."
+    },
+    {
+      "type": "per",
+      "value": "John and Helen Sloan"
+    },
+    {
+      "type": "per",
+      "value": "Kutterman, Udo"
+    },
+    {
+      "type": "misc",
+      "value": "Parc Rosenberg"
+    },
+    {
+      "type": "org",
+      "value": "Akademie der Kunste"
+    },
+    {
+      "type": "org",
+      "value": "Akademie der Kunste"
+    },
+    {
+      "type": "per",
+      "value": "Andre, Carl"
+    },
+    {
+      "type": "per",
+      "value": "Avery, Sally"
+    },
+    {
+      "type": "org",
+      "value": "Bern Kunsthalle"
+    },
+    {
+      "type": "org",
+      "value": "Bern Kunsthalle"
+    },
+    {
+      "type": "per",
+      "value": "Campbell, Larry"
+    },
+    {
+      "type": "org",
+      "value": "Crawford Family  Estate"
+    },
+    {
+      "type": "per",
+      "value": "Eiseman, Alvord L."
+    },
+    {
+      "type": "per",
+      "value": "Feig  Taubman"
+    },
+    {
+      "type": "per",
+      "value": "Frackman, Noel"
+    },
+    {
+      "type": "per",
+      "value": "Frey, Viola"
+    },
+    {
+      "type": "per",
+      "value": "Frey, Viola"
+    },
+    {
+      "type": "per",
+      "value": "Goodman, Cynthia"
+    },
+    {
+      "type": "per",
+      "value": "Goodman, Cynthia"
+    },
+    {
+      "type": "per",
+      "value": "Grooms, Red"
+    },
+    {
+      "type": "per",
+      "value": "Hills, Patricia"
+    },
+    {
+      "type": "per",
+      "value": "Hills, Patricia"
+    },
+    {
+      "type": "per",
+      "value": "Jim Roche"
+    },
+    {
+      "type": "per",
+      "value": "Jim Roche"
+    },
+    {
+      "type": "per",
+      "value": "Judd, Donald"
+    },
+    {
+      "type": "per",
+      "value": "Kaprow, Allan"
+    },
+    {
+      "type": "per",
+      "value": "Kelly, Ellsworth"
+    },
+    {
+      "type": "org",
+      "value": "Los Angeles County Museum of Art"
+    },
+    {
+      "type": "org",
+      "value": "Los Angeles County Museum of Art"
+    },
+    {
+      "type": "per",
+      "value": "Mount, Charles Merrill"
+    },
+    {
+      "type": "org",
+      "value": "Museum of Art, Carnegie Institute"
+    },
+    {
+      "type": "org",
+      "value": "Museum of Fine Arts"
+    },
+    {
+      "type": "loc",
+      "value": "Boston"
+    },
+    {
+      "type": "org",
+      "value": "Museum of Fine Arts"
+    },
+    {
+      "type": "loc",
+      "value": "Boston"
+    },
+    {
+      "type": "org",
+      "value": "Musée national d'art moderne, Centre Georges Pompidou"
+    },
+    {
+      "type": "org",
+      "value": "Musée national d'art moderne, Centre Georges Pompidou"
+    },
+    {
+      "type": "per",
+      "value": "Ono, Yoko"
+    },
+    {
+      "type": "per",
+      "value": "Patricia Hills"
+    },
+    {
+      "type": "per",
+      "value": "Patricia Hills"
+    },
+    {
+      "type": "org",
+      "value": "Philadelphia Museum of Art"
+    },
+    {
+      "type": "org",
+      "value": "Philadelphia Museum of Art"
+    },
+    {
+      "type": "per",
+      "value": "Pulitzer, Emily"
+    },
+    {
+      "type": "org",
+      "value": "Quay Gallery"
+    },
+    {
+      "type": "per",
+      "value": "Schneeman, Carolee"
+    },
+    {
+      "type": "per",
+      "value": "Shapiro, Joel"
+    },
+    {
+      "type": "per",
+      "value": "Sprigg, June"
+    },
+    {
+      "type": "per",
+      "value": "Sprigg, June"
+    },
+    {
+      "type": "org",
+      "value": "Storrs-Booz family"
+    },
+    {
+      "type": "org",
+      "value": "Städelsches Kunstinstitut und Städische Galerie"
+    },
+    {
+      "type": "org",
+      "value": "Städelsches Kunstinstitut und Städische Galerie"
+    },
+    {
+      "type": "org",
+      "value": "The Asahi Shimbun"
+    },
+    {
+      "type": "loc",
+      "value": "Japan"
+    },
+    {
+      "type": "org",
+      "value": "The Asahi Shimbun"
+    },
+    {
+      "type": "loc",
+      "value": "Japan"
+    },
+    {
+      "type": "org",
+      "value": "Warner Communications"
+    },
+    {
+      "type": "org",
+      "value": "Xavier Fourcade, Inc."
+    },
+    {
+      "type": "org",
+      "value": "Xavier Fourcade, Inc."
+    },
+    {
+      "type": "per",
+      "value": "Zeisler, Claire"
+    },
+    {
+      "type": "per",
+      "value": "Pinchas Cohen Gan"
+    },
+    {
+      "type": "org",
+      "value": "Museum of Art, Carnegie Institute"
+    },
+    {
+      "type": "misc",
+      "value": "Cotton Puffs, Q-Tips, Smoke and Mirrors"
+    },
+    {
+      "type": "per",
+      "value": "Ed Ruscha"
+    },
+    {
+      "type": "per",
+      "value": "Craig Kauffman"
+    },
+    {
+      "type": "misc",
+      "value": "Craig Kauffman: Wall Reliefs from the Late 1960s"
+    },
+    {
+      "type": "date",
+      "value": "1960s"
+    },
+    {
+      "type": "per",
+      "value": "L.G."
+    },
+    {
+      "type": "per",
+      "value": "H. More"
+    },
+    {
+      "type": "per",
+      "value": "L. Goodrich"
+    },
+    {
+      "type": "per",
+      "value": "Lloyd Goodrich"
+    },
+    {
+      "type": "per",
+      "value": "Cy Twombly"
+    },
+    {
+      "type": "misc",
+      "value": "Cy Twombly: Paintings and Drawings, 1954-1977"
+    },
+    {
+      "type": "date",
+      "value": "1954-1977"
+    }
+  ],
+  "orginalFilename": "finding aid_whitney museum"
+}

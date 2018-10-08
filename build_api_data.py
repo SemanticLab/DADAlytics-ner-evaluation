@@ -12,6 +12,9 @@ def chunks(l, n):
 tools = ["spotlight","stanford","nltk","spacy","opener","parsey"]
 
 for directory in glob.glob('data/*'):
+
+	if directory != 'data/whitney_finding_aid':
+		continue
 	print('Working ', directory)
 	data_name = directory.replace('data/','')
 

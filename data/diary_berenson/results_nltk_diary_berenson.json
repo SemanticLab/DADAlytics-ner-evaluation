@@ -1,32 +1,4 @@
 {
-  "10": {
-    "text": "10",
-    "type": [
-      "tim"
-    ],
-    "spotlightUri": null,
-    "tool": [
-      "nltk"
-    ],
-    "confidence": 100,
-    "typeMode": [
-      "tim"
-    ]
-  },
-  "18": {
-    "text": "18",
-    "type": [
-      "tim"
-    ],
-    "spotlightUri": null,
-    "tool": [
-      "nltk"
-    ],
-    "confidence": 100,
-    "typeMode": [
-      "tim"
-    ]
-  },
   "Diaries of Mary Berenson": {
     "text": "Diaries of Mary Berenson",
     "type": [
@@ -100,7 +72,6 @@
   "America": {
     "text": "America",
     "type": [
-      "org",
       "org"
     ],
     "spotlightUri": null,
@@ -109,12 +80,11 @@
     ],
     "confidence": 100,
     "typeMode": [
-      "org",
-      "loc"
+      "org"
     ]
   },
-  "September 1903 R.": {
-    "text": "September 1903 R.",
+  "September 1903 ``": {
+    "text": "September 1903 ``",
     "type": [
       "tim"
     ],
@@ -127,8 +97,36 @@
       "tim"
     ]
   },
-  "M. S. Majestic": {
-    "text": "M. S. Majestic",
+  "10": {
+    "text": "10",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "18": {
+    "text": "18",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
+    ]
+  },
+  "R. M. S. Majestic": {
+    "text": "R. M. S. Majestic",
     "type": [
       "per"
     ],
@@ -285,8 +283,6 @@
   "Reef": {
     "text": "Reef",
     "type": [
-      "org",
-      "org",
       "org"
     ],
     "spotlightUri": null,
@@ -301,8 +297,6 @@
   "Newport": {
     "text": "Newport",
     "type": [
-      "org",
-      "org",
       "org"
     ],
     "spotlightUri": null,
@@ -343,8 +337,8 @@
       "tim"
     ]
   },
-  "Oct. 8": {
-    "text": "Oct. 8",
+  "Oct. 8 , 1903": {
+    "text": "Oct. 8 , 1903",
     "type": [
       "tim"
     ],
@@ -472,7 +466,6 @@
   "Mr. Davis": {
     "text": "Mr. Davis",
     "type": [
-      "per",
       "per"
     ],
     "spotlightUri": null,
@@ -502,8 +495,7 @@
     "text": "Davis",
     "type": [
       "org",
-      "org",
-      "loc"
+      "org"
     ],
     "spotlightUri": null,
     "tool": [
@@ -852,6 +844,20 @@
       "loc"
     ]
   },
+  "America.": {
+    "text": "America.",
+    "type": [
+      "loc"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "loc"
+    ]
+  },
   "Sunday": {
     "text": "Sunday",
     "type": [
@@ -905,7 +911,8 @@
     ],
     "confidence": 100,
     "typeMode": [
-      "misc"
+      "misc",
+      "org"
     ]
   },
   "Drawing Room": {
@@ -953,8 +960,6 @@
   "Boston": {
     "text": "Boston",
     "type": [
-      "loc",
-      "loc",
       "loc"
     ],
     "spotlightUri": null,
@@ -1137,10 +1142,6 @@
   "Grampian Way": {
     "text": "Grampian Way",
     "type": [
-      "misc",
-      "misc",
-      "misc",
-      "misc",
       "misc"
     ],
     "spotlightUri": null,
@@ -1155,11 +1156,7 @@
   "Dorchester": {
     "text": "Dorchester",
     "type": [
-      "misc",
-      "per",
-      "misc",
-      "misc",
-      "org"
+      "misc"
     ],
     "spotlightUri": null,
     "tool": [
@@ -1167,7 +1164,8 @@
     ],
     "confidence": 100,
     "typeMode": [
-      "misc"
+      "misc",
+      "org"
     ]
   },
   "Monday": {
@@ -1548,29 +1546,11 @@
       "per"
     ]
   },
-  "20": {
-    "text": "20",
-    "type": [
-      "tim"
-    ],
-    "spotlightUri": null,
-    "tool": [
-      "nltk"
-    ],
-    "confidence": 100,
-    "typeMode": [
-      "tim"
-    ]
-  },
   "Green Hill": {
     "text": "Green Hill",
     "type": [
       "per",
-      "loc",
-      "per",
-      "per",
-      "per",
-      "per"
+      "loc"
     ],
     "spotlightUri": null,
     "tool": [
@@ -1585,11 +1565,7 @@
     "text": "Brookline",
     "type": [
       "per",
-      "loc",
-      "misc",
-      "per",
-      "org",
-      "per"
+      "loc"
     ],
     "spotlightUri": null,
     "tool": [
@@ -1597,7 +1573,9 @@
     ],
     "confidence": 100,
     "typeMode": [
-      "per"
+      "per",
+      "misc",
+      "org"
     ]
   },
   "6 Saturday": {
@@ -1645,10 +1623,6 @@
   "Mrs. Gardner": {
     "text": "Mrs. Gardner",
     "type": [
-      "per",
-      "per",
-      "per",
-      "per",
       "per",
       "per"
     ],
@@ -2016,8 +1990,7 @@
   "Ellen Hale": {
     "text": "Ellen Hale",
     "type": [
-      "per",
-      "org"
+      "per"
     ],
     "spotlightUri": null,
     "tool": [
@@ -2025,7 +1998,8 @@
     ],
     "confidence": 100,
     "typeMode": [
-      "per"
+      "per",
+      "org"
     ]
   },
   "Edward Everett Hale": {
@@ -2054,6 +2028,20 @@
     "confidence": 100,
     "typeMode": [
       "per"
+    ]
+  },
+  "20": {
+    "text": "20",
+    "type": [
+      "tim"
+    ],
+    "spotlightUri": null,
+    "tool": [
+      "nltk"
+    ],
+    "confidence": 100,
+    "typeMode": [
+      "tim"
     ]
   },
   "Clayton Johns": {
