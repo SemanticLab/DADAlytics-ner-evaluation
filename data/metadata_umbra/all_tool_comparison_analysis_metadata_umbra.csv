@@ -1,0 +1,7 @@
+, URL to Results CSV ,"Precision A: ""Correct"" = All Matches","Precision B: ""Correct"" = Exact Matches","Precision C: ""Correct"" = Exact Matches with Type Matches","Recall A: Correct"" = All Matches","Recall B: ""Correct"" = Exact Matches","Recall C: ""Correct"" = Exact Matches with Type Matches"
+nltk results,https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/metadata_umbra/comparison_nltk_metadata_umbra.csv ,100.00%,81.13%,43.40%,50.00%,40.57%,21.70%
+opener results,https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/metadata_umbra/comparison_opener_metadata_umbra.csv ,100.00%,97.73%,59.09%,41.51%,40.57%,24.53%
+parsey results,https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/metadata_umbra/comparison_parsey_metadata_umbra.csv ,100.00%,96.67%,0.00%,28.30%,27.36%,0.00%
+spacy results,https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/metadata_umbra/comparison_spacy_metadata_umbra.csv ,100.00%,68.83%,41.56%,72.64%,50.00%,30.19%
+spotlight results,https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/metadata_umbra/comparison_spotlight_metadata_umbra.csv ,100.00%,95.00%,65.00%,18.87%,17.92%,12.26%
+stanford results,https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/metadata_umbra/comparison_stanford_metadata_umbra.csv ,100.00%,90.63%,62.50%,60.38%,54.72%,37.74%
