@@ -15,4 +15,4 @@ Precison / Recall **Level C**: Where "Correct" = Only Exact Matches with Correct
 [Recall B](https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/diary_berenson/dada-berenson/recall-b.csv) Calculation = Exact Entities ÷ All Marked-Up Entities<br/>
 [Recall C](https://github.com/SemanticLab/DADAlytics-ner-evaluation/blob/master/data/diary_berenson/dada-berenson/recall-c.csv) Calculation = Exact Entities with Correct Type Match ÷ All Marked-Up Entities 
 
-## Link to [Visualization](http://sarahannadams.wixsite.com/s-a-a/dada-berenson) of Precision / Recall Calculations
+## Link to [Charts](http://sarahannadams.wixsite.com/s-a-a/dada-berenson) of Precision / Recall Calculations
