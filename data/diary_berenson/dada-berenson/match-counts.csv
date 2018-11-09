@@ -1,25 +1,25 @@
 ,NLTK,OPENER,PARSEY,SPACY,SPOTLIGHT,STANFORD
-Matched Date Entities,162,0,137,35,7,72
-Exact Matched w/ Correct Type Matched Date Entities,0,0,0,13,0,9
-Exact Matched Date Entities,1,0,0,24,5,9
-Total Marked-Up Date Entities,169,169,169,169,169,169
-Matched Location Entities,228,192,206,209,123,174
-Exact Matched w/ Correct Type Matched Location Entities,139,133,0,96,49,83
-Exact Matched Location Entities,181,152,154,143,98,131
-Total Marked-Up Location Entities,686,686,686,686,686,686
-Matched Miscellaneous Entities,79,82,51,92,35,62
-Exact Matched w/ Correct Type Matched Miscellaneous Entities,3,6,0,3,2,0
-Exact Matched Miscellaneous Entities,7,9,7,28,7,18
-Total Marked-Up Miscellaneous Entities,375,375,375,375,375,375
-Matched Organization Entities,12,9,10,14,9,15
-Exact Matched w/ Correct Type Matched Organization Entities,1,0,0,1,1,0
-Exact Matched Organization Entities,3,3,3,8,3,5
-Total Marked-Up Organization Entities,82,82,82,82,82,82
-Matched Person Entities,707,647,308,507,122,453
-Exact Matched w/ Correct Type Matched Person Entities,119,129,0,102,13,114
-Exact Matched Person Entities,275,278,182,261,57,202
-Total Marked-Up Person Entities,1961,1961,1961,1961,1961,1961
-Matched All Entities,1188,930,712,895,307,812
-Exact Matched All Entities,467,442,346,483,176,380
-Exact Matched w/ Correct Type Matched All Entities,262,268,0,215,65,206
-Total Marked-Up Entities,3273,3273,3273,3273,3273,3273
+date - matched,162,0,137,35,7,72
+date - exact matched,1,0,0,24,5,9
+date - exact + type matched,0,0,0,13,0,9
+date - total,169,169,169,169,169,169
+loc - matched,228,192,206,209,123,174
+loc - exact matched,181,152,154,143,98,131
+loc - exact + type matched,139,133,0,96,49,83
+loc - total,686,686,686,686,686,686
+misc - matched,79,82,51,92,35,62
+misc - exact matched,7,9,7,28,7,18
+misc - exact + type matched,3,6,0,3,2,0
+misc - total,375,375,375,375,375,375
+org - matched,12,9,10,14,9,15
+org - exact matched,3,3,3,8,3,5
+org - exact + type matched,1,0,0,1,1,0
+org - total,82,82,82,82,82,82
+per - matched,707,647,308,507,122,453
+per - exact matched,275,278,182,261,57,202
+per - exact + type matched,119,129,0,102,13,114
+per - total,1961,1961,1961,1961,1961,1961
+all entities - matched,1188,930,712,895,307,812
+all entities - exact matched,467,442,346,483,176,380
+all entities - exact + type matched,262,268,0,215,65,206
+all entities - total,3273,3273,3273,3273,3273,3273
