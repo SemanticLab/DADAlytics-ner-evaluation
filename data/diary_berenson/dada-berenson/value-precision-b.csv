@@ -1,7 +1,0 @@
-,NLTK,OPENER,PARSEY,SPACY,SPOTLIGHT,STANFORD
-Date Entities,0.62%,0.00%,0.00%,68.57%,71.43%,12.50%
-Location Entities,79.39%,79.17%,74.76%,68.42%,79.67%,75.29%
-Miscellaneous Entities,8.86%,10.98%,13.73%,30.43%,20.00%,29.03%
-Organization Entities,25.00%,33.33%,30.00%,57.14%,33.33%,33.33%
-Person Entities,38.90%,42.97%,59.09%,51.48%,46.72%,44.59%
-All Entities,39.31%,47.53%,48.60%,53.97%,57.33%,46.80%
